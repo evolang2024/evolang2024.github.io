@@ -1,0 +1,39 @@
+<section id="about-section" class="about-section section theme-bg-light">
+    <div class="container">
+        <h3 class="section-heading text-center mb-3">{{include.header}}</h3>
+        <div class="section-intro single-col-max mx-auto mb-4">{{include.subheader}}</div>
+        <div class="benefits-list text-center mb-3">
+            <h4 class="text-center mb-4">{{include.req_header}}</h4>
+            <ul class="list-unstyled text-start d-inline-block">
+                {% for req in include.requirements %}
+                    <li><i class="fas fa-check-circle me-2"></i>{{ req.body }} </li>
+               {% endfor %}
+            </ul>
+        </div><!--//benefits-list-->
+        <div class="event-countdown text-center mb-3">		   
+            <h4 class="countdown-intro mb-2 text-center mb-3">Abstract Submission Deadline:</h4>
+            <div id="countdown-box" class="countdown-box"></div>
+        </div><!--//event-countdown-->
+        <div class="about-cta text-center mb-5"><a class="btn btn-secondary btn-lg  mb-5" href="https://openreview.net/group?id=EVOLANG.org/2024/Conference" target="_blank">Submit Your Abstract / Workshop Proposal</a></div>
+    </div><!--//container-->
+
+    <div class="media-block theme-bg-primary py-5">
+        <div class="container">
+            <h4 class="text-white text-center mb-3">{{include.subheader_2}}</h4>
+            <div class="section-intro text-center single-col-max mx-auto text-white mb-5">{{include.body_2}}</div>
+            <div class="row gx-md-5">
+                <!-- <div class="col-12 col-md-6 mb-3">
+                    <div class="ratio ratio-16x9">
+                        
+                        <iframe src="https://www.youtube.com/embed/stjniziaxy4" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 mb-md-5">
+                    <div class="ratio ratio-16x9">
+                        <iframe src="https://www.youtube.com/embed/NPYqnGNO_zw" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div> -->
+            </div>
+        </div><!--//container-->
+    </div><!--//media-block-->
+</section><!--//about-section-->
