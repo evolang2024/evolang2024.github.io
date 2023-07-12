@@ -1,0 +1,11 @@
+<section id="sponsors-section" class="sponsors-section section">
+    <div class="container">
+        <h3 class="section-heading text-center mb-3">{{include.header}}</h3>
+        <div class="section-intro text-center single-col-max mx-auto mb-5">{{include.subheader}}</div>
+        <div class="row logos justify-content-center">
+        {{for logo in include.logos}}
+            <div class="logo-item col-6 col-md-4 col-lg-2"><img src="{{logo}}" alt=""></div>
+        </div><!--//row-->
+        <div class="sponsors-cta text-center pt-5"><a class="btn-primary btn btn-lg" href={{include.button_href}}>{{include.button}}</a></div>
+    </div><!--//container-->
+</section><!--//sponsors-section-->

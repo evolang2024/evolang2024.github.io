@@ -1,0 +1,39 @@
+<section id="tickets-section" class="tickets-section section theme-bg-light">
+    <div class="container">
+        <h3 class="section-heading text-center mb-3">{{include.header}}</h3>
+        <div class="section-intro single-col-max mx-auto text-center mb-4">{{include.subtitle}}</div>
+        
+        <div class="row pricing mb-5">
+            {% for modal in include.modals %}
+                <div class="col-12 col-md-4 p-2 p-lg-4">
+                    <div class="card rounded-0 border-0">
+                        <div class="card-body p-0">
+                            <div class="heading  text-center p-3">
+                                <h4 class="text-white mb-0">{{modal.header}}</h4>
+                            </div>
+                            <div class="info p-3">
+                                <div class="price-figure text-center mb-3">{{modal.main}}</div>
+                                <div class="desc px-3">
+                                    {{modal.body}}
+                                </div>
+                            </div><!--//info-->
+                        </div><!--//card-body-->
+                        <div class="card-footer text-center">
+                            <a href={{modal.button_href}} class="btn btn-primary">{{modal.button}}</a>
+                        </div>
+                    </div><!--//card-->
+                </div><!--//col-->
+            {% endfor %}
+        </div><!--//pricing-->
+        
+        <div class="offers text-center bg-white p-4 p-lg-5">
+            <h4 class="mb-3">What's included?</h4>
+            <ul class="offers-list list-unstyled d-inline-block mx-auto text-start">
+            {% for icon in include.iconlist %}
+                <li><span class="icon-holder {{icon.fa-icon}}"><i class="fas fa-user-tie"></i></span> {{icon.text}}</li>
+            {% endfor %}
+            </ul><!--offers-list-->
+        </div><!--//offers-->
+
+    </div><!--//container-->
+</section><!--//tickets-section-->

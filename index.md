@@ -55,6 +55,10 @@ speakers:
     cta: Get Tickets
     cta_href: "#"
 schedule:
+    button_1: Download Schedule
+    button_1_href: "#"
+    button_2: Buy Tickets
+    button_2_href: "#"    
     days:
         - name: Day 1
           subheader: (Wed 18, May)
@@ -71,70 +75,10 @@ schedule:
               speaker: Person 1
               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         - name: Day 2
           subheader: (Thurs 19, May)
           events:
-            - title: Sample Event Title Number 1
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
+            - title: Sample Event Title Number 12
               location: Conference Room A
               time: 9:00-9:30
               speaker: Person 1
@@ -185,30 +129,90 @@ schedule:
               speaker: Person 1
               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+tickets:
+    header: Tickets
+    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    modals:
+        - header: Lorem Ipsum Ipsum Dolor
+          main: Lorem Ipsum
+          body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+          button: Click Here
+          button_href: "#"
+        - header: Lorem Ipsum Ipsum Dolor
+          main: Lorem Ipsum
+          body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+          button: Click Here
+          button_href: "#"
+        - header: Lorem Ipsum Ipsum Dolor
+          main: Lorem Ipsum
+          body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+          button: Click Here
+          button_href: "#"
+    iconlist:
+        - text: Lorem ipsum dolor sit amet, consectetur
+          fa-icon: fa-user-tie
+        - text: Lorem ipsum dolor sit amet, consectetur
+          fa-icon: fa-user-tie
+        - text: Lorem ipsum dolor sit amet, consectetur
+          fa-icon: fa-user-tie
+        - text: Lorem ipsum dolor sit amet, consectetur
+          fa-icon: fa-user-ti
+        - text: Lorem ipsum dolor sit amet, consectetur
+          fa-icon: fa-user-tie
+        - text: Lorem ipsum dolor sit amet, consectetur
+          fa-icon: fa-user-tie
+        - text: Lorem ipsum dolor sit amet, consectetur
+          fa-icon: fa-user-tie
+        - text: Lorem ipsum dolor sit amet, consectetur
+          fa-icon: fa-user-tie
+venue:
+    header-1: How to Get Here
+    body-1: Your venue info goes here. Sed feugiat nibh lorem, a laoreet sem aliquet ut. Praesent tincidunt efficitur nisi, ut eleifend diam tempor sit amet. Aliquam volutpat ex feugiat, semper urna a, pharetra lacus. Sed eget eros cursus, consequat lectus ultricies, efficitur metus. Sed sit amet mauris faucibus magna finibus convallis vel quis justo. Curabitur ultricies sagittis erat, quis faucibus lectus tempor vitae. Proin sodales, elit vitae accumsan efficitur, orci quam molestie orci, accumsan tincidunt dui turpis sed libero. Duis id vehicula ex. In quis pellentesque lorem, ut sollicitudin mauris.
+    header-2: Facilities & Accommodations
+    body-2: Your venue info goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat magna eu accumsan mattis. Duis non augue porttitor, fringilla velit vitae, ultricies eros. Sed libero eros, tristique ac orci nec, hendrerit dictum lacus. Aenean iaculis massa felis, eget venenatis turpis lacinia sit amet.
+    button: Button Text
+    button-href: "#"
+    modals:
+        - text: Modal Text 1
+          fa-icon: fa-plane-departure
+          body: Your venue info goes here. Sed feugiat nibh lorem, a laoreet sem aliquet ut. Praesent tincidunt efficitur nisi
+          link: Link to Here &rarr;
+          link-href: "#"
+        - text: Modal Text 2
+          fa-icon: fa-plane-departure
+          body: Your venue info goes here. Sed feugiat nibh lorem, a laoreet sem aliquet ut. Praesent tincidunt efficitur nisi
+          link: Link to Here &rarr;
+          link-href: "#"
+        - text: Modal Text 3
+          fa-icon: fa-plane-departure
+          body: Your venue info goes here. Sed feugiat nibh lorem, a laoreet sem aliquet ut. Praesent tincidunt efficitur nisi
+          link: Link to Here &rarr;
+          link-href: "#"
+        - text: Modal Text 4
+          fa-icon: fa-plane-departure
+          body: Your venue info goes here. Sed feugiat nibh lorem, a laoreet sem aliquet ut. Praesent tincidunt efficitur nisi
+          link: Link to Here &rarr;
+          link-href: "#"
+    image-1-href: "assets/images/venue/venue-1.jpg"
+    image-2-href: "assets/images/venue/venue-2.jpg"
+    image-3-href: "assets/images/venue/venue-3.jpg"
+    image-4-href: "assets/images/venue/venue-4.jpg"
+sponsor:
+    header: Lorem ipsum dolor sit
+    subheader: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    logos:
+        - href: "assets/images/logos/logo-1.svg"
+        - href: assets/images/logos/logo-2.svg
+        - href: assets/images/logos/logo-3.svg
+        - href: assets/images/logos/logo-4.svg
+        - href: assets/images/logos/logo-5.svg
+        - href: assets/images/logos/logo-6.svg
+        - href: assets/images/logos/logo-7.svg
+        - href: assets/images/logos/logo-8.svg
+        - href: assets/images/logos/logo-9.svg
+        - href: assets/images/logos/logo-10.svg
+    button: Call to Action
+    button_href: "#"
 
 ---
 

@@ -1,0 +1,36 @@
+<section id="venue-section" class="venue-section section  theme-bg-primary text-white">
+    <div class="container">
+        <h3 class="section-heading text-center mb-5 text-white">Venue</h3>
+        <div class="row gx-5 py-lg-5">
+            <div class="col-12 col-lg-7 h-100">
+                <div class="desc">
+                    <h4 class="text-white mb-3">{{include.header-1}}</h4>
+                    <p>{{include.body-1}}</p>
+                    
+                    <div class="row pt-3">
+                    {% for modal in include.modals %}
+                        <div class="col-12 col-md-6 mb-4">
+                            <div class="grid-item p-4">
+                                <h5 class="text-white mb-3 title"><i class="fas fa-plane-departure me-2"></i>{{modal.text}}</h5>
+                                <p>{{modal.body}}</p>
+                                <a class="text-white" href={{modal.link-href}}>{{modal.link}}</a>
+                            </div><!--//grid-item-->
+                        </div><!--col-->
+                    {% endfor %}
+                    </div><!--//row-->
+                    <h4 class="text-white mb-4 mt-3 mt-lg-5">{{include.header-2}}</h4>
+                    <p>{{include.body-2}}</p>
+                    <a class="btn btn-ghost" href={{include.button-href}}>{{include.button}}</a>
+                </div><!--//desc-->
+            </div><!--//col-->
+            <div class="col-12 col-xl-3 col-lg-4 offset-lg-1 position-relative h-100 mt-5 mt-lg-0">
+                <div class="figures-holder">
+                    <div class="figure figure-1"><img class="shadow" src={{include.image-1-href}} alt=""></div>
+                    <div class="figure figure-2"><img class="shadow" src={{include.image-2-href}} alt=""></div>
+                    <div class="figure figure-3"><img class="shadow" src={{include.image-3-href}} alt=""></div>
+                    <div class="figure figure-4"><img class="shadow" src={{include.image-4-href}} alt=""></div>
+                </div><!--//figures-holder-->
+            </div><!--//col-->
+        </div><!--//row-->
+    </div><!--//container-->
+</section><!--//venue-section-->
