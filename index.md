@@ -26,25 +26,25 @@ speakers:
     subheader: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     speaker_list:
         - name: Marieke Schouwstra
-          title: Title 1
-          org: UW Madison
-          img_href: "assets/images/speakers/speaker-1.jpg"
+          title:
+          org: University of Amsterdam
+          img_href: "assets/images/speakers/schouwstra.jpg"
         - name: Nick Enfield
-          title: Title 1
-          org: University of Minnesota
-          img_href: "assets/images/speakers/speaker-2.jpg"
+          title:
+          org: University of Sydney
+          img_href: "assets/images/speakers/enfield.jpg"
         - name: Marie Coppola
-          title: Title 1
-          org: Drake University
-          img_href: "assets/images/speakers/speaker-3.jpg"
-        - name: 
-          title: Salikoko Mufwene
-          org: Stanford University
-          img_href: "assets/images/speakers/speaker-4.jpg"
+          title: 
+          org: University of Connecticut
+          img_href: "assets/images/speakers/coppola.jpg"
+        - name: Salikoko Mufwene
+          title:
+          org: University of Chicago
+          img_href: "assets/images/speakers/mufwene.jpg"
         - name: Nicole Creanza
-          title: Title 1
-          org: Princeton University
-          img_href: "assets/images/speakers/speaker-5.jpg"
+          title: 
+          org: Vanderbilt University
+          img_href: "assets/images/speakers/creanza.jpg"
     cta: Get Tickets
     cta_href: "#"
 schedule:
