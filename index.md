@@ -122,6 +122,33 @@ schedule:
               speaker: Person 1
               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        - name: Day 4
+          subheader: (Sat 21, May)
+          events:
+            - title: Sample Event Title Number 1
+              location: Conference Room A
+              time: 9:00-9:30
+              speaker: Person 1
+              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            - title: Sample Event Title Number 2
+              location: Conference Room A
+              time: 9:00-9:30
+              speaker: Person 1
+              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            - title: Sample Event Title Number 2
+              location: Conference Room A
+              time: 9:00-9:30
+              speaker: Person 1
+              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            - title: Sample Event Title Number 2
+              location: Conference Room A
+              time: 9:00-9:30
+              speaker: Person 1
+              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 tickets:
     header: Tickets
     subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -208,5 +235,3 @@ sponsor:
     button_href: "#"
 
 ---
-
-{% include stats.html %}
