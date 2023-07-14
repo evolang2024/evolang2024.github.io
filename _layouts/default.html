@@ -123,15 +123,7 @@
         button_2_href = page.schedule.button_2_href
     %}
     {% endif %}
-	
-    {% if page.tickets %}
-    {% include tickets.html
-        header = page.tickets.header
-        subtitle = page.tickets.subtitle
-        modals = page.tickets.modals
-        iconlist = page.tickets.iconlist
-    %}
-    {% endif %}
+
 	
 	{% if page.venue %}
     {% include venue.html
@@ -148,16 +140,6 @@
         image-4-href = page.venue.image-4-href
     %}
     {% endif %}
-	
-    {% if page.sponsor %}
-    {% include sponsor.html
-        header = page.sponsor.header
-        subheader = page.sponsor.subheader
-        logos = page.sponsor.logos
-        button = page.sponsor.button
-        button_href = page.sponsor.button_href
-    %}
-	{% endif %}
 
 	<footer class="footer py-5 theme-bg-primary">
 		<div class="container text-center">
@@ -230,3 +212,12 @@
 
 </body>
 </html> 
+<style>
+	.hero-text-block{
+		min-width: 86%;
+	}
+
+	.hero-heading {
+		font-size:3.5em!important;
+	}
+</style>

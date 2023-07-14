@@ -22,29 +22,34 @@ about:
     subheader_2: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     body_2: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 speakers:
-    header: Lorem Ipsum
+    header: Plenary Speakers
     subheader: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     speaker_list:
         - name: Marieke Schouwstra
           title:
           org: University of Amsterdam
           img_href: "assets/images/speakers/schouwstra.jpg"
+          website_href: "https://mariekeschouwstra.github.io/"
         - name: Nick Enfield
           title:
           org: University of Sydney
           img_href: "assets/images/speakers/enfield.jpg"
+          website_href: "https://nickenfield.org/"
         - name: Marie Coppola
           title: 
           org: University of Connecticut
           img_href: "assets/images/speakers/coppola.jpg"
+          website_href: "https://psychology.uconn.edu/person/marie-coppola/"
         - name: Salikoko Mufwene
           title:
           org: University of Chicago
           img_href: "assets/images/speakers/mufwene.jpg"
+          website_href: "https://mufwene.uchicago.edu/"
         - name: Nicole Creanza
           title: 
           org: Vanderbilt University
           img_href: "assets/images/speakers/creanza.jpg"
+          website_href: "http://nicolecreanza.com/"
     cta: Get Tickets
     cta_href: "#"
 schedule:
