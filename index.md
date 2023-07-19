@@ -3,7 +3,6 @@ title: International Conference on the Evolution of Language (Evolang) 2024
 layout: default
 location: Madison, WI   
 date: May 18-21
-proposal_link: "#"
 pages:
 # stats:
 #     attendees: "250+"
@@ -11,19 +10,27 @@ pages:
 #     talks: "60+"
 #     workshops: "10+"
 about:
-    header: Lorem Ipsum Test
-    subheader: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    req_header: Proposal Requirements
-    requirements:
-        - body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        - body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        - body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        - body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-    subheader_2: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    body_2: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    
+    header: Conference Details
+    
+    subheader: EVOLANG is the largest international meeting for researchers working on the origins and evolution of language. The conference is highly interdisciplinary, with contributions from disciplines including, but not limited to: anthropology, archeology, artificial life, biology, cognitive science, genetics, linguistics, modeling, paleontology, physiology, primatology, and psychology. Typically, about 300 delegates attend, with representatives from all these disciplines. 
+    
+# req_header: 
+    
+#   requirements:
+#    - body: There are two possible types of submissions
+#    - body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+#    - body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+#    - body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+    
+    subheader_2: Submission Requirements
+    
+    body_2: There are two types of submissions: (a) **Full papers**, (between 6 and 8 pages); and (b) **Abstracts** (up to 2 pages). Both full papers and abstracts will be considered for both podium presentation (15 min talk + 5 min Q&A) and for poster presentation. Submissions are limited to one first-authored podium presentation and one first-authored poster per person. There is no limit on non-first-authored submissions. When submitting, please indicate whether you prefer to be considered for inclusion as a talk, as a poster, or as either of the two, as well as whether you are currently planning to present your work on-site or online. (We are aware that this is a preliminary decision subject to change.) 
+
 speakers:
+
     header: Plenary Speakers
-    subheader: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
     speaker_list:
         - name: Marieke Schouwstra
           title:
