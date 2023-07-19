@@ -52,108 +52,108 @@ speakers:
           website_href: "http://nicolecreanza.com/"
     cta: Get Tickets
     cta_href: "#"
-schedule:
-    button_1: Download Schedule
-    button_1_href: "#"
-    button_2: Buy Tickets
-    button_2_href: "#"    
-    days:
-        - name: Day 1
-          subheader: (Wed 18, May)
-          events:
-            - title: Sample Event Title Number 1
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        - name: Day 2
-          subheader: (Thurs 19, May)
-          events:
-            - title: Sample Event Title Number 12
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        - name: Day 3
-          subheader: (Fri 20, May)
-          events:
-            - title: Sample Event Title Number 1
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        - name: Day 4
-          subheader: (Sat 21, May)
-          events:
-            - title: Sample Event Title Number 1
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            - title: Sample Event Title Number 2
-              location: Conference Room A
-              time: 9:00-9:30
-              speaker: Person 1
-              speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-              description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# schedule:
+#     button_1: Download Schedule
+#     button_1_href: "#"
+#     button_2: Buy Tickets
+#     button_2_href: "#"    
+#     days:
+#         - name: Day 1
+#           subheader: (Wed 18, May)
+#           events:
+#             - title: Sample Event Title Number 1
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#             - title: Sample Event Title Number 2
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#         - name: Day 2
+#           subheader: (Thurs 19, May)
+#           events:
+#             - title: Sample Event Title Number 12
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#             - title: Sample Event Title Number 2
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#             - title: Sample Event Title Number 2
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#             - title: Sample Event Title Number 2
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#         - name: Day 3
+#           subheader: (Fri 20, May)
+#           events:
+#             - title: Sample Event Title Number 1
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#             - title: Sample Event Title Number 2
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#             - title: Sample Event Title Number 2
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#             - title: Sample Event Title Number 2
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#         - name: Day 4
+#           subheader: (Sat 21, May)
+#           events:
+#             - title: Sample Event Title Number 1
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#             - title: Sample Event Title Number 2
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#             - title: Sample Event Title Number 2
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#             - title: Sample Event Title Number 2
+#               location: Conference Room A
+#               time: 9:00-9:30
+#               speaker: Person 1
+#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
+#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 tickets:
     header: Tickets
     subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
