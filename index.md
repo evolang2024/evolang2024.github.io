@@ -51,6 +51,15 @@ speakers:
           org: Vanderbilt University
           img_href: "assets/images/speakers/creanza.jpg"
           website_href: "http://nicolecreanza.com/"
+
+organizers:
+    header: Organizers
+    orgnizers_list:
+        - name: Gary Lupyan
+          org: University of Wisconsin-Madison
+        - name: Robert Hawking
+          org: University of Wisconsin-Madison
+
 # schedule:
 #     button_1: Download Schedule
 #     button_1_href: "#"
