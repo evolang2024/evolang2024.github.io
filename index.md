@@ -155,7 +155,7 @@ speakers:
 #               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 venue:
     header-1: How to Get Here
-    body-1: The UW–Madison campus is about 80 miles from Milwaukee, 150 miles from Chicago, and 270 miles from Minneapolis. 
+    body-1: Madison (pop. ~272k) is the capital of Wisconsin and the home of University of Wisconsin's flagship campus. The conference will be held at the Monona Terrace (designed based n Frank Lloyd Wright's plans) on the shores of Lake Monona. 
     header-2: Facilities & Accommodations
     body-2: We hope you enjoy the vibrant city of Madison. We invite you to take 
             advantage of this time away from your daily lives to catch up on the latest
@@ -170,33 +170,38 @@ venue:
     modals:
         - text: Fly into Madison
           fa-icon: fa-plane-departure
-          body: We recommend flying into Dane County Regional Airport, located just 10 minutes from campus, which offers flights from a number of national carriers with nonstop flights to and from many key destinations across the country.
-          link: Link
+          body: We recommend flying into Dane County Regional Airport (MSN) which has nonstop flights to many major cities around the country and has the benefit of being just 10 minutes from downtown Madison.
+          link: MSN &rarr;
           link-href: "https://www.msnairport.com/"
-        - text: Drive from Chicago
+        - text: Fly to Milwaukee 
           fa-icon: fa-plane-departure
-          body: A secondary option is to fly into Chicago O'Hare and take a bus or rent a car to drive up to Madison (approx. 2.5hrs). 
+          body: Another option is to fly to Milwaukee (MKE), a slightly larger airport, about 80 miles East of Madison. Milwaukee has more flights and depending on your origin may be cheaper. There's a [direct bus](https://badgerbus.com/tickets/) from MKE to Madison, but make sure to check the bus schedule first.
+          link: MKE &rarr;
+          link-href: "https://www.mitchellairport.com/"
+        - text: Fly to Chicago
+          fa-icon: fa-plane-departure
+          body: Another option (which may make sense if you're traveling internationally) is to fly to Chicago's O'Hare airport (about 130 miles Southeast of Madison) and [take a bus](https://web.coachusa.com/vangalder/ss.details.asp?action=Lookup&c1=Madison&s1=WI&c2=Chicago+Downtown&s2=IL&resultId=183010&order=&dayFilter=&scheduleChoice=&nt=&sitePageName=&cbid=542538350578) to Madison (~3hrs, but can be faster than connecting to a flight to Madison). 
           link: Link to Here &rarr;
           link-href: "#"
     image-1-href: "assets/images/venue/venue-1.jpg"
     image-2-href: "assets/images/venue/venue-2.jpg"
     image-3-href: "assets/images/venue/venue-3.jpg"
     image-4-href: "assets/images/venue/venue-4.jpg"
-sponsor:
-    header: Lorem ipsum dolor sit
-    subheader: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    logos:
-        - href: "assets/images/logos/logo-1.svg"
-        - href: assets/images/logos/logo-2.svg
-        - href: assets/images/logos/logo-3.svg
-        - href: assets/images/logos/logo-4.svg
-        - href: assets/images/logos/logo-5.svg
-        - href: assets/images/logos/logo-6.svg
-        - href: assets/images/logos/logo-7.svg
-        - href: assets/images/logos/logo-8.svg
-        - href: assets/images/logos/logo-9.svg
-        - href: assets/images/logos/logo-10.svg
-    button: Call to Action
-    button_href: "#"
+# sponsor:
+#     header: Lorem ipsum dolor sit
+#     subheader: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#     logos:
+#         - href: "assets/images/logos/logo-1.svg"
+#         - href: assets/images/logos/logo-2.svg
+#         - href: assets/images/logos/logo-3.svg
+#         - href: assets/images/logos/logo-4.svg
+#         - href: assets/images/logos/logo-5.svg
+#         - href: assets/images/logos/logo-6.svg
+#         - href: assets/images/logos/logo-7.svg
+#         - href: assets/images/logos/logo-8.svg
+#         - href: assets/images/logos/logo-9.svg
+#         - href: assets/images/logos/logo-10.svg
+#     button: Call to Action
+#     button_href: "#"
 
 ---
