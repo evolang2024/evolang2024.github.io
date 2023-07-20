@@ -175,9 +175,11 @@ venue:
           link-href: "https://www.msnairport.com/"
         - text: Fly to Milwaukee 
           fa-icon: fa-plane-departure
-          body: Another option is to fly to Milwaukee (MKE), a slightly larger airport, about 80 miles East of Madison. Milwaukee has more flights and depending on your origin may be cheaper. There's a [direct bus](https://badgerbus.com/tickets/) from MKE to Madison, but make sure to check the bus schedule first.
+          body: Another option is to fly to Milwaukee (MKE), a slightly larger airport, about 80 miles East of Madison. Milwaukee has more flights and depending on your origin may be cheaper. There's a direct bus from MKE to Madison, but make sure to check the bus schedule first.
           link: MKE &rarr;
           link-href: "https://www.mitchellairport.com/"
+          link: Bus Info &rarr;
+          link-href: "https://badgerbus.com/tickets/"
         - text: Fly to Chicago
           fa-icon: fa-plane-departure
           body: Another option (which may make sense if you're traveling internationally) is to fly to Chicago's O'Hare airport (about 130 miles Southeast of Madison) and [take a bus](https://web.coachusa.com/vangalder/ss.details.asp?action=Lookup&c1=Madison&s1=WI&c2=Chicago+Downtown&s2=IL&resultId=183010&order=&dayFilter=&scheduleChoice=&nt=&sitePageName=&cbid=542538350578) to Madison (~3hrs, but can be faster than connecting to a flight to Madison). 
