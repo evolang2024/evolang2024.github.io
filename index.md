@@ -54,7 +54,7 @@ speakers:
 
 organizers:
     header: Organizers
-    orgnizers_list:
+    organizers_list:
         - name: Gary Lupyan
           org: University of Wisconsin-Madison
         - name: Robert Hawking
