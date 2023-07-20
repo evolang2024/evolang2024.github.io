@@ -162,8 +162,8 @@ venue:
             developments in the field and to deepen your appreciation of the amazing
             research being done in the language evolution community. We also invite you to
             consider how our work may be a force for positive change back in the real world.
-            We hope you will take us up on these invitations: in the conference hall,
-            at the Union Terrace, at the Saturday farmer’s market on the capitol square, and
+            We hope you will take us up on these invitations--in the conference hall,
+            at the lively Union Terrace, at the Saturday farmer’s market on the Capitol Square, and
             at the many fine eating and drinking establishments nearby.
     button: Learn more!
     button-href: "https://isthmus.com/search/location/local-dining/#mz_id=5&ql_id=1&letter_filter=all&ord=last_modified&page=1"
