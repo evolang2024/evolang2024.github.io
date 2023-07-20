@@ -1,0 +1,20 @@
+<section id="speakers-section" class="speakers-section section">
+    <div class="container">
+        <h3 class="section-heading text-center mb-3">{{include.header}}</h3>
+        <div class="section-intro text-center single-col-max mx-auto mb-5">{{include.subheader}}</div>
+        <div class="row" style="display: flex; justify-content: center;">
+            {% for speaker in include.speaker_list %}
+            <div class="col-6 col-lg-2 mb-4" >
+                <div class="card rounded-0">
+                    <a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img src={{speaker.img_href}} class="card-img-top rounded-0" alt=""></a>
+                    <div class="card-body">
+                        <h5 class="card-title mb-2">{{ speaker.name}} </h5>
+                    </div><!--//card-->
+                    <div class="card-footer text-muted">
+                    </div>
+                </div><!--//card-->
+            </div><!--//col-->
+            {% endfor %}
+        </div><!--//row-->
+    
+</section><!--//speakers-section-->
