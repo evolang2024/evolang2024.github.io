@@ -55,7 +55,7 @@ speakers:
 organizers:
     header: Organizers
     organizers_list:
-        - name: Gary Lupyan (Local orgnizer)
+        - name: Gary Lupyan (Local organizer)
           org: University of Wisconsin-Madison
         - name: Robert Hawking (Liaison to Scientific Committee)
           org: University of Wisconsin-Madison
