@@ -182,7 +182,7 @@ venue:
           link-href: "https://badgerbus.com/tickets/"
         - text: Fly to Chicago
           fa-icon: fa-plane-departure
-          body: Another option (which may make sense if you're traveling internationally) is to fly to Chicago's O'Hare airport (about 130 miles Southeast of Madison) and [take a bus](https://web.coachusa.com/vangalder/ss.details.asp?action=Lookup&c1=Madison&s1=WI&c2=Chicago+Downtown&s2=IL&resultId=183010&order=&dayFilter=&scheduleChoice=&nt=&sitePageName=&cbid=542538350578) to Madison (~3hrs, but can be faster than connecting to a flight to Madison). 
+          body: Another option (which may make sense if you're traveling internationally) is to fly to Chicago's O'Hare airport (about 130 miles Southeast of Madison) and <A HREF="https://web.coachusa.com/vangalder/ss.details.asp?action=Lookup&c1=Madison&s1=WI&c2=Chicago+Downtown&s2=IL">take a bus</A> to Madison (~3hrs, but can be faster than connecting to a flight to Madison). 
           link: Link to Here &rarr;
           link-href: "#"
     image-1-href: "assets/images/venue/venue-1.jpg"
