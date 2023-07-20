@@ -176,8 +176,6 @@ venue:
         - text: Fly to Milwaukee 
           fa-icon: fa-plane-departure
           body: Another option is to fly to Milwaukee (MKE), a slightly larger airport, about 80 miles East of Madison. Milwaukee has more flights and depending on your origin may be cheaper. There's a direct bus from MKE to Madison, but make sure to check the bus schedule first.
-          link: MKE &rarr;
-          link-href: "https://www.mitchellairport.com/"
           link: Bus Info &rarr;
           link-href: "https://badgerbus.com/tickets/"
         - text: Fly to Chicago
