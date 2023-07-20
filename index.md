@@ -155,7 +155,7 @@ speakers:
 #               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 venue:
     header-1: How to Get Here
-    body-1: Madison (pop. ~272k) is the capital of Wisconsin and the home of University of Wisconsin's flagship campus. The conference will be held at the Monona Terrace (designed based n Frank Lloyd Wright's plans) on the shores of Lake Monona. 
+    body-1: Madison (pop. ~272k) is the capital of Wisconsin and the home of University of Wisconsin's flagship campus. The conference will be held at the Monona Terrace--a beautiful conference venue designed by Frank Lloyd Wright on the shores of Lake Monona. 
     header-2: Facilities & Accommodations
     body-2: We hope you enjoy the vibrant city of Madison. We invite you to take 
             advantage of this time away from your daily lives to catch up on the latest
@@ -168,25 +168,25 @@ venue:
     button: Learn more!
     button-href: "https://isthmus.com/search/location/local-dining/#mz_id=5&ql_id=1&letter_filter=all&ord=last_modified&page=1"
     modals:
-        - text: Fly into Madison
+        - text: Fly to Madison
           fa-icon: fa-plane-departure
-          body: We recommend flying into Dane County Regional Airport (MSN) which has nonstop flights to many major cities around the country and has the benefit of being just 10 minutes from downtown Madison.
+          body: We recommend flying into Dane County Regional Airport (MSN) which has nonstop flights to many major cities around the country and has the benefit of being just 10 minutes from downtown Madison. From MSN, you can get to downtown using a taxi, Uber, or Lyft.
           link: MSN &rarr;
           link-href: "https://www.msnairport.com/"
         - text: Fly to Milwaukee 
           fa-icon: fa-plane-departure
           body: Another option is to fly to Milwaukee (MKE), a slightly larger airport, about 80 miles East of Madison. Milwaukee has more flights and depending on your origin may be cheaper. There's a direct bus from MKE to Madison, but make sure to check the bus schedule first.
-          link: Bus Info &rarr;
+          link: Bus Info &rarr 🚌;
           link-href: "https://badgerbus.com/tickets/"
         - text: Fly to Chicago
           fa-icon: fa-plane-departure
-          body: Another option (which may make sense if you're traveling internationally) is to fly to Chicago's O'Hare airport (about 130 miles Southeast of Madison) and <A HREF="https://web.coachusa.com/vangalder/ss.details.asp?action=Lookup&c1=Madison&s1=WI&c2=Chicago+Downtown&s2=IL">take a bus</A> to Madison (~3hrs, but can be faster than connecting to a flight to Madison). 
-          link: Link to Here &rarr;
-          link-href: "#"
-    image-1-href: "assets/images/venue/venue-1.jpg"
-    image-2-href: "assets/images/venue/venue-2.jpg"
-    image-3-href: "assets/images/venue/venue-3.jpg"
-    image-4-href: "assets/images/venue/venue-4.jpg"
+          body: Another option which may make sense if you're traveling internationally is to fly to Chicago's O'Hare airport (ORD, about 130 miles Southeast of Madison) and take a bus to Madison (~3hrs, but can be faster than connecting to a flight to Madison). 
+          link: Bus Info &rarr 🚌;
+          link-href: "https://web.coachusa.com/vangalder/ss.details.asp?action=Lookup&c1=Madison&s1=WI&c2=Chicago+Downtown&s2=IL"
+    image-1-href: "assets/images/venue/monona_center.jpg"
+    image-2-href: "assets/images/venue/capitol.jpg"
+    image-3-href: "assets/images/venue/farmer_market.jpg"
+    image-4-href: "assets/images/venue/union_terrace.jpg"
 # sponsor:
 #     header: Lorem ipsum dolor sit
 #     subheader: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
