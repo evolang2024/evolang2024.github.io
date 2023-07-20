@@ -39,8 +39,8 @@
 							
 							<li class="nav-item"><a class="nav-link scrollto" href="#about-section">About</a></li>                                              
 							<li class="nav-item"><a class="nav-link scrollto" href="#speakers-section">Speakers</a></li>
-							<li class="nav-item"><a class="nav-link scrollto" href="#schedule-section">Schedule</a></li>
-<!-- 							<li class="nav-item"><a class="nav-link scrollto" href="#tickets-section">Tickets</a></li>-->
+							<li class="nav-item"><a class="nav-link scrollto" href="#org-com">Organizers</a></li>
+							<!-- <li class="nav-item"><a class="nav-link scrollto" href="#schedule-section">Schedule</a></li> -->
 							<li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Venue</a></li> 
 							<li class="nav-item"><a class="nav-link scrollto" href="#sponsors-section">Sponsors</a></li>
 						</ul><!--//nav-->
@@ -93,6 +93,15 @@
         body_2 = page.about.body_2
     %}
     {% endif %}
+
+    {% if page.organizers %}
+    {% include orgnizers.html
+        header = page.orgnizers.header
+        subheader = page.orgnizers.subheader
+        speaker_list = page.orgnizers.orgnizers_list
+        cta = page.orgnizers.cta
+    %}
+
 
     {% if page.speakers %}
     {% include speakers.html
