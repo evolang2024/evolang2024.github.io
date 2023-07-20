@@ -10,8 +10,8 @@ about:
     body_2: <div style="text-align:left">
               There are two types of submissions&#58;
               <ol>
-                  <li><b>Full papers</b> ( 6-8 pages)</li> 
-                  <li><b>Abstracts</b> (2 pages). </li>
+                  <li><b>Full papers</b> (between 6 and 8 pages)</li> 
+                  <li><b>Abstracts</b> (up to 2 pages). </li>
               </ol>
               Both full papers and abstracts will be considered for both podium presentation
               (15 min talk + 5 min Q&A) and for poster presentation. Submissions are limited
