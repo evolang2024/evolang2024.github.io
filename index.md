@@ -54,12 +54,28 @@ speakers:
 
 organizers:
     header: Organizers
+    subheader: Local Organizing Committee
+    subheader_2: Scientific Committee
     organizers_list:
         - name: Gary Lupyan (Local organizer)
           org: University of Wisconsin-Madison
-        - name: Robert Hawking (Liaison to Scientific Committee)
+        - name: Robert Hawkins (Liaison to Scientific Committee)
           org: University of Wisconsin-Madison
-
+        - name: Zachary Studdiford (Technical planning and logistics) 
+          org: University of Wisconsin-Madison
+    sci_organizers_list:
+        - name: Limor Raviv (chair)
+        - name: Jonas Nölle (chair)
+        - name: Kirstie Graham
+        - name: Yannick Jadoul
+        - name: Mathilde Josserand
+        - name: Stefan Hartmann
+        - name: Theresa Matzinger
+        - name: Katie Mudd
+        - name: Michael Pleyer
+        - name: Anita Slonimska
+        - name: Slawomir Wacewicz
+        - name: Stuart Watson
 # schedule:
 #     button_1: Download Schedule
 #     button_1_href: "#"
