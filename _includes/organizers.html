@@ -1,44 +1,20 @@
 <section id="organizers-section" class="organizers-section section">
     <div class="container">
-        <h3 class="section-heading text-center mb-3">{{include.header}}</h3>
-        <div class="section-intro text-center single-col-max mx-auto mb-5">{{include.subheader}}</div>
+
+        <h3 class="section-heading text-center mb-5">{{include.header}}</h3>
+        <h4 class="section-intro text-center single-col-max mx-auto mb-3">{{include.subheader}}</h4>
         <div class="row" style="display: flex; justify-content: center;">
             {% for organizer in include.organizers_list %}
-            <div class="col-3 col-lg-3 col-sm-5 mb-4" >
-                <div class="card rounded-0">
-                    <!-- <a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img src={{speaker.img_href}} class="card-img-top rounded-0" alt=""></a> -->
-                    <div class="card-body " style="min-height:15em;">
-                        <h5 class="card-title mb-2">{{ organizer.name}} </h5>
-                        <div class="card-text mb-3">
-                            <div class="meta">{{ organizer.title }}</div>
-                            <div class="meta">{{ organizer.org }} </div>
-                        </div><!--//card-text-->
-                    </div><!--//card-->
-                    <div class="card-footer text-muted">
-                    </div>
-                </div><!--//card-->
-            </div><!--//col-->
+            <li style="text-align: center; list-style-type: none; font-size: 1.2em;">{{ organizer.name }}</li>
             {% endfor %}
         </div><!--//row-->
-        <div class="section-intro text-center single-col-max mx-auto mb-5 my-5">{{include.subheader_2}}</div>
+        <h4 class="section-intro text-center single-col-max mx-auto mb-3 my-5">{{include.subheader_2}}</h4>
         <div class="row" style="display: flex; justify-content: center;">
             {% for organizer in include.sci_organizers_list %}
-            <div class="col-3 col-lg-3 col-sm-5 mb-4" >
-                <div class="card rounded-0">
-                    <!-- <a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img src={{speaker.img_href}} class="card-img-top rounded-0" alt=""></a> -->
-                    <div class="card-body " style="min-height:15em;">
-                        <h5 class="card-title mb-2">{{ organizer.name}} </h5>
-                        <div class="card-text mb-3">
-                            <div class="meta">{{ organizer.title }}</div>
-                            <div class="meta">{{ organizer.org }} </div>
-                        </div><!--//card-text-->
-                    </div><!--//card-->
-                    <div class="card-footer text-muted">
-                    </div>
-                </div><!--//card-->
-            </div><!--//col-->
+            <li style="text-align: center; list-style-type: none; font-size: 1.2em;">{{ organizer.name }}</li>
             {% endfor %}
-        </div><!--//row-->
-    </div><!--//container-->
+        </div>
+
+        </div><!--//container-->
     
 </section><!--//organizers-section-->
