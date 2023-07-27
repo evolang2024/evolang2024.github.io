@@ -8,13 +8,13 @@ about:
     subheader: "EVOLANG is the largest international meeting for researchers working on the origins and evolution of language. The conference is highly interdisciplinary, with contributions from disciplines including, but not limited to: anthropology, archeology, artificial life, biology, cognitive science, genetics, linguistics, modeling, paleontology, physiology, primatology, and psychology. Typically, about 300 delegates attend, with representatives from all these disciplines." 
     subheader_2: Submission Requirements
     body_2: <div style="text-align:left">
-              Please see <A HREF="https://docs.google.com/document/d/1R77xsh4oLDAn6FAnT9Zl_9tif10Z0x5hS_RDSfZPWY8/edit">here</A> for complete information on submission requirements.<br>
+              Please see <A HREF="https://docs.google.com/document/d/1R77xsh4oLDAn6FAnT9Zl_9tif10Z0x5hS_RDSfZPWY8/edit"><b>here</b></A> for complete information on submission requirements.<br>
               There are two types of submissions&#58;
               <ol>
                   <li><b>Abstracts</b> (up to 2 pages). </li>
                   <li><b>Full papers</b> (between 6 and 8 pages)</li> 
               </ol>
-              Authors are limited to one first-authored podium presentation (15 min talk + 5 min Q&A) and one first-authored poster. There is no limit on the number of submissions for which you can be a non-first author. When submitting, please indicate your preferred mode of presentation (podium talk or poster). We hope to see as many of you as possible in person, but we understand that travel to the US is not possible for all presenters. We will be able to offer a limited number of virtual flash talks and podium presentations.  All accepted submissions will be published in an online proceedings volume to appear before the start of the conference. <b>Submissions portal will open Sept 6th, 2023.</b>. In addition, we are soliciting <A HREF="https://docs.google.com/document/d/1R77xsh4oLDAn6FAnT9Zl_9tif10Z0x5hS_RDSfZPWY8/edit">workshop proposals</A> which should be emailed to Gary Lupyan at lupyan@wisc.edu.
+              Authors are limited to one first-authored podium presentation (15 min talk + 5 min Q&A) and one first-authored poster. There is no limit on the number of submissions for which you can be a non-first author. When submitting, please indicate your preferred mode of presentation (podium talk or poster). We hope to see as many of you as possible in person, but we understand that travel to the US is not possible for all presenters. We will be able to offer a limited number of virtual flash talks and podium presentations.  All accepted submissions will be published in an online proceedings volume to appear before the start of the conference. <b>Submissions portal will open Sept 6th, 2023.</b>. In addition, we are soliciting <A HREF="https://docs.google.com/document/d/1R77xsh4oLDAn6FAnT9Zl_9tif10Z0x5hS_RDSfZPWY8/edit"><b>workshop proposals</b></A> which should be emailed to Gary Lupyan at lupyan@wisc.edu.
               </div>
 
               
