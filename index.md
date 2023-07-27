@@ -13,14 +13,11 @@ about:
                   <li><b>Full papers</b> (between 6 and 8 pages)</li> 
                   <li><b>Abstracts</b> (up to 2 pages). </li>
               </ol>
-              Both full papers and abstracts will be considered for both podium presentation
-              (15 min talk + 5 min Q&A) and for poster presentation. Submissions are limited
+              Both full papers and abstracts will be considered for both podium
+              (15 min talk + 5 min Q&A) and poster presentations. Submissions are limited
               to one first-authored podium presentation and one first-authored poster per
               person. There is no limit on non-first-authored submissions. When submitting,
-              please indicate whether you prefer to be considered for inclusion as a talk, as
-              a poster, or as either of the two, as well as whether you are currently
-              planning to present your work on-site or online. (We are aware that this is a
-              preliminary decision subject to change.)
+              please indicate whether you prefer a talk, poster, or either. Submissions will open Sept 6th, 2023.
               </div>
               
 speakers:
