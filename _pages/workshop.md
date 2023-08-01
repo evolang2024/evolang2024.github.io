@@ -1,22 +1,26 @@
 ---
 permalink: /workshop/
-title: Testing
+title: Call For Workshops and Papers
 layout: workshop
-location: Madison, WI
-date: May 18-21
 about:
-    header: Conference Details
-    subheader: "EVOLANG is the largest international meeting for researchers working on the origins and evolution of language. The conference is highly interdisciplinary, with contributions from disciplines including, but not limited to: anthropology, archeology, artificial life, biology, cognitive science, genetics, linguistics, modeling, paleontology, physiology, primatology, and psychology. Typically, about 300 delegates attend, with representatives from all these disciplines." 
-    subheader_2: Submission Requirements
-    body_2: <div style="text-align:left">
-              Please see <A HREF="https://docs.google.com/document/d/1R77xsh4oLDAn6FAnT9Zl_9tif10Z0x5hS_RDSfZPWY8/edit"><b>here</b></A> for complete information on submission requirements.<br>
-              There are two types of submissions&#58;
-              <ol>
-                  <li><b>Abstracts</b> (up to 2 pages). </li>
-                  <li><b>Full papers</b> (between 6 and 8 pages)</li> 
-              </ol>
-              Authors are limited to one first-authored podium presentation (15 min talk + 5 min Q&A) and one first-authored poster. There is no limit on the number of submissions for which you can be a non-first author. When submitting, please indicate your preferred mode of presentation (podium talk or poster). We hope to see as many of you as possible in person, but we understand that travel to the US is not possible for all presenters. We will be able to offer a limited number of virtual flash talks and podium presentations.  All accepted submissions will be published in an online proceedings volume to appear before the start of the conference. <b>Submissions portal will open Sept 6th, 2023.</b>. In addition, we are soliciting <A HREF="https://docs.google.com/document/d/1R77xsh4oLDAn6FAnT9Zl_9tif10Z0x5hS_RDSfZPWY8/edit"><b>workshop proposals</b></A> which should be emailed to Gary Lupyan at lupyan@wisc.edu.
-              </div>
+    header: Workshop Proposals
+    subheader: "<ul><li>Deadline for proposals: October 6, 2023</li>
+    <li>Notification of acceptance: November, 10 2023</li>
+    <li>Contact for submission: Gary Lupyan (lupyan@wisc.edu)</li></ul>
+    EVOLANG will host several thematically focused workshops to be held on May 18th. For all accepted workshops, the workshop organizers will be responsible for finalizing the detailed schedule and for soliciting contributions.<br><br>
+
+    
+" 
+    subheader_2: "Workshop proposals should be submitted as a PDF, and include the following information:"
+    body_2: "
+   Workshop title<br>
+How long do you anticipate the workshop will run? (depending on the number of submissions, we may group workshops into shorter and longer slots, depending on needs).<br>
+Names and contact information for the workshop organizers,<br>
+What research questions does your workshop address? Why are these questions important to the study of language evolution? What makes this workshop timely? What makes the organizers qualified to run the workshop? What criteria are you using to invite contributors? (no more than 750 words + references).<br>
+A list of likely contributors<br>
+A tentative schedule<br>
+Do you have any special technical needs?<br>
+"
 
               
 speakers:

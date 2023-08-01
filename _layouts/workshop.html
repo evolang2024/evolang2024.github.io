@@ -15,10 +15,10 @@
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:600,700,800|Roboto:300,400,700&display=swap" rel="stylesheet">
 	
 	<!-- FontAwesome JS-->
-	<script defer src="assets/fontawesome/js/all.min.js"></script>
+	<script defer src="../assets/fontawesome/js/all.min.js"></script>
 
 	<!-- Theme CSS -->  
-	<link id="theme-style" rel="stylesheet" href="assets/css/theme.css">
+	<link id="theme-style" rel="stylesheet" href="../assets/css/theme.css">
 
 
 </head> 
@@ -36,13 +36,10 @@
 					
 					<div id="navigation" class="navbar-collapse collapse  justify-content-lg-end me-lg-3">
 						<ul class="nav navbar-nav">
-							
-							<li class="nav-item"><a class="nav-link scrollto" href="#about-section">About</a></li>                                              
-							<li class="nav-item"><a class="nav-link scrollto" href="#speakers-section">Speakers</a></li>
-							<li class="nav-item"><a class="nav-link scrollto" href="#organizers-section">Organizers</a></li>
-							<!-- <li class="nav-item"><a class="nav-link scrollto" href="#schedule-section">Schedule</a></li> -->
-							<li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Venue</a></li> 
-							<!-- <li class="nav-item"><a class="nav-link scrollto" href="#sponsors-section">Sponsors</a></li> -->
+                            <li class="nav-item home-button"><a class="nav-link scrollto" href="#" onclick="window.open('/', '_self');">Home</a></li> 
+							<li class="nav-item"><a class="nav-link scrollto" href="#about-section">Workshop Proposals</a></li>                                              
+							<li class="nav-item"><a class="nav-link scrollto" href="#speakers-section">Paper Submissions</a></li>
+							<li class="nav-item"><a class="nav-link scrollto" href="#organizers-section">Musical Submissions</a></li>
 						</ul><!--//nav-->
 					</div><!--//navabr-collapse-->
 
@@ -51,37 +48,9 @@
 			</div><!--//container-->
 		</div><!--//branding-->
 	</header><!--//header-->
-	
-	<div id="hero-block" class="hero-block">
-		<div id="hero-carousel" class="hero-carousel carousel slide carousel-fade" data-ride="carousel">
-			<div class="carousel-inner">
-				<div class="carousel-item-1 carousel-item active"></div>
-			</div>
-		</div>
-		<div class="hero-block-mask"></div>
-		<div class="container">
-			<div class="hero-text-block">
-                <h1 class="hero-heading mb-2 text-xs-5">{{page.title }}</h1>
-                <div class="hero-meta mb-3">
-                    <i class="far fa-calendar-alt me-2"></i>{{ page.date }}
-                </div>
-                <div class="hero-meta mb-4">
-                    <i class="fas fa-map-marker-alt mx-2"></i>{{page.location}}
-                </div>
-                <div class="hero-intro mb-5"></div>
-            </div><!--//hero-text-block-->
-		</div><!--//container-->
+	<div style="min-height:5em;">
 
-	</div><!--//hero-block-->
-	
-    {% if page.stats %}
-	{% include stats.html
-        attendees=page.stats.attendees
-        days=page.stats.days
-        talks=page.stats.talks
-        workshops=page.stats.workshops
-    %}
-    {% endif %}
+    </div>
 
     {% if page.about %}
     {% include about.html
@@ -173,11 +142,10 @@
 	</footer>
 
 	<!-- Javascript -->          
-	<script src="assets/plugins/popper.min.js"></script>
-	<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>  
-	<script src="assets/plugins/smoothscroll.min.js"></script>
-	<script src="assets/plugins/gumshoe/gumshoe.polyfills.min.js"></script> 
-	<script src="assets/js/main.js"></script>  
+	<script src="../assets/plugins/popper.min.js"></script>
+	<script src="../assets/plugins/bootstrap/js/bootstrap.min.js"></script>  
+	<script src="../assets/plugins/smoothscroll.min.js"></script>
+	<script src="../assets/plugins/gumshoe/gumshoe.polyfills.min.js"></script> 
 
 </body>
 </html> 
@@ -185,7 +153,11 @@
 	.hero-text-block{
 		min-width: 86%;
 	}
-
-	.hero-heading {
-	}
+    .home-button{
+        background-color: #EC645E;
+        border-radius: 8px;
+    }
 </style>
+<script>
+    document.getElementById('header').classList.add('header-shrink'); 
+</script>
