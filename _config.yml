@@ -1,2 +1,4 @@
 name: Evolang 2024
-
+include: [_pages]
+baseurl: ""
+url: ""

@@ -1,6 +1,7 @@
 ---
-title: International Conference on the Evolution of Language (Evolang) 2024
-layout: default
+permalink: /workshop/
+title: Testing
+layout: workshop
 location: Madison, WI
 date: May 18-21
 about:
