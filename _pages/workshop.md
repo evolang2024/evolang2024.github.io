@@ -7,7 +7,7 @@ info:
       - header: Workshop Proposals
         subheader: "<ul><li>Deadline for proposals: October 6, 2023</li>
         <li>Notification of acceptance: November, 10 2023</li>
-        <li>Contact for submission: Gary Lupyan (<a href='lupyan@wisc.edu'>lupyan@wisc.edu</a>)</li></ul>
+        <li>Contact for submission: Gary Lupyan (<a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>)</li></ul>
         EVOLANG will host several thematically focused workshops to be held on May 18th. For all accepted workshops, the workshop organizers will be responsible for finalizing the detailed schedule and for soliciting contributions.<br><br>" 
         subheader_2: "Workshop proposals should be submitted as a PDF, and include the following information:"
         body_2: "
@@ -65,6 +65,6 @@ info:
 
 
         subheader_2: Musical performances
-        body_2: Evolang folks are a musical bunch and some past conferences have included musical numbers (<a href='http://www.replicatedtypo.com/talking-heads-at-evolangx/8727.html'><b>Luc Steels’s performance at EvoLang X was a highlight</b></a>). If you would like to pitch an idea for a musical event or to volunteer yourself as a performer, please get in touch with Gary Lupyan (<a href='lupyan@wisc.edu'>lupyan@wisc.edu</a>).
+        body_2: Evolang folks are a musical bunch and some past conferences have included musical numbers (<a href='http://www.replicatedtypo.com/talking-heads-at-evolangx/8727.html'><b>Luc Steels’s performance at EvoLang X was a highlight</b></a>). If you would like to pitch an idea for a musical event or to volunteer yourself as a performer, please get in touch with Gary Lupyan (<a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>).
                     
 ---
