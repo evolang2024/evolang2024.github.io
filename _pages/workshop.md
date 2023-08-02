@@ -60,8 +60,7 @@ info:
         <br>&nbsp&nbsp&nbsp&nbspYes. The extra page(s) can be used only for references and acknowledgements (funding bodies &nbsp&nbsp&nbspetc)."
 
 
-      - header: "FAQs"
-        subheader: Musical performances
-        body_2: Evolang folks are a musical bunch and some past conferences have included musical numbers (<a href='http://www.replicatedtypo.com/talking-heads-at-evolangx/8727.html'><b>Luc Steels’s performance at EvoLang X was a highlight</b></a>). If you would like to pitch an idea for a musical event or to volunteer yourself as a performer, please get in touch with Gary Lupyan (<a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>).
+      - header: "Musical performances"
+        subheader: Evolang folks are a musical bunch and some past conferences have included musical numbers (<a href='http://www.replicatedtypo.com/talking-heads-at-evolangx/8727.html'><b>Luc Steels’s performance at EvoLang X was a highlight</b></a>). If you would like to pitch an idea for a musical event or to volunteer yourself as a performer, please get in touch with Gary Lupyan (<a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>).
                     
 ---
