@@ -18,8 +18,7 @@ info:
         ● A list of likely contributors<br>
         ● A tentative schedule<br>
         ● Do you have any special technical needs?<br><br><br>
-        Workshop proposals will be reviewed and selected by the local organizers and at least two referees.
-        "
+        Workshop proposals will be reviewed and selected by the local organizers and at least two referees."
       - header: Paper submissions
         subheader: "The deadline for submission to EVOLANG XV (<A HREF='https://www.visitmadison.com/'><b>Madison, WI USA</b></A>, May 18-21, 2024) is October 6, 2023. You can submit to EvoLang XV via <A HREF='https://openreview.net/group?id=EVOLANG.org/2024/Conference&referrer=%5BHomepage%5D(%2F)'><b>OpenReview..</b></A> Please carefully read the guidelines set out below - and see the linked submission templates - to prepare your submission. Submissions that do not adhere to the guidelines may be rejected without review. If you have a problem with your submission, please email <a href='scientific-committee@evolang.org.'>scientific-committee@evolang.org</a>.
         Submissions may be in any relevant discipline, and should aim to make clear their own substantive claim relating to relevant, current scientific literature in the field of language evolution. Submissions which do not have clear relevance to the field may be rejected without review.
