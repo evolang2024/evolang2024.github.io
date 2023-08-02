@@ -23,10 +23,7 @@ info:
       - header: Paper submissions
         subheader: "The deadline for submission to EVOLANG XV (<A HREF='https://www.visitmadison.com/'><b>Madison, WI USA</b></A>, May 18-21, 2024) is October 6, 2023. You can submit to EvoLang XV via <A HREF='https://openreview.net/group?id=EVOLANG.org/2024/Conference&referrer=%5BHomepage%5D(%2F)'><b>OpenReview..</b></A> Please carefully read the guidelines set out below - and see the linked submission templates - to prepare your submission. Submissions that do not adhere to the guidelines may be rejected without review. If you have a problem with your submission, please email <a href='scientific-committee@evolang.org.'>scientific-committee@evolang.org</a>.
         Submissions may be in any relevant discipline, and should aim to make clear their own substantive claim relating to relevant, current scientific literature in the field of language evolution. Submissions which do not have clear relevance to the field may be rejected without review.
-
         <br><br>
-        <h4>Sign language interpreting</h4><br>
-        The conference languages at Evolang XV will be English. We will have ASL interpreters on hand for providing interpreting to/from ASL (other sign languages may be a possibility) To gauge demand for interpreting services, please <a href = 'https://docs.google.com/forms/d/e/1FAIpQLSejSkSKxD1BEndXDIARr75xI4p1KBpa7GBAZskD_lJnzuJP8g/viewform'><b>complete this survey</b></a> if you think you could benefit from sign language interpreting." 
         subheader_2: "Submission Format"
         body_2: "
         Submissions can be both for podium presentations (15 min talk + 5 min Q&A) and for poster presentations. Authors are limited to one first-authored podium presentation and one first-authored poster. There is no limit on the number of submissions for which you can be a non-first author. When submitting, please indicate your preferred mode of presentation (podium talk or poster). We hope to see as many of you as possible in person, but we understand that travel to the US is not possible for all presenters. We will be able to offer a limited number of virtual flash talks and podium presentations. 
@@ -52,10 +49,9 @@ info:
         <br><br>●  	Make sure figures do not contain any affiliation related identifier. <br><br><br>Given the small size of the field it may not be possible to completely prevent reviewers from guessing the identity of the authors, but please make every effort to keep submissions anonymous." 
 
 
-        subheader_2: "Supplementary Materials"
-        body_2: "
-        There will be some support for online supplementary materials. Reviewers will not evaluate the supplementary materials, so all information necessary to understand and evaluate the submission should be included in the main paper or abstract. However, authors are encouraged to make data or code available for the final publication. All supplementary materials should be submitted within a single zip file, which should also include a readme file describing the contents. Supplementary materials should be referenced in the main text (e.g. “see supplementary materials”)."
       - header: "FAQs"
+        subheader: "<br>● Is there any support for supplementary materials along with my submission?
+        <br>&nbsp&nbsp&nbsp&nbspThere will be some support for online supplementary materials. Reviewers will not evaluate the supplementary materials, however, so all information necessary to understand and evaluate the submission should be included in the main paper or abstract. Authors are encouraged to make data or code available for the final publication. All supplementary materials should be submitted within a single zip file, which should also include a readme file describing the contents. Supplementary materials should be referenced in the main text of the final submission (e.g. “see supplementary materials”)."
         subheader: "<br>● Does the length of the full paper (6-8 pages) include the references?
         <br>&nbsp&nbsp&nbsp&nbspYes. The full paper should be 6-8 pages including the references.
         <br>● Should I submit a 150-word summary for my abstract submission?
@@ -64,7 +60,8 @@ info:
         <br>&nbsp&nbsp&nbsp&nbspYes. The extra page(s) can be used only for references and acknowledgements (funding bodies &nbsp&nbsp&nbspetc)."
 
 
-        subheader_2: Musical performances
+      - header: "FAQs"
+        subheader: Musical performances
         body_2: Evolang folks are a musical bunch and some past conferences have included musical numbers (<a href='http://www.replicatedtypo.com/talking-heads-at-evolangx/8727.html'><b>Luc Steels’s performance at EvoLang X was a highlight</b></a>). If you would like to pitch an idea for a musical event or to volunteer yourself as a performer, please get in touch with Gary Lupyan (<a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>).
                     
 ---
