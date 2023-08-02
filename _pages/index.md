@@ -6,7 +6,10 @@ location: Madison, WI
 date: May 18-21
 about:
     header: Conference Details
-    subheader: "EVOLANG is the largest international meeting for researchers working on the origins and evolution of language. The conference is highly interdisciplinary, with contributions from disciplines including, but not limited to: anthropology, archeology, artificial life, biology, cognitive science, genetics, linguistics, modeling, paleontology, physiology, primatology, and psychology. Typically, about 300 delegates attend, with representatives from all these disciplines." 
+    subheader: "EVOLANG is the largest international meeting for researchers working on the origins and evolution of language. The conference is highly interdisciplinary, with contributions from disciplines including, but not limited to: anthropology, archeology, artificial life, biology, cognitive science, genetics, linguistics, modeling, paleontology, physiology, primatology, and psychology. Typically, about 300 delegates attend, with representatives from all these disciplines. <br><br>
+        <h4>The conference languages at Evolang XV will be English. We will have ASL interpreters on hand for providing interpreting to/from ASL (other sign languages may be a possibility) To gauge demand for interpreting services, please <a href = 'https://docs.google.com/forms/d/e/1FAIpQLSejSkSKxD1BEndXDIARr75xI4p1KBpa7GBAZskD_lJnzuJP8g/viewform'><b>complete this survey</b></a> if you think you could benefit from sign language interpreting.
+        " 
+
     subheader_2: Submission Information
     body_2: <div style="text-align:left">
     
