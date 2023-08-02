@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: International Conference on the Evolution of Language (Evolang) 2024
+title: Evolang XV
 layout: default
 location: Madison, WI
 date: May 18-21
