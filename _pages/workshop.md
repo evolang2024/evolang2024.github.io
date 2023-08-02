@@ -4,7 +4,7 @@ title: Call For Workshops and Papers
 layout: workshop
 info:
   info_sections:
-      - header: Workshop Proposals
+      - header: "Workshop Proposals"
         subheader: "<ul><li>Deadline for proposals: October 6, 2023</li>
         <li>Notification of acceptance: November, 10 2023</li>
         <li>Contact for submission: Gary Lupyan (<a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>)</li></ul>
@@ -19,7 +19,7 @@ info:
         ● A tentative schedule<br>
         ● Do you have any special technical needs?<br><br><br>
         Workshop proposals will be reviewed and selected by the local organizers and at least two referees."
-      - header: Paper submissions
+      - header: "Paper submissions"
         subheader: "The deadline for submission to EVOLANG XV (<A HREF='https://www.visitmadison.com/'><b>Madison, WI USA</b></A>, May 18-21, 2024) is October 6, 2023. You can submit to EvoLang XV via <A HREF='https://openreview.net/group?id=EVOLANG.org/2024/Conference&referrer=%5BHomepage%5D(%2F)'><b>OpenReview..</b></A> Please carefully read the guidelines set out below - and see the linked submission templates - to prepare your submission. Submissions that do not adhere to the guidelines may be rejected without review. If you have a problem with your submission, please email <a href='scientific-committee@evolang.org.'>scientific-committee@evolang.org</a>.
         Submissions may be in any relevant discipline, and should aim to make clear their own substantive claim relating to relevant, current scientific literature in the field of language evolution. Submissions which do not have clear relevance to the field may be rejected without review.
         <br><br>
@@ -46,8 +46,6 @@ info:
         ●  	Use third person to refer to previous work by the authors. e.g. instead of “As we have previously shown, language is a complex system (Jones, 2012)” use “As was previously shown, language is a complex system (Jones, 2012)”, or more simply “Language is a complex system (Jones, 2012)”.
         <br><br>●  	Do not eliminate essential self-references or other references but limit self-references only to papers that are relevant for those reviewing the submitted paper.
         <br><br>●  	Make sure figures do not contain any affiliation related identifier. <br><br><br>Given the small size of the field it may not be possible to completely prevent reviewers from guessing the identity of the authors, but please make every effort to keep submissions anonymous." 
-
-
       - header: "FAQs"
         subheader: "<br>● Is there any support for supplementary materials along with my submission?
         <br>&nbsp&nbsp&nbsp&nbspThere will be some support for online supplementary materials. Reviewers will not evaluate the supplementary materials, however, so all information necessary to understand and evaluate the submission should be included in the main paper or abstract. Authors are encouraged to make data or code available for the final publication. All supplementary materials should be submitted within a single zip file, which should also include a readme file describing the contents. Supplementary materials should be referenced in the main text of the final submission (e.g. “see supplementary materials”)."
@@ -57,8 +55,6 @@ info:
         <br>&nbsp&nbsp&nbsp&nbspYes, the 150-word summary is required for all types of the submission.
          <br>● Should the figures and tables be included within the 2 page-limit for the abstract submission?
         <br>&nbsp&nbsp&nbsp&nbspYes. The extra page(s) can be used only for references and acknowledgements (funding bodies &nbsp&nbsp&nbspetc)."
-
-
       - header: "Musical performances"
         subheader: Evolang folks are a musical bunch and some past conferences have included musical numbers (<a href='http://www.replicatedtypo.com/talking-heads-at-evolangx/8727.html'><b>Luc Steels’s performance at EvoLang X was a highlight</b></a>). If you would like to pitch an idea for a musical event or to volunteer yourself as a performer, please get in touch with Gary Lupyan (<a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>).
                     
