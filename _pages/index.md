@@ -13,7 +13,7 @@ about:
     subheader_2: Submission Information
     body_2: <div style="text-align:left">
     
-              Please see <A HREF="#" onclick='window.open(`submission_details`, `_self`);'><b>here</b></A> for complete information on submission requirements.<br>
+              Please see <A HREF="#" onclick='window.open(`submission_details/#info-3e`, `_self`);'><b>here</b></A> for complete information on submission requirements.<br>
               There are two types of submissions&#58;
               <ol>
                   <li><b>Abstracts</b> (up to 2 pages). </li>
@@ -30,25 +30,30 @@ speakers:
           title:
           org: University of Amsterdam
           img_href: "assets/images/speakers/schouwstra.jpg"
+          img_alt : "Image of invited plenary speaker Marieke Schouwstra from University of Amsterdam"
           website_href: "https://mariekeschouwstra.github.io/"
         - name: Nick Enfield<br><br>
           title:
           org: University of Sydney
           img_href: "assets/images/speakers/enfield.jpg"
+          img_alt: "Image of invited plenary speaker Nick Enfield from University of Sydney"
           website_href: "https://nickenfield.org/"
         - name: Marie Coppola
           title: 
           org: University of Connecticut
           img_href: "assets/images/speakers/coppola.jpg"
+          img_alt: "Image of invited plenary speaker Marie Coppola from University of Connecticut"
           website_href: "https://psychology.uconn.edu/person/marie-coppola/"
         - name: Salikoko Mufwene
           title:
           org: University of Chicago
           img_href: "assets/images/speakers/mufwene.jpg"
+          img_alt: "Image of invited plenary speaker Salikoko Mufwene from University of Chicago"
           website_href: "https://mufwene.uchicago.edu/"
         - name: Nicole Creanza
           title: 
           org: Vanderbilt University
+          img_alt: "Image of invited plenary speaker Nicole Creanza from Vanderbilt University"
           img_href: "assets/images/speakers/creanza.jpg"
           website_href: "http://nicolecreanza.com/"
 
