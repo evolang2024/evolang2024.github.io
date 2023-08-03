@@ -13,13 +13,13 @@ about:
     subheader_2: Submission Information
     body_2: <div style="text-align:left">
     
-              Please see <A HREF="#" onclick='window.open(`workshop/#info-2`, `_self`);'><b>here</b></A> for complete information on submission requirements.<br>
+              Please see <A HREF="#" onclick='window.open(`submission_details`, `_self`);'><b>here</b></A> for complete information on submission requirements.<br>
               There are two types of submissions&#58;
               <ol>
                   <li><b>Abstracts</b> (up to 2 pages). </li>
                   <li><b>Full papers</b> (between 6 and 8 pages)</li> 
               </ol>
-              Authors are limited to one first-authored podium presentation (15 min talk + 5 min Q&A) and one first-authored poster. There is no limit on the number of submissions for which you can be a non-first author. When submitting, please indicate your preferred mode of presentation (podium talk or poster). We hope to see as many of you as possible in person, but we understand that travel to the US is not possible for all presenters. We will be able to offer a limited number of virtual flash talks and podium presentations.  All accepted submissions will be published in an online proceedings volume to appear before the start of the conference. <b>Submissions portal will open Sept 6th, 2023.</b>. In addition, we are soliciting <A HREF="#" onclick='window.open(`workshop/#info-1`, `_self`);'><b>workshop proposals</b></A> which should be emailed directly to Gary Lupyan at <a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>.
+              Authors are limited to one first-authored podium presentation (15 min talk + 5 min Q&A) and one first-authored poster. There is no limit on the number of submissions for which you can be a non-first author. When submitting, please indicate your preferred mode of presentation (podium talk or poster). We hope to see as many of you as possible in person, but we understand that travel to the US is not possible for all presenters. We will be able to offer a limited number of virtual flash talks and podium presentations.  All accepted submissions will be published in an online proceedings volume to appear before the start of the conference. <b>Submissions portal will open Sept 6th, 2023.</b> In addition, we are soliciting <A HREF="#" onclick='window.open(`submission_details/#info-1`, `_self`);'><b>workshop proposals</b></A> which should be emailed directly to Gary Lupyan at <a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>.
               </div>
 
               
@@ -31,7 +31,7 @@ speakers:
           org: University of Amsterdam
           img_href: "assets/images/speakers/schouwstra.jpg"
           website_href: "https://mariekeschouwstra.github.io/"
-        - name: Nick Enfield
+        - name: Nick Enfield<br><br>
           title:
           org: University of Sydney
           img_href: "assets/images/speakers/enfield.jpg"
@@ -52,6 +52,18 @@ speakers:
           img_href: "assets/images/speakers/creanza.jpg"
           website_href: "http://nicolecreanza.com/"
 
+submit:
+  subheader: Submission Information
+  body: <div style="text-align:left">
+    
+              Please see <A HREF="#" onclick='window.open(`submission_details`, `_self`);'><b>here</b></A> for complete information on submission requirements.<br>
+              There are two types of submissions&#58;
+              <ol>
+                  <li><b>Abstracts</b> (up to 2 pages). </li>
+                  <li><b>Full papers</b> (between 6 and 8 pages)</li> 
+              </ol>
+              Authors are limited to one first-authored podium presentation (15 min talk + 5 min Q&A) and one first-authored poster. There is no limit on the number of submissions for which you can be a non-first author. When submitting, please indicate your preferred mode of presentation (podium talk or poster). We hope to see as many of you as possible in person, but we understand that travel to the US is not possible for all presenters. We will be able to offer a limited number of virtual flash talks and podium presentations.  All accepted submissions will be published in an online proceedings volume to appear before the start of the conference. <b>Submissions portal will open Sept 6th, 2023.</b> In addition, we are soliciting <A HREF="#" onclick='window.open(`submission_details/#info-1`, `_self`);'><b>workshop proposals</b></A> which should be emailed directly to Gary Lupyan at <a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>.
+              </div>
 organizers:
     header: Organizers
     subheader: Local Organizing Committee

@@ -39,8 +39,7 @@
                             <li class="nav-item home-button"><a class="nav-link scrollto" href="#" onclick="window.open('/', '_self');">Home</a></li> 
 							<li class="nav-item"><a class="nav-link scrollto" href="#info-1">Workshop Proposals</a></li>                                              
 							<li class="nav-item"><a class="nav-link scrollto" href="#info-2">Paper Submissions</a></li>
-							<li class="nav-item"><a class="nav-link scrollto" href="#info-4">Musical Performances</a></li>
-                            <li class="nav-item"><a class="nav-link scrollto" href="#info-3">FAQs</a></li>
+                            <li class="nav-item"><a class="nav-link scrollto" href="#info-3">Musical Performances</a></li>
 						</ul><!--//nav-->
 					</div><!--//navabr-collapse-->
 
@@ -58,41 +57,6 @@
         info_sections = page.info.info_sections
     %}
     {% endif %}
-
-
-
-	<!-- <div class="container">
-		<hr>
-	</div> -->
-
-
-    {% if page.schedule %}
-    {% include schedule.html
-        days = page.schedule.days
-        button_1 = page.schedule.button_1
-        button_1_href = page.schedule.button_1_href
-        button_2 = page.schedule.button_2
-        button_2_href = page.schedule.button_2_href
-    %}
-    {% endif %}
-
-	
-	{% if page.venue %}
-    {% include venue.html
-        header-1 = page.venue.header-1
-        header-2 = page.venue.header-2
-        body-1 = page.venue.body-1
-        body-2 = page.venue.body-2
-        button = page.venue.button
-        button-href = page.venue.button-href
-        modals = page.venue.modals
-        image-1-href = page.venue.image-1-href
-        image-2-href = page.venue.image-2-href
-        image-3-href = page.venue.image-3-href
-        image-4-href = page.venue.image-4-href
-    %}
-    {% endif %}
-
 	<footer class="footer py-5 theme-bg-primary">
 		<div class="container text-center">
 			

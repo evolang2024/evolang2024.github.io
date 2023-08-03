@@ -39,7 +39,7 @@
 							
 							<li class="nav-item"><a class="nav-link scrollto" href="#about-section">About</a></li>                                              
 							<li class="nav-item"><a class="nav-link scrollto" href="#speakers-section">Speakers</a></li>
-							<li class="nav-item"><a class="nav-link scrollto" href=""# onclick="window.open('workshop', '_self');">Submission Information</a></li> 
+							<li class="nav-item"><a class="nav-link scrollto" href="#submit-section">Submission Information</a></li> 
 							<li class="nav-item"><a class="nav-link scrollto" href="#organizers-section">Organizers</a></li>
 							<!-- <li class="nav-item"><a class="nav-link scrollto" href="#schedule-section">Schedule</a></li> -->
 							<li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Venue</a></li> 
@@ -101,6 +101,13 @@
         subheader = page.speakers.subheader
         speaker_list = page.speakers.speaker_list
         cta = page.speakers.cta
+    %}
+    {% endif %}
+
+	{% if page.submit %}
+    {% include submit.html
+        subheader = page.submit.subheader
+		body = page.submit.body
     %}
     {% endif %}
 
