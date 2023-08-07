@@ -36,24 +36,24 @@ speakers:
           title:
           org: University of Sydney
           img_href: "assets/images/speakers/enfield.jpg"
-          img_alt: "Image of invited plenary speaker Nick Enfield from University of Sydney"
+          img_alt: "'Image of invited plenary speaker Nick Enfield from University of Sydney'"
           website_href: "https://nickenfield.org/"
         - name: Marie Coppola
           title: 
           org: University of Connecticut
           img_href: "assets/images/speakers/coppola.jpg"
-          img_alt: "Image of invited plenary speaker Marie Coppola from University of Connecticut"
+          img_alt: "'Image of invited plenary speaker Marie Coppola from University of Connecticut'"
           website_href: "https://psychology.uconn.edu/person/marie-coppola/"
         - name: Salikoko Mufwene
           title:
           org: University of Chicago
           img_href: "assets/images/speakers/mufwene.jpg"
-          img_alt: "Image of invited plenary speaker Salikoko Mufwene from University of Chicago"
+          img_alt: "'Image of invited plenary speaker Salikoko Mufwene from University of Chicago'"
           website_href: "https://mufwene.uchicago.edu/"
         - name: Nicole Creanza
           title: 
           org: Vanderbilt University
-          img_alt: "Image of invited plenary speaker Nicole Creanza from Vanderbilt University"
+          img_alt: "'Image of invited plenary speaker Nicole Creanza from Vanderbilt University'"
           img_href: "assets/images/speakers/creanza.jpg"
           website_href: "http://nicolecreanza.com/"
 
