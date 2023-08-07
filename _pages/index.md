@@ -30,7 +30,7 @@ speakers:
           title:
           org: University of Amsterdam
           img_href: "assets/images/speakers/schouwstra.jpg"
-          alt : "Image of invited plenary speaker Marieke Schouwstra from University of Amsterdam"
+          img_alt : "'Image of invited plenary speaker Marieke Schouwstra from University of Amsterdam'"
           website_href: "https://mariekeschouwstra.github.io/"
         - name: Nick Enfield<br><br>
           title:
