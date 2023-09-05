@@ -26,13 +26,12 @@ info:
         For both podium and poster presentations, there are <b>two possible types of submission:</b>
         <br><br>(a) <b>Full papers</b>, which can have a length of between 6 and 8 pages; and
         <br><br>(b) <b>Abstracts</b>, which can be up to 2 pages long.
-        All accepted submissions will be published in an online proceedings volume to appear before the start of the conference. 
         <br><br><br>Submissions must be formatted according the following guidelines/style sheets:
         <br><br><a href= 'https://www.google.com/url?q=https://evolang2024.github.io/submission_templates/evolang_XV_template.docx&sa=D&source=docs&ust=1690998561092535&usg=AOvVaw1Mqkyai-TS-vqw0tYEf2id'><b>MS Word</b></a>
         <br><a href='https://evolang2024.github.io/submission_templates/evolang_XV_template.pdf'><b>PDF</b></a>
         <br><a href='https://www.google.com/url?q=https://evolang2024.github.io/submission_templates/evolang_XV_template_latex.zip&sa=D&source=docs&ust=1690998599584011&usg=AOvVaw1IFisdi_mXVwagExdPKV2y'><b>LaTeX</b></a><br>
         <br>Please do not change the margins, line spacing, font size, etc. in the provided templates. Submissions may be in the form of long papers (6-8 pages excluding references) or abstracts (2 pages excluding references). For 2-page abstracts, use the same template as for the long papers, omitting the abstract section and using the body text for the entire submission (as such, there is no need to include the 'abstract' section in 2-page abstracts).
-        Upon acceptance authors will be encouraged to sign a <a href='https://creativecommons.org/licenses/by-nd/2.0/'><b>CC BY ND license</b></a>, which allows for free reuse of the work as long as the original authors are attributed. Accepted and licensed submissions will be published in online proceedings to appear before the start of the conference.<br><br>
+        <br><br>Upon acceptance authors will be encouraged to sign a <a href='https://creativecommons.org/licenses/by-nd/2.0/'><b>CC BY ND license</b></a>, which allows for free reuse of the work as long as the original authors are attributed. Accepted and licensed submissions will be published in online proceedings to appear before the start of the conference.<br><br>
         <h3 class='text-white'>Double-blind peer review</h3>
         The review process is double-blind: authors will not be told who reviews their paper and reviewers will not be told who the authors of the papers are. To ensure this process goes smoothly, initial submissions should be anonymous. Please keep in mind the following guidelines for keeping your paper anonymous:<br><br>
         1. 	Do not include the names and affiliations of authors in the paper
