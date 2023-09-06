@@ -6,8 +6,8 @@ location: Madison, WI
 date: May 18-21
 about:
     header: Conference Details
-    subheader: "EVOLANG is the largest international meeting for researchers working on the origins and evolution of language. The conference is highly interdisciplinary, with contributions from disciplines including, but not limited to: anthropology, archeology, artificial life, biology, cognitive science, genetics, linguistics, modeling, paleontology, physiology, primatology, and psychology. Typically, about 300 delegates attend, with representatives from all these disciplines. <br><br>
-        <br><br>The conference languages at Evolang XV will be English. We will have ASL interpreters on hand for providing interpreting to/from ASL (other sign languages may be a possibility) To gauge demand for interpreting services, please <a href = 'https://docs.google.com/forms/d/e/1FAIpQLSejSkSKxD1BEndXDIARr75xI4p1KBpa7GBAZskD_lJnzuJP8g/viewform'><b>complete this survey</b></a> if you think you could benefit from sign language interpreting.
+    subheader: "EVOLANG is the largest international meeting for researchers working on the origins and evolution of language. The conference is highly interdisciplinary, with contributions from disciplines including, but not limited to: anthropology, archeology, artificial life, biology, cognitive science, genetics, linguistics, modeling, paleontology, physiology, primatology, and psychology. Typically, about 300 delegates attend, with representatives from all these disciplines.<br>
+        <br>The conference language will be English. We will have ASL interpreters on hand for providing interpreting to/from ASL (other sign languages may be a possibility) To gauge demand for interpreting services, please <a href = 'https://docs.google.com/forms/d/e/1FAIpQLSejSkSKxD1BEndXDIARr75xI4p1KBpa7GBAZskD_lJnzuJP8g/viewform'><b>complete this survey</b></a> if you think you could benefit from sign language interpreting.
         " 
 
     subheader_2: Submission Information
@@ -19,6 +19,9 @@ about:
                   <li><b>Abstracts</b> (up to 2 pages, excl. references and acknowledgements). </li>
                   <li><b>Full papers</b> (up to 6 pages, excl. references and acknowledgements)</li> 
               </ol>
+              <br><br>
+              Normal standards of academic excellence apply. Submitted papers should make clear how they advance the study of language evolution and relate any novel results to up to date scientific literature. Submissions should make clear the method by which their claims are substantiated, the nature of the relevant data, and/or the core of the theoretical argument. Submissions centered around empirical studies should not rest on preliminary results. All submissions are refereed by at least three relevant referees, and acceptance is based on a scoring scheme pooling the reports of the referees. In recent conferences, the acceptance rate has been about 50%. The conference showcases both oral presentations and poster presentations.
+              <br><br>
               Authors are limited to one first-authored podium presentation (15 min talk + 5 min Q&A) and one first-authored poster. There is no limit on the number of submissions for which you can be a non-first author. When submitting, please indicate your preferred mode of presentation (podium talk or poster). We hope to see as many of you as possible in person, but we understand that travel to the US is not possible for all presenters. We will be able to offer a limited number of virtual flash talks and podium presentations.  All accepted submissions will be published in an online proceedings volume to appear before the start of the conference. <b>Submissions portal will open Sept 7th, 2023.</b> In addition, we are soliciting <A HREF="#" onclick='window.open(`submission_details/#info-1`, `_self`);'><b>workshop proposals</b></A> which should be emailed directly to Gary Lupyan at <a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>.
               </div>
 
