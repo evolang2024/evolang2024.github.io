@@ -202,11 +202,11 @@ venue:
     header-1: How to Get Here
     body-1: Madison (pop. ~272k) is the capital of Wisconsin and the home of University of Wisconsin's flagship campus. The conference will be held at the Monona Terrace--a beautiful conference venue designed by Frank Lloyd Wright on the shores of Lake Monona. 
     header-2: Accommodations
-    body-2: We have pre-booked two hotels for the conference: Park Hotel and Hilton at Monona Terrace. Check back later for details. We invite you to take 
+    body-2: We have pre-booked two hotels for the conference&#58; Park Hotel and Hilton at Monona Terrace. We invite you to take 
             advantage of this time away from your daily lives to catch up on the latest developments in the field and to deepen your appreciation of the amazing
             research being done in the language evolution community. We also invite you to consider how our work may be a force for positive change back in the real world.
             We hope you will take us up on these invitations--in the conference hall, at the lively Union Terrace, at the Saturday farmer’s market on the Capitol Square, and
-            at the many fine eating and drinking establishments nearby.
+            at the many fine eating and drinking establishments nearby. We will also be planning several excursions after the main conference.
     button: Learn more!
     button-href: "https://isthmus.com/search/location/local-dining/#mz_id=5&ql_id=1&letter_filter=all&ord=last_modified&page=1"
     modals:
