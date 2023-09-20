@@ -34,8 +34,8 @@ info:
         <br>Submissions <b>must be</b> formatted according the following guidelines/style sheets:
         <ul><li><a href='https://evolang2024.github.io/submission_templates/evolang_XV_template.docx'><b>MS Word</b></a></li>
         <li><a href='https://evolang2024.github.io/submission_templates/evolang_XV_template.pdf'><b>PDF</b></a></li>
-        <li><a href='https://evolang2024.github.io/submission_templates/evolang_XV_template_latex.zip'><b>LaTeX</b></a> (also available as <a href='https://www.overleaf.com/latex/templates/evolang-template/pbxbhmkyrktk'><b>Overleaf template</b></a>)</li></ul>
-        Please <b>do not change</b> the margins, line spacing, font size, etc. in the provided templates. For 2-page abstracts, use the same template as for the long papers, omitting the abstract section and using the body text for the entire submission (as such, there is no need to include the 'abstract' section in 2-page abstracts).
+        <li><a href='https://evolang2024.github.io/submission_templates/evolang_XV_template_latex.zip'><b>LaTeX</b></a></li></ul>
+        Please <b>do not change</b> the margins, line spacing, font size, etc. in the provided templates. Submissions may be in the form of long papers (up to 6 pages excluding references) or abstracts (2 pages excluding references). For 2-page abstracts, use the same template as for the long papers, omitting the abstract section and using the body text for the entire submission (as such, there is no need to include the 'abstract' section in 2-page abstracts).
         <br><br>Upon acceptance authors will be encouraged to sign a <a href='https://creativecommons.org/licenses/by-nc-nd/4.0/'><b>CC BY-NC-ND 4.0 license/b></a>, which allows for free reuse of the work as long as the original authors are attributed, the work is not changed in any way, and prohibits comercial use. Accepted and licensed submissions will be published in online proceedings to appear before the start of the conference.<br>If you do not agree to the license agreement, your submission will not be made public as part of the conference proceedings, and only the 150-word summary will still be included in the conference program.
         <br><br>
         <h3 class='text-white'>Double-blind peer review</h3>
@@ -52,7 +52,7 @@ info:
         <br>● Is there any support for supplementary materials along with my submission?
         <br>&nbsp&nbsp&nbsp&nbspThere will be some support for online supplementary materials. Reviewers will not evaluate the supplementary materials, however, so all information necessary to understand and evaluate the submission should be included in the main paper or abstract. Authors are encouraged to make data or code available for the final publication. All supplementary materials should be submitted within a single zip file, which should also include a readme file describing the contents. Supplementary materials should be referenced in the main text of the final submission (e.g. “see supplementary materials”).
         <br>● Does the length of the abstract (2 pages) or full paper (6 pages) include the references?
-        <br>&nbsp&nbsp&nbsp&nbspNo. The abstract and full paper should resp. be 2 and 6 pages, excluding the references and acknowledgements.
+        <br>&nbsp&nbsp&nbsp&nbspNo. The abstract and full paper should be 2 and 6 pages respectively, excluding the references and acknowledgements.
         <br>● Should I submit a 150-word summary for my abstract submission?
         <br>&nbsp&nbsp&nbsp&nbspYes, the 150-word summary is required for all types of the submission.
         <br>● Should the figures and tables be included within the page limit for both types of submission?
