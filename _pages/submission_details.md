@@ -5,7 +5,7 @@ layout: submission_details
 info:
   info_sections:
       - header: "Workshop Proposals"
-        subheader: "<ul><li>Deadline for proposals: October 6, 2023</li>
+        subheader: "<ul><li>Deadline for proposals (extended): October 13, 2023</li>
         <li>Notification of acceptance: November, 10 2023</li>
         <li>Contact for submission: Gary Lupyan (<a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>)</li></ul>
         EVOLANG will host several thematically focused workshops to be held on May 18th. For all accepted workshops, the workshop organizers will be responsible for finalizing the detailed schedule and for soliciting contributions.<br><br>
