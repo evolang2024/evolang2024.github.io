@@ -52,7 +52,7 @@ speakers:
           org: University of Chicago
           img_href: "assets/images/speakers/mufwene.jpg"
           img_alt: "'Image of invited plenary speaker Salikoko Mufwene from University of Chicago'"
-          website_href: "https://mufwene.uchicago.edu/"
+          website_href: "https://linguistics.uchicago.edu/salikoko-s-mufwene/"
         - name: Nicole Creanza
           title: 
           org: Vanderbilt University
