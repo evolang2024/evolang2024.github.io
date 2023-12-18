@@ -107,7 +107,9 @@
 
 	{% if page.workshops %}
 	% include workshops.html
-		header = page
+		header = page.workshops.header
+		workshop_list = page.workshops.workshop_list
+
 	%}
 	{% endif %}
 
