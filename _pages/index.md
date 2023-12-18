@@ -73,6 +73,8 @@ workshops:
       - name: 'Large-scale computational approaches to evolution and change:
 prospects and pitfalls'
         organizers: 'Andres Karjus (akarjus@tlu.ee), Nina Tahmasebi (nina.tahmasebi@gu.se), Haim Dubossarsky (h.dubossarsky@qmul.ac.uk), Stefano De Pascale (stefano.depascale@kuleuven.be)' 
+        btn_name: 'Submit talk: open call'
+        btn_href: https://www.changeiskey.org/event/2024-evolang-workshop/
       - name: 'What allows human language? a multidisciplinary perspective'
         organizers: 'Nicolas Claidière (nicolas.claidiere@cnrs.fr)'
       - name: 'Interactive alignment in the evolution of vocal communication'
