@@ -1,11 +1,12 @@
-<section id="workshops-section" class="workshops-section section">
+<section id="workshops-section" class="workshops-section section theme-bg-light">
     <div class="container">
 
         <h3 class="section-heading text-center mb-5">{{include.header}}</h3>
         <!-- <h4 class="section-intro text-center single-col-max mx-auto mb-3">{{include.subheader}}</h4> -->
         <div class="row" style="display: flex; justify-content: center;">
             {% for workshop in include.workshop_list %}
-            <li style="text-align: center; list-style-type: none; font-size: 1.2em;">{{ workshop.name }}</li>
+            <li style="text-align: center; list-style-type: none; font-size: 1.2em; font-weight: bold;">{{ workshop.name }}</li>
+            <br>
             <li style="text-align: center; list-style-type: none; font-size: 1.2em;">{{ workshop.organizers }}</li>
             {% endfor %}
         </div><!--//row-->
