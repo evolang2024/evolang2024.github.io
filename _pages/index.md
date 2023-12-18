@@ -63,7 +63,21 @@ workshops:
     header: Workshops
     workshop_list:
       - name: 'Comparative  turn-taking:  A  new  approach  to  tackle  language origins '
-      - organizers: 'Fanny Tibesar (ftibesar@uos.de), Simone Pika (spika@uos.de)'
+        organizers: 'Fanny Tibesar (ftibesar@uos.de), Simone Pika (spika@uos.de)'
+      - name: 'What is children’s role in shaping language evolution?'
+        organizers: 'Tal Culbertson'
+      - name: 'Causal approaches to investigating language evolution: New studies of the association between phonology and climate'
+        organizers: 'Seán Roberts, Cardiff University, UK (RobertsS55@cardiff.ac.uk)'
+      - name: 'EMOLANG: What can communicative signals of positive emotions tell us about the evolution of language?'
+        organizers: ' Heidi Lyn: hlyn@southalabama.edu, Erica Cartmill: cartmill@ucla.edu'
+      - name: 'Large-scale computational approaches to evolution and change:
+prospects and pitfalls'
+        organizers: 'Andres Karjus (akarjus@tlu.ee), Nina Tahmasebi (nina.tahmasebi@gu.se), Haim Dubossarsky (h.dubossarsky@qmul.ac.uk), Stefano De Pascale (stefano.depascale@kuleuven.be)' 
+      - name: 'What allows human language? a multidisciplinary perspective'
+        organizers: 'Nicolas Claidière (nicolas.claidiere@cnrs.fr)'
+      - name: 'Interactive alignment in the evolution of vocal communication'
+        organizers: 'Julia Hyland Bruno (julia.hylandbruno@njit.edu) and Olga Fehér
+(o.feher@warwick.ac.uk)'
 submit:
   subheader: Submission Information
   body: <div style="text-align:left">
