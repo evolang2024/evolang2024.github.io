@@ -59,7 +59,11 @@ speakers:
           img_alt: "'Image of invited plenary speaker Nicole Creanza from Vanderbilt University'"
           img_href: "assets/images/speakers/creanza.jpg"
           website_href: "http://nicolecreanza.com/"
-
+workshops:
+    header: Workshops
+    workshop_list:
+      - name: 'Comparative  turn-taking:  A  new  approach  to  tackle  language origins '
+      - organizers: 'Fanny Tibesar (ftibesar@uos.de), Simone Pika (spika@uos.de)'
 submit:
   subheader: Submission Information
   body: <div style="text-align:left">

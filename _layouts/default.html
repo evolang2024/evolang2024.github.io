@@ -105,6 +105,12 @@
     %}
     {% endif %}
 
+	{% if page.workshops %}
+	% include workshops.html
+		header = page
+	%}
+	{% endif %}
+
 	{% if page.submit %}
     {% include submit.html
         subheader = page.submit.subheader
