@@ -65,7 +65,7 @@ workshops:
       - name: 'Comparative  turn-taking:  A  new  approach  to  tackle  language origins '
         organizers: 'Fanny Tibesar (ftibesar@uos.de), Simone Pika (spika@uos.de)'
       - name: 'What is children’s role in shaping language evolution?'
-        organizers: 'Shira Tal (stal@ed.ac.uk), Jennifer Culbertson (jennifer.culbertson@ed.ac.uk )
+        organizers: 'Shira Tal (stal@ed.ac.uk), Jennifer Culbertson (jennifer.culbertson@ed.ac.uk )'
       - name: 'Causal approaches to investigating language evolution: New studies of the association between phonology and climate'
         organizers: 'Seán Roberts (RobertsS55@cardiff.ac.uk)'
       - name: 'EMOLANG: What can communicative signals of positive emotions tell us about the evolution of language?'
