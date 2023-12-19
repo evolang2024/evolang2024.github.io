@@ -60,7 +60,7 @@ speakers:
           img_href: "assets/images/speakers/creanza.jpg"
           website_href: "http://nicolecreanza.com/"
 workshops:
-    header: Workshops
+    header: Workshops (May 18th)
     workshop_list:
       - name: 'Comparative  turn-taking:  A  new  approach  to  tackle  language origins '
         organizers: 'Fanny Tibesar (ftibesar@uos.de), Simone Pika (spika@uos.de)'
