@@ -229,8 +229,8 @@ venue:
     header-2: Accommodations
     body-2: We have pre-booked room blocks at several  hotels within short walking distance to the conference venue. You can reserve a room at <A HREF='https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=MSNMHHF&groupCode=EVO24&arrivaldate=2024-05-17&departuredate=2024-05-22&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT'>Hilton Monona Terrace</A> or call Hilton Reservtions at 800-445-8667 or the hotel directlry at 608-255-5100 and reference the group code EVO24. An alternative is <A HREF='https://www.bestwestern.com/en_US/book/hotel-rooms.50061.html?groupId=1E9CV2N0'>Park Hotel Madison</A>. Both hotels offer single and double rooms for the same price. The <A HREF='https://uwmadison.eventsair.com/evolang-xv/registration'>registration page</A> has a option to indicate that you are interested in sharing a double room with a fellow attendee. Registered attendees will get a link to a spreadsheet for facilitating room-sharing.  
             
-    button: Learn more about Madison!
-    button-href: "https://isthmus.com/search/location/local-dining/#mz_id=5&ql_id=1&letter_filter=all&ord=last_modified&page=1"
+    # button: Learn more about Madison!
+    # button-href: "https://isthmus.com/search/location/local-dining/#mz_id=5&ql_id=1&letter_filter=all&ord=last_modified&page=1"
     modals:
         - text: Fly to Madison
           fa-icon: fa-plane-departure
