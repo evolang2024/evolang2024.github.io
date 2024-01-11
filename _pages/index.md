@@ -67,7 +67,7 @@ workshops:
       - name: 'Large-scale computational approaches to evolution and change:
 prospects and pitfalls'
         organizers: 'Andres Karjus (akarjus@tlu.ee), Nina Tahmasebi (nina.tahmasebi@gu.se), Haim Dubossarsky (h.dubossarsky@qmul.ac.uk), Stefano De Pascale (stefano.depascale@kuleuven.be)' 
-        btn_name: 'Submit talk: open call'
+        btn_name: 'Additional information'
         btn_href: https://www.changeiskey.org/event/2024-evolang-workshop/
       - name: 'What allows human language? a multidisciplinary perspective'
         organizers: 'Nicolas Claidière (nicolas.claidiere@cnrs.fr). Speakers include Inbal Arnon, Tecumseh Fitch, Simon Kirby, Susan Goldin Meadow, Simon Fisher, Limor Raviv, Kazuo Okanoya, Lucie Wolters, and Liran Carmel'
