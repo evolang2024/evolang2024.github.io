@@ -110,7 +110,9 @@ organizers:
           org: University of Wisconsin-Madison
         - name: Robert Hawkins (Liaison to Scientific Committee)
           org: University of Wisconsin-Madison
-        - name: Zachary Studdiford (Technical planning and logistics) 
+        - name: Magdalen Stone (Logistics Assistant)
+          org: University of Wisconsin-Madison
+        - name: Zachary Studdiford (Technical Assistant) 
           org: University of Wisconsin-Madison
     sci_organizers_list:
         - name: Limor Raviv (chair)
