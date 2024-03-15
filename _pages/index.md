@@ -61,6 +61,12 @@ speakers:
           img_alt: "'Image of invited plenary speaker Nicole Creanza from Vanderbilt University'"
           img_href: "assets/images/speakers/creanza.jpg"
           website_href: "http://nicolecreanza.com/"
+schedule:
+  header: Schedule
+  subheader: We are working on the full schedule and hope to make it available later in March. In the meantime, here is the overview (subject to slight changes).
+  button_name: View Schedule
+  button_href: "https://drive.google.com/file/d/1OpeoZAtiEr7M0_UpOQg-n7lmfGFQR058/view?usp=sharing"
+
 workshops:
     header: Workshops (May 18th)
     workshop_list:

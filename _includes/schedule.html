@@ -1,53 +1,25 @@
-<section id="schedule-section" class="schedule-section section">
+<section id="schedule-section" class="about-section section theme-bg-light">
     <div class="container">
-        <h3 class="section-heading text-center mb-5">Schedule</h3>
-        
-        <!-- Nav tabs -->
-        
-        <ul class="schedule-nav nav nav-pills nav-fill" id="myTab" role="tablist">
-            {% for day in include.days %}
-            <li class="nav-item me-2">
-            {% if forloop.index == 1 %}
-                <a class="nav-link active" id="tab-{{forloop.index}}" data-bs-toggle="tab" href="#tab-{{forloop.index}}-content" role="tab" aria-controls="tab-{{forloop.index}}-content" aria-selected="true">
-            {% else %}
-                <a class="nav-link" id="tab-{{forloop.index}}" data-bs-toggle="tab" href="#tab-{{forloop.index}}-content" role="tab" aria-controls="tab-{{forloop.index}}-content" aria-selected="true">
-            {% endif %}
-                    <span class="heading">{{day.name}}</span>
-                    <span class="meta">{{day.subheader}}</span>
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
-
-        <!-- Tab panes -->
-        <div class="schedule-tab-content tab-content">
-            {% for day in include.days %}
-                {% assign i = forloop.index %}
-                {% if i == 1 %}
-                    <div class="tab-pane active" id="tab-{{i}}-content" role="tabpanel" aria-labelledby="tab-{{i}}">
-                {% else %}
-                    <div class="tab-pane" id="tab-{{i}}-content" role="tabpanel" aria-labelledby="tab-{{i}}">
-                {% endif %}
-                    {% for event in day.events %}
-                        <div class="item item-talk">
-                            <div class="meta">
-                                <h4 class="time mb-3">{{event.time}}</h4>
-                                <div class="profile">
-                                    <a href="#modal-speaker-{{i}}" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="assets/images/speakers/speaker-1.jpg" alt=""></a>
-                                    <div class="name"><a class="theme-link" href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">{{event.speaker}}</a></div>
-                                </div><!--//profile-->
-                            </div><!--//meta-->
-                            <div class="content">
-                                <h3 class="title mb-3">{{event.title}}</h3>
-                                <div class="location mb-3"><i class="fas fa-map-marker-alt me-2"></i>{{event.location}}</div>
-                                <div class="desc">{{event.description}}</div>
-                            </div><!--//content-->
-                        </div><!--//item-->
-                    {% endfor %}
-                </div>
-            {% endfor %}
+        <h3 class="section-heading text-center mb-3">{{include.header}}</h3>
+        <div class="section-intro single-col-max mx-auto pb-5">{{include.subheader}}
+            <br><a class="btn btn-primary mt-3 text-center" href={{include.button_href}}>{{ include.button_name}}</a>
         </div>
-        <!-- Tab panes -->
-        <div class="schedule-cta text-center mx-auto"><a href={{include.button_1_href}} class="btn btn-primary btn-lg me-md-2 d-block d-md-inline-block mb-3 mb-md-0" target="_blank"> {{include.button_1}}</a></div>
+        
+
     </div><!--//container-->
-</section><!--//schedule-section-->
+</section><!--//about-section-->
+<style>
+	a {
+        text-decoration: underline;
+    }
+
+    div {
+        line-height: 20pt;
+
+    }
+
+    #container {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+</style>
