@@ -65,7 +65,7 @@ schedule:
   header: Schedule
   subheader: We are working on the full schedule and hope to make it available later in March. In the meantime, here is the overview (subject to slight changes).
   button_name: View Schedule
-  button_href: "https://drive.google.com/file/d/1OpeoZAtiEr7M0_UpOQg-n7lmfGFQR058/view?usp=sharing"
+  button_href: "http://sapir.psych.wisc.edu/~lupyan/evolang_schedule_overview.pdf"
 
 workshops:
     header: Workshops (May 18th)
