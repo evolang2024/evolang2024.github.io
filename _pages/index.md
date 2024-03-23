@@ -77,6 +77,8 @@ prospects and pitfalls'
         btn_href: https://www.changeiskey.org/event/2024-evolang-workshop/
       - name: 'What allows human language? a multidisciplinary perspective'
         organizers: 'Nicolas Claidière (nicolas.claidiere@cnrs.fr). Speakers include Inbal Arnon, Tecumseh Fitch, Simon Kirby, Susan Goldin Meadow, Simon Fisher, Limor Raviv, Kazuo Okanoya, Lucie Wolters, and Liran Carmel'
+        btn_name: 'Info and schedule'
+        btn_href: https://docs.google.com/document/d/11ypSUdU4dW37-UaVGD0-LfnYITy-4yjthOIL9NtWPcs/
       - name: 'Comparative  turn-taking:  A  new  approach  to  tackle  language origins '
         organizers: 'Fanny Tibesar (ftibesar@uos.de), Simone Pika (spika@uos.de)'
       - name: 'What is children’s role in shaping language evolution?'
