@@ -10,6 +10,9 @@ about:
         <br>The conference language will be English. We will have ASL interpreters on hand for providing interpreting to/from ASL (other sign languages may be a possibility) To gauge demand for interpreting services, please <a href = 'https://docs.google.com/forms/d/e/1FAIpQLSejSkSKxD1BEndXDIARr75xI4p1KBpa7GBAZskD_lJnzuJP8g/viewform'><b>complete this survey</b></a> if you think you could benefit from sign language interpreting. 
         <br><br>
         <b><A HREF=https://uwmadison.eventsair.com/evolang-xv/registration>Registration is now open!</A></b>
+        <br><br>
+        If you are an undergraduate student, or a graduate student in the Midwest (e.g., WI, MN, MI, IN, IL, IA), we are able to offer a limited number of discounted registrations. Please <A HREF='https://forms.gle/UZYDcfY5rhwUQzt16'>complete this form</A> and we will send you instructions for a discounted registration. 
+
         "
 
     subheader_2: Submission Information
