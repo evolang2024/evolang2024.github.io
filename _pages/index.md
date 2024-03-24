@@ -63,9 +63,9 @@ speakers:
           website_href: "http://nicolecreanza.com/"
 schedule:
   header: Schedule
-  subheader: We are working on the full schedule and hope to make it available later in March. In the meantime, here is the overview (subject to slight changes).
+  subheader: The schedule is now available! (subject to slight adjustments).
   button_name: View Schedule
-  button_href: "http://sapir.psych.wisc.edu/~lupyan/evolang_schedule_overview.pdf"
+  button_href: "https://evolang2024.github.io/proceedings/"
 
 workshops:
     header: Workshops (May 18th)
