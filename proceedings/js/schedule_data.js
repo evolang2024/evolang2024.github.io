@@ -17,8 +17,8 @@ var scheduleData = [
                 "endTime": "12:00",
                 "event": "Workshops \u2013 morning",
                 "talks": null,
-                "url": null,
-                "venue": "TBA"
+                "url": "https://evolang2024.github.io/#workshops-section",
+                "venue": "Rooms KL, OP, MN, QR"
             },
             {
                 "startTime": "12:00",
@@ -33,8 +33,8 @@ var scheduleData = [
                 "endTime": "15:55",
                 "event": "Workshops \u2013 afternoon",
                 "talks": null,
-                "url": null,
-                "venue": "TBA"
+                "url": "https://evolang2024.github.io/#workshops-section",
+                "venue": "Rooms KL, OP, MN, QR"
             },
             {
                 "startTime": "16:00",
@@ -58,7 +58,7 @@ var scheduleData = [
                 "event": "Plenary \"TBA\" (Nick Enfield)",
                 "talks": null,
                 "url": "plenary.html?speaker=enfield",
-                "venue": "TBA"
+                "venue": "Lecture Hall"
             },
             {
                 "startTime": "17:45",
@@ -97,7 +97,7 @@ var scheduleData = [
                 "event": "Plenary \"TBA\" (Salikoko Mufwene)",
                 "talks": null,
                 "url": "plenary.html?speaker=mufwene",
-                "venue": "TBA"
+                "venue": "Ballroom A"
             },
             {
                 "startTime": "10:15",
@@ -106,19 +106,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "TBA",
+                            "name": "Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom D",
                             "extra": null
                         }
                     ],
@@ -183,19 +183,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "TBA",
+                            "name": "Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom D",
                             "extra": null
                         }
                     ],
@@ -249,7 +249,7 @@ var scheduleData = [
                 "event": "Plenary \"TBA\" (Marieke Schouwstra)",
                 "talks": null,
                 "url": "plenary.html?speaker=schouwstra",
-                "venue": "TBA"
+                "venue": "Ballroom A"
             },
             {
                 "startTime": "16:20",
@@ -280,7 +280,7 @@ var scheduleData = [
                 "event": "Plenary \"TBA\" (Nicole Creanza)",
                 "talks": null,
                 "url": "plenary.html?speaker=creanza",
-                "venue": "TBA"
+                "venue": "Ballroom A"
             },
             {
                 "startTime": "09:45",
@@ -297,19 +297,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "TBA",
+                            "name": "Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom D",
                             "extra": null
                         }
                     ],
@@ -374,19 +374,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "TBA",
+                            "name": "Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom D",
                             "extra": null
                         }
                     ],
@@ -451,19 +451,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "TBA",
+                            "name": "Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom D",
                             "extra": null
                         }
                     ],
@@ -548,7 +548,7 @@ var scheduleData = [
                 "event": "Plenary \"TBA\" (Marie Coppola)",
                 "talks": null,
                 "url": "plenary.html?speaker=coppola",
-                "venue": "TBA"
+                "venue": "Ballroom A"
             },
             {
                 "startTime": "10:00",
@@ -565,19 +565,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "TBA",
+                            "name": "Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom D",
                             "extra": null
                         }
                     ],
@@ -642,19 +642,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "TBA",
+                            "name": "Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "TBA",
+                            "name": "Ballroom D",
                             "extra": null
                         }
                     ],
@@ -718,7 +718,7 @@ var scheduleData = [
                 "event": "Award ceremony & Closing remarks",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "Ballroom A"
             }
         ]
     }

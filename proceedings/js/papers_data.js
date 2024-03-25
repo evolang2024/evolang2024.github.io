@@ -234,7 +234,7 @@ var papersData = {
         "weburl": "paper.html?nr=7",
         "date": "Monday, May 20, 2024",
         "time": "11:30",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -329,7 +329,7 @@ var papersData = {
         "weburl": "paper.html?nr=10",
         "date": "Monday, May 20, 2024",
         "time": "16:10",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -464,7 +464,7 @@ var papersData = {
         "weburl": "paper.html?nr=12",
         "date": "Tuesday, May 21, 2024",
         "time": "10:55",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -594,7 +594,7 @@ var papersData = {
         "weburl": "paper.html?nr=14",
         "date": "Sunday, May 19, 2024",
         "time": "11:30",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -655,7 +655,7 @@ var papersData = {
         "weburl": "paper.html?nr=15",
         "date": "Tuesday, May 21, 2024",
         "time": "15:15",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -696,7 +696,7 @@ var papersData = {
         "weburl": "paper.html?nr=16",
         "date": "Monday, May 20, 2024",
         "time": "14:50",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -830,7 +830,7 @@ var papersData = {
         "weburl": "paper.html?nr=17",
         "date": "Tuesday, May 21, 2024",
         "time": "14:25",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -948,7 +948,7 @@ var papersData = {
         "weburl": "paper.html?nr=18",
         "date": "Monday, May 20, 2024",
         "time": "10:40",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -992,7 +992,7 @@ var papersData = {
         "weburl": "paper.html?nr=19",
         "date": "Monday, May 20, 2024",
         "time": "17:00",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -1039,7 +1039,7 @@ var papersData = {
         "weburl": "paper.html?nr=20",
         "date": "Sunday, May 19, 2024",
         "time": "11:05",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -1085,7 +1085,7 @@ var papersData = {
         "weburl": "paper.html?nr=21",
         "date": "Sunday, May 19, 2024",
         "time": "10:15",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -1153,7 +1153,7 @@ var papersData = {
         "weburl": "paper.html?nr=22",
         "date": "Monday, May 20, 2024",
         "time": "16:35",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -1239,7 +1239,7 @@ var papersData = {
         "weburl": "paper.html?nr=23",
         "date": "Monday, May 20, 2024",
         "time": "16:10",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -1284,7 +1284,7 @@ var papersData = {
         "weburl": "paper.html?nr=24",
         "date": "Monday, May 20, 2024",
         "time": "11:30",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -1581,7 +1581,7 @@ var papersData = {
         "weburl": "paper.html?nr=27",
         "date": "Tuesday, May 21, 2024",
         "time": "14:00",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -1628,7 +1628,7 @@ var papersData = {
         "weburl": "paper.html?nr=28",
         "date": "Sunday, May 19, 2024",
         "time": "10:40",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -1670,7 +1670,7 @@ var papersData = {
         "weburl": "paper.html?nr=29",
         "date": "Sunday, May 19, 2024",
         "time": "10:40",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -1731,7 +1731,7 @@ var papersData = {
         "weburl": "paper.html?nr=30",
         "date": "Sunday, May 19, 2024",
         "time": "13:30",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -1815,7 +1815,7 @@ var papersData = {
         "weburl": "paper.html?nr=31",
         "date": "Tuesday, May 21, 2024",
         "time": "10:30",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -1959,7 +1959,7 @@ var papersData = {
         "weburl": "paper.html?nr=34",
         "date": "Monday, May 20, 2024",
         "time": "11:30",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -2068,7 +2068,7 @@ var papersData = {
         "weburl": "paper.html?nr=36",
         "date": "Sunday, May 19, 2024",
         "time": "14:20",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -2113,7 +2113,7 @@ var papersData = {
         "weburl": "paper.html?nr=37",
         "date": "Monday, May 20, 2024",
         "time": "16:10",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -2287,7 +2287,7 @@ var papersData = {
         "weburl": "paper.html?nr=39",
         "date": "Tuesday, May 21, 2024",
         "time": "14:50",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -2329,7 +2329,7 @@ var papersData = {
         "weburl": "paper.html?nr=41",
         "date": "Monday, May 20, 2024",
         "time": "17:00",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -2417,7 +2417,7 @@ var papersData = {
         "weburl": "paper.html?nr=42",
         "date": "Sunday, May 19, 2024",
         "time": "13:55",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -2544,7 +2544,7 @@ var papersData = {
         "weburl": "paper.html?nr=44",
         "date": "Sunday, May 19, 2024",
         "time": "14:20",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -2584,7 +2584,7 @@ var papersData = {
         "weburl": "paper.html?nr=45",
         "date": "Monday, May 20, 2024",
         "time": "14:25",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -2845,7 +2845,7 @@ var papersData = {
         "weburl": "paper.html?nr=47",
         "date": "Tuesday, May 21, 2024",
         "time": "14:00",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -2940,7 +2940,7 @@ var papersData = {
         "weburl": "paper.html?nr=48",
         "date": "Sunday, May 19, 2024",
         "time": "10:40",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -3064,7 +3064,7 @@ var papersData = {
         "weburl": "paper.html?nr=51",
         "date": "Monday, May 20, 2024",
         "time": "10:15",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -3209,7 +3209,7 @@ var papersData = {
         "weburl": "paper.html?nr=52",
         "date": "Monday, May 20, 2024",
         "time": "14:25",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -3320,7 +3320,7 @@ var papersData = {
         "weburl": "paper.html?nr=53",
         "date": "Monday, May 20, 2024",
         "time": "11:05",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -3379,7 +3379,7 @@ var papersData = {
         "weburl": "paper.html?nr=54",
         "date": "Sunday, May 19, 2024",
         "time": "13:30",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -3469,7 +3469,7 @@ var papersData = {
         "weburl": "paper.html?nr=55",
         "date": "Monday, May 20, 2024",
         "time": "15:15",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -3553,7 +3553,7 @@ var papersData = {
         "weburl": "paper.html?nr=56",
         "date": "Sunday, May 19, 2024",
         "time": "10:15",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -3626,7 +3626,7 @@ var papersData = {
         "weburl": "paper.html?nr=57",
         "date": "Tuesday, May 21, 2024",
         "time": "11:45",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -3748,7 +3748,7 @@ var papersData = {
         "weburl": "paper.html?nr=58",
         "date": "Tuesday, May 21, 2024",
         "time": "14:00",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -3847,7 +3847,7 @@ var papersData = {
         "weburl": "paper.html?nr=59",
         "date": "Sunday, May 19, 2024",
         "time": "13:30",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -3936,7 +3936,7 @@ var papersData = {
         "weburl": "paper.html?nr=60",
         "date": "Monday, May 20, 2024",
         "time": "15:15",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -4102,7 +4102,7 @@ var papersData = {
         "weburl": "paper.html?nr=61",
         "date": "Monday, May 20, 2024",
         "time": "14:00",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -4225,7 +4225,7 @@ var papersData = {
         "weburl": "paper.html?nr=62",
         "date": "Tuesday, May 21, 2024",
         "time": "11:20",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -4383,7 +4383,7 @@ var papersData = {
         "weburl": "paper.html?nr=63",
         "date": "Monday, May 20, 2024",
         "time": "14:00",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -4441,7 +4441,7 @@ var papersData = {
         "weburl": "paper.html?nr=64",
         "date": "Tuesday, May 21, 2024",
         "time": "10:55",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -4518,7 +4518,7 @@ var papersData = {
         "weburl": "paper.html?nr=65",
         "date": "Sunday, May 19, 2024",
         "time": "13:55",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -4595,7 +4595,7 @@ var papersData = {
         "weburl": "paper.html?nr=66",
         "date": "Monday, May 20, 2024",
         "time": "17:00",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -4653,7 +4653,7 @@ var papersData = {
         "weburl": "paper.html?nr=67",
         "date": "Sunday, May 19, 2024",
         "time": "10:40",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -4710,7 +4710,7 @@ var papersData = {
         "weburl": "paper.html?nr=68",
         "date": "Tuesday, May 21, 2024",
         "time": "11:20",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -4765,7 +4765,7 @@ var papersData = {
         "weburl": "paper.html?nr=69",
         "date": "Tuesday, May 21, 2024",
         "time": "10:30",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -4923,7 +4923,7 @@ var papersData = {
         "weburl": "paper.html?nr=71",
         "date": "Sunday, May 19, 2024",
         "time": "14:20",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -5115,7 +5115,7 @@ var papersData = {
         "weburl": "paper.html?nr=72",
         "date": "Sunday, May 19, 2024",
         "time": "10:15",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -5274,7 +5274,7 @@ var papersData = {
         "weburl": "paper.html?nr=73",
         "date": "Monday, May 20, 2024",
         "time": "15:15",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -5329,7 +5329,7 @@ var papersData = {
         "weburl": "paper.html?nr=75",
         "date": "Tuesday, May 21, 2024",
         "time": "14:25",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -5571,7 +5571,7 @@ var papersData = {
         "weburl": "paper.html?nr=78",
         "date": "Monday, May 20, 2024",
         "time": "11:05",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -5611,7 +5611,7 @@ var papersData = {
         "weburl": "paper.html?nr=79",
         "date": "Monday, May 20, 2024",
         "time": "16:10",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -5669,7 +5669,7 @@ var papersData = {
         "weburl": "paper.html?nr=80",
         "date": "Tuesday, May 21, 2024",
         "time": "11:45",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -5750,7 +5750,7 @@ var papersData = {
         "weburl": "paper.html?nr=81",
         "date": "Monday, May 20, 2024",
         "time": "16:35",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -5837,7 +5837,7 @@ var papersData = {
         "weburl": "paper.html?nr=82",
         "date": "Tuesday, May 21, 2024",
         "time": "15:15",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -5952,7 +5952,7 @@ var papersData = {
         "weburl": "paper.html?nr=84",
         "date": "Tuesday, May 21, 2024",
         "time": "11:45",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -6019,7 +6019,7 @@ var papersData = {
         "weburl": "paper.html?nr=85",
         "date": "Monday, May 20, 2024",
         "time": "10:15",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -6156,7 +6156,7 @@ var papersData = {
         "weburl": "paper.html?nr=87",
         "date": "Monday, May 20, 2024",
         "time": "17:00",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -6234,7 +6234,7 @@ var papersData = {
         "weburl": "paper.html?nr=88",
         "date": "Monday, May 20, 2024",
         "time": "14:50",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -6371,7 +6371,7 @@ var papersData = {
         "weburl": "paper.html?nr=90",
         "date": "Monday, May 20, 2024",
         "time": "16:35",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -6515,7 +6515,7 @@ var papersData = {
         "weburl": "paper.html?nr=92",
         "date": "Sunday, May 19, 2024",
         "time": "13:55",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -6663,7 +6663,7 @@ var papersData = {
         "weburl": "paper.html?nr=94",
         "date": "Monday, May 20, 2024",
         "time": "16:35",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -6736,7 +6736,7 @@ var papersData = {
         "weburl": "paper.html?nr=96",
         "date": "Tuesday, May 21, 2024",
         "time": "14:25",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -6807,7 +6807,7 @@ var papersData = {
         "weburl": "paper.html?nr=98",
         "date": "Monday, May 20, 2024",
         "time": "10:40",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -7000,7 +7000,7 @@ var papersData = {
         "weburl": "paper.html?nr=100",
         "date": "Tuesday, May 21, 2024",
         "time": "14:50",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -7063,7 +7063,7 @@ var papersData = {
         "weburl": "paper.html?nr=101",
         "date": "Tuesday, May 21, 2024",
         "time": "10:30",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -7375,7 +7375,7 @@ var papersData = {
         "weburl": "paper.html?nr=103",
         "date": "Sunday, May 19, 2024",
         "time": "13:55",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -7539,7 +7539,7 @@ var papersData = {
         "weburl": "paper.html?nr=104",
         "date": "Monday, May 20, 2024",
         "time": "10:40",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -7730,7 +7730,7 @@ var papersData = {
         "weburl": "paper.html?nr=106",
         "date": "Monday, May 20, 2024",
         "time": "10:15",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -7769,7 +7769,7 @@ var papersData = {
         "weburl": "paper.html?nr=107",
         "date": "Sunday, May 19, 2024",
         "time": "11:30",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -8286,7 +8286,7 @@ var papersData = {
         "weburl": "paper.html?nr=112",
         "date": "Sunday, May 19, 2024",
         "time": "10:15",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -8415,7 +8415,7 @@ var papersData = {
         "weburl": "paper.html?nr=113",
         "date": "Sunday, May 19, 2024",
         "time": "14:20",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -8457,7 +8457,7 @@ var papersData = {
         "weburl": "paper.html?nr=114",
         "date": "Monday, May 20, 2024",
         "time": "10:40",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -8564,7 +8564,7 @@ var papersData = {
         "weburl": "paper.html?nr=115",
         "date": "Monday, May 20, 2024",
         "time": "14:50",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -8667,7 +8667,7 @@ var papersData = {
         "weburl": "paper.html?nr=116",
         "date": "Sunday, May 19, 2024",
         "time": "11:05",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -8732,7 +8732,7 @@ var papersData = {
         "weburl": "paper.html?nr=118",
         "date": "Tuesday, May 21, 2024",
         "time": "10:55",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -8868,7 +8868,7 @@ var papersData = {
         "weburl": "paper.html?nr=120",
         "date": "Sunday, May 19, 2024",
         "time": "11:05",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -8935,7 +8935,7 @@ var papersData = {
         "weburl": "paper.html?nr=121",
         "date": "Sunday, May 19, 2024",
         "time": "11:05",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -8990,7 +8990,7 @@ var papersData = {
         "weburl": "paper.html?nr=122",
         "date": "Tuesday, May 21, 2024",
         "time": "11:45",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -9128,7 +9128,7 @@ var papersData = {
         "weburl": "paper.html?nr=124",
         "date": "Monday, May 20, 2024",
         "time": "11:05",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -9169,7 +9169,7 @@ var papersData = {
         "weburl": "paper.html?nr=125",
         "date": "Monday, May 20, 2024",
         "time": "11:05",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -9269,7 +9269,7 @@ var papersData = {
         "weburl": "paper.html?nr=126",
         "date": "Monday, May 20, 2024",
         "time": "14:50",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -9339,7 +9339,7 @@ var papersData = {
         "weburl": "paper.html?nr=127",
         "date": "Monday, May 20, 2024",
         "time": "14:00",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -9486,7 +9486,7 @@ var papersData = {
         "weburl": "paper.html?nr=128",
         "date": "Monday, May 20, 2024",
         "time": "11:30",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -9553,7 +9553,7 @@ var papersData = {
         "weburl": "paper.html?nr=129",
         "date": "Tuesday, May 21, 2024",
         "time": "10:55",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -9764,7 +9764,7 @@ var papersData = {
         "weburl": "paper.html?nr=132",
         "date": "Tuesday, May 21, 2024",
         "time": "14:50",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -9822,7 +9822,7 @@ var papersData = {
         "weburl": "paper.html?nr=133",
         "date": "Tuesday, May 21, 2024",
         "time": "11:20",
-        "location": "TBA (Track 2)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -9895,7 +9895,7 @@ var papersData = {
         "weburl": "paper.html?nr=134",
         "date": "Sunday, May 19, 2024",
         "time": "13:30",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -9937,7 +9937,7 @@ var papersData = {
         "weburl": "paper.html?nr=135",
         "date": "Tuesday, May 21, 2024",
         "time": "14:00",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -10086,7 +10086,7 @@ var papersData = {
         "weburl": "paper.html?nr=137",
         "date": "Sunday, May 19, 2024",
         "time": "11:30",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -10335,7 +10335,7 @@ var papersData = {
         "weburl": "paper.html?nr=141",
         "date": "Tuesday, May 21, 2024",
         "time": "14:25",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -10411,7 +10411,7 @@ var papersData = {
         "weburl": "paper.html?nr=142",
         "date": "Monday, May 20, 2024",
         "time": "14:25",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -10543,7 +10543,7 @@ var papersData = {
         "weburl": "paper.html?nr=144",
         "date": "Tuesday, May 21, 2024",
         "time": "10:30",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -10612,7 +10612,7 @@ var papersData = {
         "weburl": "paper.html?nr=145",
         "date": "Monday, May 20, 2024",
         "time": "10:15",
-        "location": "TBA (Track 4)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -10685,7 +10685,7 @@ var papersData = {
         "weburl": "paper.html?nr=146",
         "date": "Tuesday, May 21, 2024",
         "time": "11:20",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -10731,7 +10731,7 @@ var papersData = {
         "weburl": "paper.html?nr=147",
         "date": "Monday, May 20, 2024",
         "time": "14:00",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -10790,7 +10790,7 @@ var papersData = {
         "weburl": "paper.html?nr=148",
         "date": "Monday, May 20, 2024",
         "time": "15:15",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -10918,7 +10918,7 @@ var papersData = {
         "weburl": "paper.html?nr=150",
         "date": "Sunday, May 19, 2024",
         "time": "11:30",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -11041,7 +11041,7 @@ var papersData = {
         "weburl": "paper.html?nr=153",
         "date": "Tuesday, May 21, 2024",
         "time": "15:15",
-        "location": "TBA (Track 1)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -11165,7 +11165,7 @@ var papersData = {
         "weburl": "paper.html?nr=154",
         "date": "Monday, May 20, 2024",
         "time": "14:25",
-        "location": "TBA (Track 3)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     }
