@@ -3790,7 +3790,7 @@ var papersData = {
         },
         "summary": "Language exhibits systematicity in the way a set of discrete units, such as words or syllables, are used and reused to form linguistic sequences. This systematicity is reflected in the distributional statistics of language use, which in turn provides cues that can facilitate the discovery of relevant units \u2013 a crucial milestone in language learning. In the presented study, we investigate experimentally whether the emergence of distributional structure can be driven by domain-general constraints on sequence learning over repeated language transmission. I will show evidence of the emergence of statistically coherent units and their skewed frequency distribution in a non-linguistic iterated learning experiment. Doing so, I will contrast different strategies to extract units from sequence-sets. Taken together, the experimental results suggest that learning pressures can shape the distributional structure of language and with that, that aspects of linguistic structure may emerge independently of the structure in the meanings that are being conveyed.",
         "keywords": [
-            "distributional structure, word segmentation, language emergence, iterated learning"
+            "statistical structure, word segmentation, language emergence, iterated learning"
         ],
         "weburl": "paper.html?nr=127",
         "date": "Monday, May 20, 2024",
@@ -4372,7 +4372,7 @@ var papersData = {
         "license": null
     },
     "145": {
-        "title": "Diversity and Universals in Culturally Evolved Communication Systems Across Species: A Complex Adaptive System Account",
+        "title": "Diversity and Universals in Culturally Evolved Sound Systems Across Species: A Complex Adaptive System Account",
         "authors": [
             "Li Lei",
             "Elizabeth Qing Zhang",
@@ -4394,9 +4394,9 @@ var papersData = {
             "twitter": "",
             "facebook": ""
         },
-        "summary": "Diversity and universals emerge simultaneously in culturally evolved communication systems across species. Existing research attempts to explain the origins of diversity (i.e., the Linguistic Niche Hypothesis) and universals (i.e., the Efficient Communication Framework). In this study, we attempt to unify the above two theories from the perspective of complex adaptive systems. In this regard, language evolution is seen as a process of self-organizing optimization. Diversity comes from the differences in adaptation strategies of individuals for different environments. Universals, on the other hand, come from the crossover occurring in all populations under common conditional constraints and communicative goals. Reviewing studies on cross-species ABMs (i.e., the vowel system and the cetacean communication system) further supports our point. ABMs offer the possibility of observing the mechanisms that help trigger and maintain diversity and universals, and cross-species comparisons help reveal whether the mechanisms are generalizable or not.",
+        "summary": "Diversity and universals emerge simultaneously in culturally evolved sound systems across species. Research attempts to elucidate the origins of diversity and universals (e.g., the Acoustic Adaptation Hypothesis ) and universals (e.g., the Efficient Communication Framework). This article aims to integrate these theories within a complex adaptive systems (CAS) account by comparing existing agent-based models (ABMs) of human vowel systems and cetacean vocal systems. These ABMs illustrate sound system evolution as a process of self-adaptive optimization. Diversity arises from differences in adaptation strategies across environments, while universals stem from common conditional constraints and specific goals (e.g., communicative for humans and biological for non-human animals). It can uncover generalizable principles underlying the emergence of diversity and universals in language evolution by comparing ABMs of human and cetacean sound systems. Such cross-species comparisons offer insights into the social-cognitive mechanisms driving language evolution and the perpetuation of endless change.",
         "keywords": [
-            "diversity, universals, agent-based models, complex adaptive systems, vowel, whale"
+            "diversity, universals, agent-based models, complex adaptive systems, vowel systems, cetacean vocal systems"
         ],
         "weburl": "paper.html?nr=145",
         "date": "Monday, May 20, 2024",

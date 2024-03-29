@@ -94,7 +94,7 @@ var scheduleData = [
             {
                 "startTime": "08:45",
                 "endTime": "09:45",
-                "event": "Plenary \"TBA\" (Salikoko Mufwene)",
+                "event": "Plenary \"Language Vitality: Understudied in Evolutionary Linguistics\" (Salikoko Mufwene)",
                 "talks": null,
                 "url": "plenary.html?speaker=mufwene",
                 "venue": "Ballroom A"
