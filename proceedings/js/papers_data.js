@@ -796,7 +796,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=31",
         "date": "Tuesday, May 21, 2024",
-        "time": "10:30",
+        "time": "14:00",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
@@ -1024,7 +1024,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=39",
         "date": "Tuesday, May 21, 2024",
-        "time": "14:50",
+        "time": "11:20",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
@@ -1264,7 +1264,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=47",
         "date": "Tuesday, May 21, 2024",
-        "time": "14:00",
+        "time": "10:30",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
@@ -2170,7 +2170,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=75",
         "date": "Tuesday, May 21, 2024",
-        "time": "14:25",
+        "time": "10:55",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
@@ -2402,7 +2402,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=82",
         "date": "Tuesday, May 21, 2024",
-        "time": "15:15",
+        "time": "11:45",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
@@ -2466,7 +2466,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=84",
         "date": "Tuesday, May 21, 2024",
-        "time": "11:45",
+        "time": "15:15",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
@@ -3870,39 +3870,9 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=129",
         "date": "Tuesday, May 21, 2024",
-        "time": "10:55",
+        "time": "14:25",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
-    },
-    "130": {
-        "title": "Material Origin of Number Explains the Diversity in Kwa Numerals",
-        "authors": [
-            "Enock Appiah Tieku"
-        ],
-        "correspemails": [
-            null
-        ],
-        "download": null,
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "",
-            "ris": "",
-            "copy": ""
-        },
-        "sharing": {
-            "twitter": "",
-            "facebook": ""
-        },
-        "summary": "Why are Kwa numeral systems unusually diverse? Several researchers have in the past underlined the diversity of Kwa numerals system from Niger Congo languages and beyond. This study investigates the question by building the Kwa numerals database comprising 53 languages.I used the comparative methods for the analyses, combining a mixed methods approach. The results shows that the complexity in Kwa numeral systems result from counting strategies: body-based counting that conflicts with cowrie (shell) counting and a special counting system that distinguishes numerals used for counting and those for cardinality. These two major findings show that the numeral systems have evolved from materials used for their representing and manipulating. The influence from the materials used is further seen in instances of borrowings as loan forms are from similar materials - currency. Moreover, the paper highlights special cultural values, including spiritual ones, assigned to numbers have mildly influenced the system diversity.",
-        "keywords": [
-            "numeral system, diversity, material, imperfect decimal, counting, cardinality"
-        ],
-        "weburl": "paper.html?nr=130",
-        "date": "Sunday, May 19, 2024",
-        "time": "17:30",
-        "location": "TBA",
-        "prestype": "poster",
         "license": null
     },
     "131": {
@@ -4002,7 +3972,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=133",
         "date": "Tuesday, May 21, 2024",
-        "time": "11:20",
+        "time": "14:50",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
