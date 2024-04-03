@@ -587,7 +587,7 @@ var scheduleData = [
                             "endTime": "10:55",
                             "papers": [
                                 144,
-                                47,
+                                39,
                                 101,
                                 69
                             ]
@@ -597,7 +597,7 @@ var scheduleData = [
                             "endTime": "11:20",
                             "papers": [
                                 12,
-                                75,
+                                47,
                                 118,
                                 64
                             ]
@@ -607,7 +607,7 @@ var scheduleData = [
                             "endTime": "11:45",
                             "papers": [
                                 62,
-                                39,
+                                75,
                                 146,
                                 68
                             ]

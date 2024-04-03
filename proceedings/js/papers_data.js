@@ -1024,7 +1024,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=39",
         "date": "Tuesday, May 21, 2024",
-        "time": "11:20",
+        "time": "10:30",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
@@ -1264,7 +1264,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=47",
         "date": "Tuesday, May 21, 2024",
-        "time": "10:30",
+        "time": "10:55",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
@@ -2170,7 +2170,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=75",
         "date": "Tuesday, May 21, 2024",
-        "time": "10:55",
+        "time": "11:20",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
