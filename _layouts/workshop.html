@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+	<title>Evolang XV</title>
+	
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="International Conference on the Evolution of Language (Evolang XV), Madison, WI">
+	<meta name="author" content="Gary Lupyan">    
+	<meta http-equiv='pragma' content='no-cache'>
+
+	<!-- Google Font -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:600,700,800|Roboto:300,400,700&display=swap" rel="stylesheet">
+	
+	<!-- FontAwesome JS-->
+	<script defer src="../assets/fontawesome/js/all.min.js"></script>
+
+	<!-- Theme CSS -->  
+	<link id="theme-style" rel="stylesheet" href="../assets/css/theme.css">
+
+
+</head> 
+
+<body>    
+	<header id="header" class="header fixed-top">	    
+		<div class="branding">
+			<div class="container-fluid">
+				<nav class="main-nav navbar navbar-expand-lg">
+<!-- 					<div class="site-logo"><a class="scrollto" href="#hero-block"><img class="logo-icon" src="assets/images/logo-white.svg" alt="logo"></a></div>    
+					 -->
+					<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					
+					<div id="navigation" class="navbar-collapse collapse  justify-content-lg-end me-lg-3">
+						<ul class="nav navbar-nav">
+                            <li class="nav-item home-button"><a class="nav-link scrollto" href="#" onclick="window.open('/', '_self');">Home</a></li> 
+						</ul><!--//nav-->
+					</div><!--//navabr-collapse-->
+
+				</nav><!--//main-nav-->
+				
+			</div><!--//container-->
+		</div><!--//branding-->
+	</header><!--//header-->
+	<div style="min-height:5em;">
+
+    </div>
+
+    {% if page.info %}
+    {% include info.html
+        info_sections = page.info.info_sections
+    %}
+    {% endif %}
+	<footer class="footer py-5 theme-bg-primary">
+		<div class="container text-center">
+			
+			<!-- <ul class="social-list list-inline mb-4"> 
+				<li class="list-inline-item me-3"><a href="#"><i class="fas fa-envelope"></i></a></li>
+				<li class="list-inline-item me-3"><a href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+				<li class="list-inline-item me-3"><a href="#"><i class="fab fa-instagram fa-fw"></i></a></li>
+				<li class="list-inline-item me-0"><a href="#"><i class="fab fa-youtube fa-fw"></i></a></li>
+			</ul>//social-list -->
+			
+			
+			<ul class="footer-links list-inline mx-auto mb-4">
+				<li class="list-inline-item"><a href="https://evolang.org/codeofconduct">Code of Conduct</a></li>
+				<!-- <li class="list-inline-item">|</li> -->
+<!-- 				<li class="list-inline-item"><a href="#">Terms</a></li>
+				<li class="list-inline-item">|</li>
+				<li class="list-inline-item me-0"><a href="#">Privacy</a></li>
+ -->			</ul><!--//footer-link-->
+			
+			 <!--/* This template is free as long as you keep the footer attribution link. If you'd like to use the template without the attribution link, you can buy the commercial license via our website: themes.3rdwavemedia.com Thank you for your support. :) */-->
+			<small class="copyright">Designed with <i class="fas fa-heart" style="color: #EC645E;"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
+
+		</div><!--//container-->	    
+	</footer>
+
+	<!-- Javascript -->          
+	<script src="../assets/plugins/popper.min.js"></script>
+	<script src="../assets/plugins/bootstrap/js/bootstrap.min.js"></script>  
+	<script src="../assets/plugins/smoothscroll.min.js"></script>
+	<script src="../assets/plugins/gumshoe/gumshoe.polyfills.min.js"></script> 
+
+</body>
+</html> 
+<style>
+	.hero-text-block{
+		min-width: 86%;
+	}
+    .home-button{
+        background-color: #EC645E;
+        border-radius: 8px;
+    }
+</style>
+<script>
+    document.getElementById('header').classList.add('header-shrink'); 
+</script>

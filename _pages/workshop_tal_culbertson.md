@@ -1,23 +1,29 @@
 ---
 permalink: /workshop_tal_culbertson/
 title: What is children’s role in shaping language evolution?
-layout: submission_details
+layout: workshop
 info:
   info_sections:
       - header: "Schedule"
-        subheader: "<ul><li>Deadline for proposals (extended): October 13, 2023</li>
-        <li>Notification of acceptance: November, 10 2023</li>
-        <li>Contact for submission: Gary Lupyan (<a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>)</li></ul>
-        EVOLANG will host several thematically focused workshops to be held on May 18th. For all accepted workshops, the workshop organizers will be responsible for finalizing the detailed schedule and for soliciting contributions.<br><br>
-        <h4>Workshop proposals should be submitted as a PDF, and include the following information:</h4><br>
-        ● Workshop title<br>
-        ● How long do you anticipate the workshop will run? (depending on the number of submissions, we may group workshops into shorter and longer slots, depending on needs).<br>
-        ● Names and contact information for the workshop organizers,<br>
-        ● What research questions does your workshop address? Why are these questions important to the study of language evolution? What makes this workshop timely? What makes the organizers qualified to run the workshop? What criteria are you using to invite contributors? (no more than 750 words + references).<br>
-        ● A list of likely contributors<br>
-        ● A tentative schedule<br>
-        ● Do you have any special technical needs?<br><br><br>
-        Workshop proposals will be reviewed and selected by the local organizers and at least two referees." 
+        subheader: "
+        <li><strong>9:15: What is children’s role in shaping language evolution? - Introduction</strong><br>
+        <p>Shira Tal & Jennifer Culbertson (University of Edinburgh)</p>
+        </li>
+        <li><strong>9:30: Changing form-meaning mappings in development and diachrony</strong><br>
+            <p>Ailís Cournane</p>
+        </li>
+        <li><strong>10:00: Foundations of meaning in the prelinguistic mind</strong><br>
+            <p>Isabelle Dautriche (online)</p>
+        </li>
+        <li><strong>10:30: When children’s lack of knowledge is an advantage: Starting Big from acquisition to emergence</strong><br>
+            <p>Inbal Arnon (The Hebrew University of Jerusalem)</p>
+        </li>
+        <li><strong>11:00: No convincing evidence that child language acquisition errors drive language change</strong><br>
+            <p>Limor Raviv, Damian Blasi & Vera Kempe</p>
+        </li>
+        <li><strong>11:30: Young Languages and Young Learners: Taking Child Learning Seriously in Language</strong><br>
+            <p>Molly Flaherty</p>
+        </li>" 
       # - subheader_2: "Paper submissions"
       #   body_2: "The (extended) deadline for submission to EVOLANG XV (<A HREF='https://www.visitmadison.com/'><b>Madison, WI, USA</b></A>, May 18-21, 2024) is October 13, 2023. You can submit to EvoLang XV via <A HREF='https://openreview.net/group?id=EVOLANG.org/2024/Conference&referrer=%5BHomepage%5D(%2F)'>the <b>OpenReview</b> platform</a>. Please carefully read the guidelines set out below - and see the linked submission templates - to prepare your submission. Submissions that do not adhere to the guidelines may be rejected without review. If you have a problem with your submission, please email <a href='scientific-committee@evolang.org.'>scientific-committee@evolang.org</a>.
       #   Submissions may be in any relevant discipline, and should aim to make clear their own substantive claim relating to relevant, current scientific literature in the field of language evolution. Submissions which do not have clear relevance to the field may be rejected without review.<br><br>
