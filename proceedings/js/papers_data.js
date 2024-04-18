@@ -306,13 +306,13 @@ var papersData = {
         "license": null
     },
     "17": {
-        "title": "Representing Space in Silent Gesture: Communicative Contexts Compared Cross-Culturally",
+        "title": "Representing Space in Silent Gesture: Communicative Contexts Compared in Bali",
         "authors": [
             "Danielle Naegeli",
             "David Peeters",
             "Emiel Krahmer",
             "Marieke Schouwstra",
-            "Made Sri Satywati",
+            "Made Sri Satyawati",
             "Connie de Vos"
         ],
         "correspemails": [

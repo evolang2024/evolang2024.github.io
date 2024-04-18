@@ -517,7 +517,7 @@ var scheduleData = [
                 "event": "Business meeting",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "Ballroom A"
             },
             {
                 "startTime": "18:30",
@@ -525,15 +525,15 @@ var scheduleData = [
                 "event": "Conference dinner",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "23 N. Pinckney St., Suite 210"
             },
             {
                 "startTime": "21:00",
-                "endTime": "22:00",
+                "endTime": "23:00",
                 "event": "Karaoke",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "23 N. Pinckney St., Suite 210"
             }
         ]
     },
