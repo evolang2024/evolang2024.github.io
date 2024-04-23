@@ -55,7 +55,7 @@ var scheduleData = [
             {
                 "startTime": "16:45",
                 "endTime": "17:45",
-                "event": "Plenary \"TBA\" (Nick Enfield)",
+                "event": "Plenary \"The enchronic envelope: A privileged locus in the life cycles of language\" (Nick Enfield)",
                 "talks": null,
                 "url": "plenary.html?speaker=enfield",
                 "venue": "Lecture Hall"
@@ -246,7 +246,7 @@ var scheduleData = [
             {
                 "startTime": "15:15",
                 "endTime": "16:15",
-                "event": "Plenary \"TBA\" (Marieke Schouwstra)",
+                "event": "Plenary \"Silent gesture: uncovering biases that shape linguistic conventions\" (Marieke Schouwstra)",
                 "talks": null,
                 "url": "plenary.html?speaker=schouwstra",
                 "venue": "Ballroom A"
