@@ -1483,10 +1483,10 @@ var papersData = {
             "linguistic diversity, language endangerment, colonialism, comparative linguistics"
         ],
         "weburl": "paper.html?nr=55",
-        "date": "Monday, May 20, 2024",
-        "time": "15:15",
-        "location": "Ballroom C (Track 3)",
-        "prestype": "talk",
+        "date": "Sunday, May 19, 2024",
+        "time": "17:30",
+        "location": "TBA",
+        "prestype": "poster",
         "license": null
     },
     "56": {

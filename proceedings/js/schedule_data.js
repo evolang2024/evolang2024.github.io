@@ -277,7 +277,7 @@ var scheduleData = [
             {
                 "startTime": "08:45",
                 "endTime": "09:45",
-                "event": "Plenary \"TBA\" (Nicole Creanza)",
+                "event": "Plenary \"Global and local studies of genetic and linguistic evolution\" (Nicole Creanza)",
                 "talks": null,
                 "url": "plenary.html?speaker=creanza",
                 "venue": "Ballroom A"
@@ -732,6 +732,7 @@ var posterData = [
         "endTime": "19:15",
         "papers": [
             99,
+            55,
             77,
             105,
             139,
