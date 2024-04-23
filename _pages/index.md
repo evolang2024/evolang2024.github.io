@@ -15,7 +15,7 @@ about:
 
         "
 
-    subheader_2: Submission Information
+    subheader_2: Presenter Information
     body_2: <div style="text-align:left">
     
               Please see <A HREF="#" onclick='window.open(`submission_details/#info-2`, `_self`);'><b>here</b></A> for complete information on submission requirements.<br>
@@ -98,22 +98,32 @@ prospects and pitfalls'
         organizers: 'Julia Hyland Bruno (julia.hylandbruno@njit.edu) and Olga Fehér
 (o.feher@warwick.ac.uk)'
 submit:
-  subheader: Submission Information
+  subheader: Presenter Information
   body: <div style="text-align:left">
-    
-              Please see <A HREF="#" onclick='window.open(`submission_details/#info-2`, `_self`);'><b>here</b></A> for complete information on submission requirements.<br>
-              There are two types of submissions&#58;
-              <ol>
-                  <li><b>Abstracts</b> (up to 2 pages, excl. references and acknowledgements). </li>
-                  <li><b>Full papers</b> (up to 6 pages, excl. references and acknowledgements)</li> 
-              </ol>
-              <br><br>
-              Authors are limited to one first-authored podium presentation (15 min talk + 5 min Q&A) and one first-authored poster. There is no limit on the number of submissions for which you can be a non-first author. When submitting, please indicate your preferred mode of presentation (podium talk or poster). We hope to see as many of you as possible in person, but we understand that travel to the US is not possible for all presenters. We will be able to offer a limited number of virtual flash talks and podium presentations.  All accepted submissions will be published in an online proceedings volume to appear before the start of the conference. <b>Submissions portal will open Sept 7th, 2023.</b> In addition, we are soliciting <A HREF="#" onclick='window.open(`submission_details/#info-1`, `_self`);'><b>workshop proposals</b></A> which should be emailed directly to Gary Lupyan at <a href='mailto:lupyan@wisc.edu'>lupyan@wisc.edu</a>.
-              <br><br>
-              Normal standards of academic excellence apply. Submitted papers should make clear how they advance the study of language evolution and relate any novel results to up to date scientific literature. Submissions should make clear the method by which their claims are substantiated, the nature of the relevant data, and&#47;or the core of the theoretical argument. Submissions centered around empirical studies should not rest on preliminary results. All submissions are refereed by at least three relevant referees, and acceptance is based on a scoring scheme pooling the reports of the referees. In recent conferences, the acceptance rate has been about 50&#37;. 
-              <br><br>
-              Posters should fit on a 91" wide x 44" tall poster board. 
-              </div>
+            <b>Podium Presentations:</b><br>
+            Talks will be organized into 4 parallel sessions in adjacent rooms. To facilitate a smooth transition between presentations and allow attendees to switch sessions easily, please adhere strictly to the allocated time for your talk.<br>
+            <b>Presentation Time:</b> Each speaker is allotted 15 minutes for their presentation, followed by 7 minutes for questions and answers.<br>
+            Please plan on using your own laptop for presenting. We will have laser pointers and remotes available for use, or you are free to use your own. We will have HDMI and USB-C connections available. If you require a different connection, please bring a dongle.<br><br>
+
+            <b>Poster Dimensions & Formats:</b><br>
+            Overall Poster Board Size&#58; Our poster boards are wide, measuring 91 inches (231 cm) in width and 44.75 inches (113.6 cm) in height. Please design your poster to fit within these dimensions. A poster spanning this entire area would be quite large, and you may want to print it at a somewhat smaller size.<br>
+            <b>Wide (Landscape) Format:</b><br>
+            Maximum Size&#58; A0 size (46.8 × 33.1 inches or 118.8 x 84.1 cm). This is the preferred format for its visibility and space efficiency.<br>
+            <b>Long (Portrait) Format:</b><br>
+            Maximum Height&#58; Do not exceed the height of the poster boards, which is 44 inches (111.7 cm). Note&#58; The portrait format offers slightly less display area compared to the landscape (A0) format often used at conferences.<br><br>
+
+            <b>Poster Content & Design Tips:</b><br>
+            Ensure your poster is readable from a distance. Use large fonts and clear, concise language.<br>
+            Include your poster title, author(s), affiliation(s), and a brief abstract at the top.<br>
+            Use visuals (charts, graphs, images) to complement your text and highlight key findings.<br>
+            Consider the flow of information; organize your content logically from left to right and top to bottom.<br>
+            You may want to add a QR code to a digital version, print handout versions and/or make a signup sheet for people wanting more details.<br><br>
+
+            The poster session is scheduled for 5:30pm-7:15pm on Sunday May 19th. You will be able to put up your poster after noon on that day. Please take it down after the poster session concludes. Be present at your poster during the assigned poster session times to discuss your work with attendees.<br><br>
+
+            <b>Flash Talks:</b> If you have an accepted poster and would like to give a 90 seconds flash talk prior to the poster session, please submit this form. We recommend giving a flash talk as an opportunity to promote your poster and increase its visibility. The deadline to register your flash talk is May 1st.<br>
+            The flash talk session will take place right before the poster session/reception in the afternoon of May 19th. Each speaker will have 90 seconds and one static slide. We will get in touch a week or so before the conference to ask for your slide so that we can host it on a single computer since there won’t be time to switch computers in between presentations.<br>
+            </div>
 organizers:
     header: Organizers
     subheader: Local Organizing Committee

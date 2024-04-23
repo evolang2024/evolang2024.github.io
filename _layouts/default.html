@@ -40,9 +40,9 @@
 							<li class="nav-item"><a class="nav-link scrollto" href="#about-section">About</a></li>                                              
 							<li class="nav-item"><a class="nav-link scrollto" href="#about-section">Register</a></li>                                              
 							<li class="nav-item"><a class="nav-link scrollto" href="#speakers-section">Speakers</a></li>
-							<li class="nav-item"><a class="nav-link scrollto" href ="#schedule-section">Schedule</a></li>
+							<li class="nav-item"><a class="nav-link" href ="https://evolang2024.github.io/proceedings/schedule.html">Schedule</a></li>
 							<li class="nav-item"><a class="nav-link scrollto" href="#workshops-section">Workshops</a></li>
-							<li class="nav-item"><a class="nav-link scrollto" href="#submit-section">Submission Information</a></li> 
+							<li class="nav-item"><a class="nav-link scrollto" href="#submit-section">Presenter Information</a></li> 
 							<li class="nav-item"><a class="nav-link scrollto" href="#organizers-section">Organizers</a></li>
 							<!-- <li class="nav-item"><a class="nav-link scrollto" href="#schedule-section">Schedule</a></li> -->
 							<li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Venue
@@ -110,14 +110,6 @@
     %}
     {% endif %}
 
-	{% if page.schedule %}
-    {% include schedule.html
-        header = page.schedule.header
-        subheader = page.schedule.subheader
-		button_name = page.schedule.button_name
-		button_href = page.schedule.button_href
-    %}
-    {% endif %}
 
 	{% if page.workshops %}
 	{% include workshops.html
