@@ -277,7 +277,7 @@ var scheduleData = [
             {
                 "startTime": "08:45",
                 "endTime": "09:45",
-                "event": "Plenary \"TBA\" (Nicole Creanza)",
+                "event": "Plenary \"Global and local studies of genetic and linguistic evolution\" (Nicole Creanza)",
                 "talks": null,
                 "url": "plenary.html?speaker=creanza",
                 "venue": "Ballroom A"
@@ -427,7 +427,7 @@ var scheduleData = [
                             "papers": [
                                 148,
                                 73,
-                                55,
+                                null,
                                 60
                             ]
                         }
@@ -517,7 +517,7 @@ var scheduleData = [
                 "event": "Business meeting",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "Ballroom A"
             },
             {
                 "startTime": "18:30",
@@ -525,15 +525,15 @@ var scheduleData = [
                 "event": "Conference dinner",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "23 N. Pinckney St., Suite 210"
             },
             {
                 "startTime": "21:00",
-                "endTime": "22:00",
+                "endTime": "23:00",
                 "event": "Karaoke",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "23 N. Pinckney St., Suite 210"
             }
         ]
     },
@@ -732,6 +732,7 @@ var posterData = [
         "endTime": "19:15",
         "papers": [
             99,
+            55,
             77,
             105,
             139,

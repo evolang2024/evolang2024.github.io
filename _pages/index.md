@@ -76,7 +76,7 @@ workshops:
       - name: 'Large-scale computational approaches to evolution and change:
 prospects and pitfalls'
         organizers: 'Andres Karjus (akarjus@tlu.ee), Nina Tahmasebi (nina.tahmasebi@gu.se), Haim Dubossarsky (h.dubossarsky@qmul.ac.uk), Stefano De Pascale (stefano.depascale@kuleuven.be)' 
-        btn_name: 'Additional information'
+        btn_name: 'Info and schedule'
         btn_href: https://www.changeiskey.org/event/2024-evolang-workshop/
       - name: 'What allows human language? a multidisciplinary perspective'
         organizers: 'Nicolas Claidière (nicolas.claidiere@cnrs.fr). Speakers include Inbal Arnon, Tecumseh Fitch, Simon Kirby, Susan Goldin Meadow, Simon Fisher, Limor Raviv, Kazuo Okanoya, Lucie Wolters, and Liran Carmel'
@@ -95,8 +95,10 @@ prospects and pitfalls'
       - name: 'EMOLANG: What can communicative signals of positive emotions tell us about the evolution of language?'
         organizers: ' Heidi Lyn (hlyn@southalabama.edu), Erica Cartmill (cartmill@ucla.edu)'
       - name: 'Interactive alignment in the evolution of vocal communication'
-        organizers: 'Julia Hyland Bruno (julia.hylandbruno@njit.edu) and Olga Fehér
-(o.feher@warwick.ac.uk)'
+        organizers: 'Julia Hyland Bruno (julia.hylandbruno@njit.edu) and Olga Fehér (o.feher@warwick.ac.uk)'
+        btn_name: 'Info and schedule'
+        btn_href: 'https://warwick.ac.uk/fac/sci/psych/people/ofeher/ofeher/interactive_alignment_workshop_2024'
+
 submit:
   subheader: Presenter Information
   body: <div style="text-align:left">
