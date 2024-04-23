@@ -123,7 +123,7 @@ submit:
 
             The poster session is scheduled for 5:30pm-7:15pm on Sunday May 19th. You will be able to put up your poster after noon on that day. Please take it down after the poster session concludes. Be present at your poster during the assigned poster session times to discuss your work with attendees.<br><br>
 
-            <b>Flash Talks:</b> If you have an accepted poster and would like to give a 90 seconds flash talk prior to the poster session, please submit this form. We recommend giving a flash talk as an opportunity to promote your poster and increase its visibility. The deadline to register your flash talk is May 1st.<br>
+            <b>Flash Talks:</b> If you have an accepted poster and would like to give a 90 seconds flash talk prior to the poster session, please submit <A HREF=https://forms.gle/qQnWzyJHunVS4MuC6>this form</A>. We recommend giving a flash talk as an opportunity to promote your poster and increase its visibility. The <b>deadline to register your flash talk is May 1st.</b><br>
             The flash talk session will take place right before the poster session/reception in the afternoon of May 19th. Each speaker will have 90 seconds and one static slide. We will get in touch a week or so before the conference to ask for your slide so that we can host it on a single computer since there won’t be time to switch computers in between presentations.<br>
             </div>
 organizers:
