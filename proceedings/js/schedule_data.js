@@ -149,7 +149,7 @@ var scheduleData = [
                             "papers": [
                                 20,
                                 121,
-                                120,
+                                38,
                                 116
                             ]
                         },
@@ -341,7 +341,7 @@ var scheduleData = [
                                 124,
                                 53,
                                 125,
-                                78
+                                7
                             ]
                         },
                         {
@@ -351,7 +351,7 @@ var scheduleData = [
                                 128,
                                 24,
                                 34,
-                                7
+                                null
                             ]
                         }
                     ]
@@ -483,7 +483,7 @@ var scheduleData = [
                             "endTime": "17:00",
                             "papers": [
                                 81,
-                                90,
+                                19,
                                 94,
                                 22
                             ]
@@ -493,7 +493,7 @@ var scheduleData = [
                             "endTime": "17:25",
                             "papers": [
                                 87,
-                                19,
+                                null,
                                 66,
                                 41
                             ]
@@ -738,7 +738,6 @@ var posterData = [
             139,
             111,
             102,
-            38,
             11,
             110,
             70,
@@ -758,6 +757,7 @@ var posterData = [
             83,
             43,
             149,
+            90,
             138,
             13,
             86,

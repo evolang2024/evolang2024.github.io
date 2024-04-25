@@ -70,7 +70,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=7",
         "date": "Monday, May 20, 2024",
-        "time": "11:30",
+        "time": "11:05",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
@@ -406,7 +406,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=19",
         "date": "Monday, May 20, 2024",
-        "time": "17:00",
+        "time": "16:35",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
@@ -984,9 +984,9 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=38",
         "date": "Sunday, May 19, 2024",
-        "time": "17:30",
-        "location": "TBA",
-        "prestype": "poster",
+        "time": "11:05",
+        "location": "Ballroom C (Track 3)",
+        "prestype": "talk",
         "license": null
     },
     "39": {
@@ -2245,38 +2245,6 @@ var papersData = {
         "prestype": "poster",
         "license": null
     },
-    "78": {
-        "title": "How Learning and Communication Shape Human Language and Animal Communication: A Case Study in Zipf's Two Laws",
-        "authors": [
-            "Simon Kirby",
-            "Inbal Arnon"
-        ],
-        "correspemails": [
-            null,
-            null
-        ],
-        "download": null,
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "",
-            "ris": "",
-            "copy": ""
-        },
-        "sharing": {
-            "twitter": "",
-            "facebook": ""
-        },
-        "summary": "While communication systems are found across all biological taxa, human language exhibits structural properties that are either uniquely human or very rare elsewhere in nature. One approach to understanding the origins of these properties suggests that they arise through a process of cultural evolution that jointly optimises learnability and expressivity. In this paper, we suggest that this joint optimization may be unique to human language. Most animal signalling only optimises for communication, as most animal signalling is not learned. This allows us to make predictions about differences between language and other signalling systems in nature that we test by looking at Zipf\u2019s two laws: the law of distribution, and the law of abbreviation. Specifically, we show that Zipf\u2019s law of abbreviation should be widespread in communication systems across nature, whereas Zipf\u2019s law of distribution should be limited only to cases where signalling systems are learned.",
-        "keywords": [
-            "learning, communication, animal signalling, zipfian distributions, iterated learning, evolution of communication"
-        ],
-        "weburl": "paper.html?nr=78",
-        "date": "Monday, May 20, 2024",
-        "time": "11:05",
-        "location": "Ballroom D (Track 4)",
-        "prestype": "talk",
-        "license": null
-    },
     "79": {
         "title": "Simplifications Made Early in Learning Can Reshape Language Complexity",
         "authors": [
@@ -2663,10 +2631,10 @@ var papersData = {
             "adaptive resonance theory, inflection classes, generalisation, language learning"
         ],
         "weburl": "paper.html?nr=90",
-        "date": "Monday, May 20, 2024",
-        "time": "16:35",
-        "location": "Ballroom B (Track 2)",
-        "prestype": "talk",
+        "date": "Sunday, May 19, 2024",
+        "time": "17:30",
+        "location": "TBA",
+        "prestype": "poster",
         "license": null
     },
     "92": {
@@ -3525,46 +3493,6 @@ var papersData = {
         "weburl": "paper.html?nr=118",
         "date": "Tuesday, May 21, 2024",
         "time": "10:55",
-        "location": "Ballroom C (Track 3)",
-        "prestype": "talk",
-        "license": null
-    },
-    "120": {
-        "title": "An Evolutionary Model of the Emergence of Accelerando in African Penguins",
-        "authors": [
-            "Yannick Jadoul",
-            "Taylor A. Hersh",
-            "Elias Fern\u00e1ndez Domingos",
-            "Marco Gamba",
-            "Andrea Ravignani",
-            "Livio Favaro"
-        ],
-        "correspemails": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "download": null,
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "",
-            "ris": "",
-            "copy": ""
-        },
-        "sharing": {
-            "twitter": "",
-            "facebook": ""
-        },
-        "summary": "Many physiological processes generate isochronous (i.e., evenly spaced) sequences of events, yet isochrony is only the simplest building block possible in rhythm. The evolution of more complex rhythmic structures is relevant to the evolution of speech as rhythm processing is a closely related cognitive ability. Here, we studied an vocal display of African penguins, finding that these reliably exhibit accelerando and crescendo. Mathematical analysis and computational simulations of our evolutionary game theory model demonstrate a potential evolutionary trajectory: A simple pressure for overlapping vocalizations causes a simulated population of interacting, initially isochronous penguins to emerge a level of acceleration observed in the empirical data.",
-        "keywords": [
-            "rhythm, vocalizations, game theory, isochrony"
-        ],
-        "weburl": "paper.html?nr=120",
-        "date": "Sunday, May 19, 2024",
-        "time": "11:05",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
