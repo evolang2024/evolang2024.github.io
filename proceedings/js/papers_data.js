@@ -730,7 +730,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=29",
         "date": "Sunday, May 19, 2024",
-        "time": "10:40",
+        "time": "10:15",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
@@ -2055,50 +2055,6 @@ var papersData = {
         "prestype": "talk",
         "license": null
     },
-    "72": {
-        "title": "Which Mindreading for the Origin of Language? An ERPs Study on the Processing of Ostensive Communication",
-        "authors": [
-            "Francesco Ferretti",
-            "Ines Adornetti",
-            "Angelo Damiano Delliponti",
-            "Alessandra Chiera",
-            "Daniela Altavilla",
-            "Valentina Deriu",
-            "Serena Nicchiarelli",
-            "Slawomir Wacewicz"
-        ],
-        "correspemails": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "download": null,
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "",
-            "ris": "",
-            "copy": ""
-        },
-        "sharing": {
-            "twitter": "",
-            "facebook": ""
-        },
-        "summary": "A widely held view within language evolution research is that mindreading is a crucial cognitive prerequisite for the origin of language. Such a view (mostly) rests on the ostensive-inferential model, which posits that human communication is ostensive, i.e., a process of expression and recognition of 2 types of intention: communicative and informative. Our work deals with the investigation of the nature of mindreading involved in ostensive communication (OC). We are conducting an electroencephalographic study on 30 participants, analyzing Event Related Potentials (ERPs) in response to visual stories representing OC. This study allows us to clarify whether OC requires a higher-order conceptual system for mindreading or a more basic (perceptual-bottom-up) process.",
-        "keywords": [
-            "mindreading, experimental pragmatics, erps, ostensive communication"
-        ],
-        "weburl": "paper.html?nr=72",
-        "date": "Sunday, May 19, 2024",
-        "time": "10:15",
-        "location": "Ballroom D (Track 4)",
-        "prestype": "talk",
-        "license": null
-    },
     "73": {
         "title": "Self-Domestication Traits in Vocal Learning Mammals",
         "authors": [
@@ -3134,7 +3090,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=107",
         "date": "Sunday, May 19, 2024",
-        "time": "11:30",
+        "time": "11:05",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
@@ -3458,7 +3414,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=116",
         "date": "Sunday, May 19, 2024",
-        "time": "11:05",
+        "time": "10:40",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
