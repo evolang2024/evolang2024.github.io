@@ -94,6 +94,8 @@ prospects and pitfalls'
         btn_href: https://correlation-machine.com/EvoLang_PhonologyAndClimate/
       - name: 'EMOLANG: What can communicative signals of positive emotions tell us about the evolution of language?'
         organizers: ' Heidi Lyn (hlyn@southalabama.edu), Erica Cartmill (cartmill@ucla.edu)'
+        btn_name: 'Info and schedule'
+        btn_href: 'https://evolang2024.github.io/workshop_tal_culbertson/'
       - name: 'Interactive alignment in the evolution of vocal communication'
         organizers: 'Julia Hyland Bruno (julia.hylandbruno@njit.edu) and Olga Fehér (o.feher@warwick.ac.uk)'
         btn_name: 'Info and schedule'
