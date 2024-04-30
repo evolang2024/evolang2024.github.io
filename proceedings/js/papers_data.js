@@ -1095,40 +1095,6 @@ var papersData = {
         "prestype": "talk",
         "license": null
     },
-    "43": {
-        "title": "Human Adults Naming Certain Objects: Animate and Cultural Biases",
-        "authors": [
-            "Mingxuan Zhang",
-            "Carrie Figdor",
-            "Jennifer Culbertson"
-        ],
-        "correspemails": [
-            null,
-            null,
-            null
-        ],
-        "download": null,
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "",
-            "ris": "",
-            "copy": ""
-        },
-        "sharing": {
-            "twitter": "",
-            "facebook": ""
-        },
-        "summary": "The study used an online experiment to test whether human adults have cognitive biases when giving and using proper names on different \nobjects. The result shows a prominent biological bias, supports the idea that cognition shapes language, and implies that language properties have either intrinsic or cultural origins with their downstream mechanisms.",
-        "keywords": [
-            "proper names, cognitive bias, language evolution, psychological experiment"
-        ],
-        "weburl": "paper.html?nr=43",
-        "date": "Sunday, May 19, 2024",
-        "time": "17:30",
-        "location": "TBA",
-        "prestype": "poster",
-        "license": null
-    },
     "44": {
         "title": "Simulating the Spread and Development of Protolanguages",
         "authors": [
