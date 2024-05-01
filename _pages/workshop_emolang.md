@@ -20,7 +20,7 @@ info:
             <li>1:45-2:00 General Discussion 1</li>
             <li>2:00-2:10 Break</li>
             <li>2:10-2:30 Richard Moore - Emotions and Pragmatic Inference</li>
-            <li>2:30-2:50 Paula Niedenthal - TBA (human emotions)</li>
+            <li>2:30-2:50 Paula Niedenthal - Ancestral Diversity: A Socio-Ecological Determinant of Emotion Expression</li>
             <li>2:50-3:10 Nick Enfield - Emotions are reasons for action</li>
             <li>3:10-3:30 Dorit Bar-on - Expressive Behavior and Psychologically Mediated Communication</li>
             <li>3:30-4:00 General Discussion 2 and wrap-up</li>
