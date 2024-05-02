@@ -24,7 +24,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_6.bib",
             "ris": "bib/evolang15_6.ris",
-            "copy": "Hartmann, S., Jadoul, Y., Asano, R., Rodrigues, E. D., Valente, D., Ravignani, A. & Wacewicz, S. (2024). Delineating the Field of Language Evolution Research: A Quantitative Study of Submission Types and Peer-Review Patterns at the Joint Conference on Language Evolution (JCoLE). In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Hartmann, S., Jadoul, Y., Asano, R., Rodrigues, E. D., Valente, D., Ravignani, A. & Wacewicz, S. (2024). Delineating the Field of Language Evolution Research: A Quantitative Study of Submission Types and Peer-Review Patterns at the Joint Conference on Language Evolution (JCoLE). In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Delineating+the+Field+of+Language+Evolution+Research%3A+A+Quantitative+Study+of+Submission+Types+and+Peer-Review+Patterns+at+the+Joint+Conference+on+Language+Evolution+%28JCoLE%29%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D6",
@@ -58,7 +58,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_7.bib",
             "ris": "bib/evolang15_7.ris",
-            "copy": "Pankratz, E., Kirby, S. & Culbertson, J. (2024). Why Are Languages Skewed? A Bayesian Account for How Skew and Type Count, but Not Entropy, Facilitate Rule Generalisation. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Pankratz, E., Kirby, S. & Culbertson, J. (2024). Why Are Languages Skewed? A Bayesian Account for How Skew and Type Count, but Not Entropy, Facilitate Rule Generalisation. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Why+Are+Languages+Skewed%3F+A+Bayesian+Account+for+How+Skew+and+Type+Count%2C+but+Not+Entropy%2C+Facilitate+Rule+Generalisation%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D7",
@@ -94,7 +94,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_10.bib",
             "ris": "bib/evolang15_10.ris",
-            "copy": "Goldstein, D. M., McCreight, S., Buchi, \u00c9. & Huelsenbeck, J. (2024). An Event-Based Model for Linguistic Phylogenetics. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Goldstein, D. M., McCreight, S., Buchi, \u00c9. & Huelsenbeck, J. (2024). An Event-Based Model for Linguistic Phylogenetics. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22An+Event-Based+Model+for+Linguistic+Phylogenetics%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D10",
@@ -128,7 +128,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_11.bib",
             "ris": "bib/evolang15_11.ris",
-            "copy": "Everett, C., Moran, S. & Ekstr\u00f6m, A. G. (2024). The Phoneme as Cognitive Technology. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Everett, C., Moran, S. & Ekstr\u00f6m, A. G. (2024). The Phoneme as Cognitive Technology. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Phoneme+as+Cognitive+Technology%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D11",
@@ -160,7 +160,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_12.bib",
             "ris": "bib/evolang15_12.ris",
-            "copy": "Mudd, K. & Schouwstra, M. (2024). Shared Context Helps Maintain Lexical Variation. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Mudd, K. & Schouwstra, M. (2024). Shared Context Helps Maintain Lexical Variation. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Shared+Context+Helps+Maintain+Lexical+Variation%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D12",
@@ -192,7 +192,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_13.bib",
             "ris": "bib/evolang15_13.ris",
-            "copy": "Hayakawa, S. & Marian, V. (2024). The Mind Finds Meaning in the Sounds of Language. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Hayakawa, S. & Marian, V. (2024). The Mind Finds Meaning in the Sounds of Language. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Mind+Finds+Meaning+in+the+Sounds+of+Language%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D13",
@@ -224,7 +224,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_14.bib",
             "ris": "bib/evolang15_14.ris",
-            "copy": "Gisladottir, R. S. & Stefansson, K. (2024). Using Genetics to Investigate the Evolution of Language and Speech:  New Findings on Musicality and Vocal Acoustics. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Gisladottir, R. S. & Stefansson, K. (2024). Using Genetics to Investigate the Evolution of Language and Speech:  New Findings on Musicality and Vocal Acoustics. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Using+Genetics+to+Investigate+the+Evolution+of+Language+and+Speech%3A++New+Findings+on+Musicality+and+Vocal+Acoustics%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D14",
@@ -256,7 +256,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_15.bib",
             "ris": "bib/evolang15_15.ris",
-            "copy": "Blythe, R. A. & Fisch, C. (2024). Spontaneous Emergence of Large Shared Signalling Systems With and Without Referential Transmission. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Blythe, R. A. & Fisch, C. (2024). Spontaneous Emergence of Large Shared Signalling Systems With and Without Referential Transmission. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Spontaneous+Emergence+of+Large+Shared+Signalling+Systems+With+and+Without+Referential+Transmission%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D15",
@@ -288,7 +288,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_16.bib",
             "ris": "bib/evolang15_16.ris",
-            "copy": "Tamer, N. & Widmer, P. (2024). Exploring Systematic Phonological Cues in Language: A Comparative Study Across 60 Languages From 13 Families. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Tamer, N. & Widmer, P. (2024). Exploring Systematic Phonological Cues in Language: A Comparative Study Across 60 Languages From 13 Families. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Exploring+Systematic+Phonological+Cues+in+Language%3A+A+Comparative+Study+Across+60+Languages+From+13+Families%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D16",
@@ -328,7 +328,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_17.bib",
             "ris": "bib/evolang15_17.ris",
-            "copy": "Naegeli, D., Peeters, D., Krahmer, E., Schouwstra, M., Satyawati, M. S. & de Vos, C. (2024). Representing Space in Silent Gesture: Communicative Contexts Compared in Bali. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Naegeli, D., Peeters, D., Krahmer, E., Schouwstra, M., Satyawati, M. S. & de Vos, C. (2024). Representing Space in Silent Gesture: Communicative Contexts Compared in Bali. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Representing+Space+in+Silent+Gesture%3A+Communicative+Contexts+Compared+in+Bali%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D17",
@@ -364,7 +364,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_18.bib",
             "ris": "bib/evolang15_18.ris",
-            "copy": "Almunia, J., L\u00fcke, J. P., Gonz\u00e1lez, F. L. R. & Ferrer-i-Cancho, R. (2024). Compression in Killer Whale Pulsed Calls. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Almunia, J., L\u00fcke, J. P., Gonz\u00e1lez, F. L. R. & Ferrer-i-Cancho, R. (2024). Compression in Killer Whale Pulsed Calls. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Compression+in+Killer+Whale+Pulsed+Calls%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D18",
@@ -394,7 +394,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_19.bib",
             "ris": "bib/evolang15_19.ris",
-            "copy": "Futrell, R. (2024). Natural-Language-Like Systematicity From a Constraint on Excess Entropy. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Futrell, R. (2024). Natural-Language-Like Systematicity From a Constraint on Excess Entropy. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Natural-Language-Like+Systematicity+From+a+Constraint+on+Excess+Entropy%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D19",
@@ -424,7 +424,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_20.bib",
             "ris": "bib/evolang15_20.ris",
-            "copy": "Van de Velde, F. (2024). Gender Differences in Linguistic Complexity Through Time. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Van de Velde, F. (2024). Gender Differences in Linguistic Complexity Through Time. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Gender+Differences+in+Linguistic+Complexity+Through+Time%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D20",
@@ -454,7 +454,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_21.bib",
             "ris": "bib/evolang15_21.ris",
-            "copy": "Progovac, L. (2024). Survival of the Wittiest (Not Friendliest): The Art and Science of Human Evolution. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Progovac, L. (2024). Survival of the Wittiest (Not Friendliest): The Art and Science of Human Evolution. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Survival+of+the+Wittiest+%28Not+Friendliest%29%3A+The+Art+and+Science+of+Human+Evolution%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D21",
@@ -486,7 +486,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_22.bib",
             "ris": "bib/evolang15_22.ris",
-            "copy": "Scott-Phillips, T. & Heintz, C. (2024). Great Ape Interaction: Ladyginian but Not Gricean. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Scott-Phillips, T. & Heintz, C. (2024). Great Ape Interaction: Ladyginian but Not Gricean. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Great+Ape+Interaction%3A+Ladyginian+but+Not+Gricean%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D22",
@@ -520,7 +520,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_23.bib",
             "ris": "bib/evolang15_23.ris",
-            "copy": "Sims-Williams, H., Pasqu\u00e9reau, J. & Baerman, M. (2024). Scalar Morphology: How Linguistic Complexity Can Become Redundant, Yet Be Actively Maintained by Analogy. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Sims-Williams, H., Pasqu\u00e9reau, J. & Baerman, M. (2024). Scalar Morphology: How Linguistic Complexity Can Become Redundant, Yet Be Actively Maintained by Analogy. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Scalar+Morphology%3A+How+Linguistic+Complexity+Can+Become+Redundant%2C+Yet+Be+Actively+Maintained+by+Analogy%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D23",
@@ -550,7 +550,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_24.bib",
             "ris": "bib/evolang15_24.ris",
-            "copy": "Podlipniak, P. (2024). Neural Repurposing as a Driving Force in the Baldwinian Coevolution of Emotional and Propositional Communications. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Podlipniak, P. (2024). Neural Repurposing as a Driving Force in the Baldwinian Coevolution of Emotional and Propositional Communications. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Neural+Repurposing+as+a+Driving+Force+in+the+Baldwinian+Coevolution+of+Emotional+and+Propositional+Communications%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D24",
@@ -594,7 +594,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_25.bib",
             "ris": "bib/evolang15_25.ris",
-            "copy": "Habib-Dassetto, L., Adet, M., Cauzinille, J., Marques, A., Lemasson, A., Portes, C., Gullstrand, J. & Montant, M. (2024). Social Ambiguity and Multimodal Interactions in Guinea Baboons. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Habib-Dassetto, L., Adet, M., Cauzinille, J., Marques, A., Lemasson, A., Portes, C., Gullstrand, J. & Montant, M. (2024). Social Ambiguity and Multimodal Interactions in Guinea Baboons. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Social+Ambiguity+and+Multimodal+Interactions+in+Guinea+Baboons%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D25",
@@ -624,7 +624,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_26.bib",
             "ris": "bib/evolang15_26.ris",
-            "copy": "Hartmann, F. (2024). Investigating the Diachronic Development of Phonological Complexity as a Latent Process -- A Computational Study Using Deep Neural Networks. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Hartmann, F. (2024). Investigating the Diachronic Development of Phonological Complexity as a Latent Process -- A Computational Study Using Deep Neural Networks. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Investigating+the+Diachronic+Development+of+Phonological+Complexity+as+a+Latent+Process+--+A+Computational+Study+Using+Deep+Neural+Networks%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D26",
@@ -658,7 +658,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_27.bib",
             "ris": "bib/evolang15_27.ris",
-            "copy": "Krykoniuk, K., Jordan, F. M. & Roberts, S. G. (2024). Pointing Prevents the Emergence of Symbolic Referential Signals: Empirical Tests in a Common Task Framework. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Krykoniuk, K., Jordan, F. M. & Roberts, S. G. (2024). Pointing Prevents the Emergence of Symbolic Referential Signals: Empirical Tests in a Common Task Framework. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Pointing+Prevents+the+Emergence+of+Symbolic+Referential+Signals%3A+Empirical+Tests+in+a+Common+Task+Framework%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D27",
@@ -688,7 +688,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_28.bib",
             "ris": "bib/evolang15_28.ris",
-            "copy": "Worden, R. P. (2024). The Evolution of Language and Human Rationality. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Worden, R. P. (2024). The Evolution of Language and Human Rationality. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Evolution+of+Language+and+Human+Rationality%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D28",
@@ -718,7 +718,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_29.bib",
             "ris": "bib/evolang15_29.ris",
-            "copy": "Mekki, Y. (2024). Multivariate Genome-Wide Association Study of Language-Related Human Brain White Matter Tracts Demonstrates High Polygenicity. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Mekki, Y. (2024). Multivariate Genome-Wide Association Study of Language-Related Human Brain White Matter Tracts Demonstrates High Polygenicity. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Multivariate+Genome-Wide+Association+Study+of+Language-Related+Human+Brain+White+Matter+Tracts+Demonstrates+High+Polygenicity%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D29",
@@ -750,7 +750,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_30.bib",
             "ris": "bib/evolang15_30.ris",
-            "copy": "Bisnath, F. & Flaherty, M. (2024). The Study of Sign Languages and Gesture at Evolang Conferences. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Bisnath, F. & Flaherty, M. (2024). The Study of Sign Languages and Gesture at Evolang Conferences. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Study+of+Sign+Languages+and+Gesture+at+Evolang+Conferences%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D30",
@@ -784,7 +784,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_31.bib",
             "ris": "bib/evolang15_31.ris",
-            "copy": "Prasertsom, P., Smith, K. & Culbertson, J. (2024). Cognitive Biases Explain Constrained Variation in Noun Classification. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Prasertsom, P., Smith, K. & Culbertson, J. (2024). Cognitive Biases Explain Constrained Variation in Noun Classification. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Cognitive+Biases+Explain+Constrained+Variation+in+Noun+Classification%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D31",
@@ -816,7 +816,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_32.bib",
             "ris": "bib/evolang15_32.ris",
-            "copy": "Tamimi Sad, S. H. & Wilbur, R. (2024). Gesture as Precursor to Language: Evidence From Bimodal Bilingualism. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Tamimi Sad, S. H. & Wilbur, R. (2024). Gesture as Precursor to Language: Evidence From Bimodal Bilingualism. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Gesture+as+Precursor+to+Language%3A+Evidence+From+Bimodal+Bilingualism%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D32",
@@ -850,7 +850,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_34.bib",
             "ris": "bib/evolang15_34.ris",
-            "copy": "Jing, Y., Nivre, J. & Dunn, M. (2024). Multilevel Phylogenetic Inference of Harmony in Indo-European. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Jing, Y., Nivre, J. & Dunn, M. (2024). Multilevel Phylogenetic Inference of Harmony in Indo-European. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Multilevel+Phylogenetic+Inference+of+Harmony+in+Indo-European%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D34",
@@ -880,7 +880,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_35.bib",
             "ris": "bib/evolang15_35.ris",
-            "copy": "Michaud, J. (2024). A Complex Systems Perspective on Language Evolution. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Michaud, J. (2024). A Complex Systems Perspective on Language Evolution. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22A+Complex+Systems+Perspective+on+Language+Evolution%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D35",
@@ -912,7 +912,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_36.bib",
             "ris": "bib/evolang15_36.ris",
-            "copy": "Tkachman, O. & Hudson Kam, C. L. (2024). Semantics-Based Spontaneous Compounding Emergence in Artificial Sign Languages. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Tkachman, O. & Hudson Kam, C. L. (2024). Semantics-Based Spontaneous Compounding Emergence in Artificial Sign Languages. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Semantics-Based+Spontaneous+Compounding+Emergence+in+Artificial+Sign+Languages%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D36",
@@ -942,7 +942,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_37.bib",
             "ris": "bib/evolang15_37.ris",
-            "copy": "Palazzolo, G. (2024). The Evolution of Reference. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Palazzolo, G. (2024). The Evolution of Reference. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Evolution+of+Reference%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D37",
@@ -972,7 +972,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_38.bib",
             "ris": "bib/evolang15_38.ris",
-            "copy": "de Boer, B. (2024). Fixation Times for Language Evolution in Social Networks. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "de Boer, B. (2024). Fixation Times for Language Evolution in Social Networks. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Fixation+Times+for+Language+Evolution+in+Social+Networks%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D38",
@@ -1012,7 +1012,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_39.bib",
             "ris": "bib/evolang15_39.ris",
-            "copy": "Pagnotta, M., Wisher, I., Petersen, M. L., Riede, F., Fusaroli, R. & Tyl\u00e9n, K. (2024). Form and Function in the Evolution of Symbolic Artifacts:  a Transmission Chain Study. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Pagnotta, M., Wisher, I., Petersen, M. L., Riede, F., Fusaroli, R. & Tyl\u00e9n, K. (2024). Form and Function in the Evolution of Symbolic Artifacts:  a Transmission Chain Study. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Form+and+Function+in+the+Evolution+of+Symbolic+Artifacts%3A++a+Transmission+Chain+Study%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D39",
@@ -1042,7 +1042,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_41.bib",
             "ris": "bib/evolang15_41.ris",
-            "copy": "Moore, R. (2024). Some Remarks on the Distinction Between 'Gricean' and 'Ladyginian' Communication. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Moore, R. (2024). Some Remarks on the Distinction Between 'Gricean' and 'Ladyginian' Communication. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Some+Remarks+on+the+Distinction+Between+%27Gricean%27+and+%27Ladyginian%27+Communication%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D41",
@@ -1078,7 +1078,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_42.bib",
             "ris": "bib/evolang15_42.ris",
-            "copy": "Tal, S., Smith, K., Arnon, I. & Culbertson, J. (2024). Communicative Efficiency Is Present in Young Children and Becomes More Adult-Like With Age. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Tal, S., Smith, K., Arnon, I. & Culbertson, J. (2024). Communicative Efficiency Is Present in Young Children and Becomes More Adult-Like With Age. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Communicative+Efficiency+Is+Present+in+Young+Children+and+Becomes+More+Adult-Like+With+Age%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D42",
@@ -1108,7 +1108,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_44.bib",
             "ris": "bib/evolang15_44.ris",
-            "copy": "Johansson, S. (2024). Simulating the Spread and Development of Protolanguages. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Johansson, S. (2024). Simulating the Spread and Development of Protolanguages. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Simulating+the+Spread+and+Development+of+Protolanguages%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D44",
@@ -1138,7 +1138,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_45.bib",
             "ris": "bib/evolang15_45.ris",
-            "copy": "Pika, S. (2024). The Evolutionary Roots of Rituals:  Studying Animal Interactions. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Pika, S. (2024). The Evolutionary Roots of Rituals:  Studying Animal Interactions. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Evolutionary+Roots+of+Rituals%3A++Studying+Animal+Interactions%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D45",
@@ -1182,7 +1182,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_46.bib",
             "ris": "bib/evolang15_46.ris",
-            "copy": "Placi\u0144ski, M., Matzinger, T., Baumann, A., \u017bywiczy\u0144ski, P., Hartmann, S., Boehm, I., Pleyer, M. & Wacewicz, S. (2024). Does Syntactic Alignment Predict Cooperation? A Corpus Study of the Prisoner's Dilemma. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Placi\u0144ski, M., Matzinger, T., Baumann, A., \u017bywiczy\u0144ski, P., Hartmann, S., Boehm, I., Pleyer, M. & Wacewicz, S. (2024). Does Syntactic Alignment Predict Cooperation? A Corpus Study of the Prisoner's Dilemma. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Does+Syntactic+Alignment+Predict+Cooperation%3F+A+Corpus+Study+of+the+Prisoner%27s+Dilemma%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D46",
@@ -1218,7 +1218,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_47.bib",
             "ris": "bib/evolang15_47.ris",
-            "copy": "Pouw, W., Buchardt, L. S., Werner, R. & Selen, L. (2024). Movement-Related Muscle Activity and Kinetics Affect Vocalization Amplitude. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Pouw, W., Buchardt, L. S., Werner, R. & Selen, L. (2024). Movement-Related Muscle Activity and Kinetics Affect Vocalization Amplitude. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Movement-Related+Muscle+Activity+and+Kinetics+Affect+Vocalization+Amplitude%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D47",
@@ -1254,7 +1254,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_48.bib",
             "ris": "bib/evolang15_48.ris",
-            "copy": "Josserand, M., Pellegrino, F., Dediu, D. & Raviv, L. (2024). Testing the Role of Minorities in Shaping Language Evolution: An Experimental Study. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Josserand, M., Pellegrino, F., Dediu, D. & Raviv, L. (2024). Testing the Role of Minorities in Shaping Language Evolution: An Experimental Study. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Testing+the+Role+of+Minorities+in+Shaping+Language+Evolution%3A+An+Experimental+Study%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D48",
@@ -1292,7 +1292,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_51.bib",
             "ris": "bib/evolang15_51.ris",
-            "copy": "Guerrero Montero, J. A., Blythe, R. A., Kirby, S., Lassiter, D. & Truswell, R. (2024). Grammar Change Through Cultural Transmission. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Guerrero Montero, J. A., Blythe, R. A., Kirby, S., Lassiter, D. & Truswell, R. (2024). Grammar Change Through Cultural Transmission. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Grammar+Change+Through+Cultural+Transmission%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D51",
@@ -1334,7 +1334,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_52.bib",
             "ris": "bib/evolang15_52.ris",
-            "copy": "Berthet, M., Zanutto, L., Roh\u00e9e, M., Wegdell, F., Leroux, M., Surbeck, M. & Townsend, S. W. (2024). Call Combinations in Bonobos and Chimpanzees. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Berthet, M., Zanutto, L., Roh\u00e9e, M., Wegdell, F., Leroux, M., Surbeck, M. & Townsend, S. W. (2024). Call Combinations in Bonobos and Chimpanzees. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Call+Combinations+in+Bonobos+and+Chimpanzees%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D52",
@@ -1370,7 +1370,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_53.bib",
             "ris": "bib/evolang15_53.ris",
-            "copy": "Matzinger, T., Pleyer, M., Zhang, E. Q. & \u017bywiczy\u0144ski, P. (2024). The Evolution of Silence: The Role of Inter-Turn Speech Pauses in the Co-Evolution of Language and Cooperation. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Matzinger, T., Pleyer, M., Zhang, E. Q. & \u017bywiczy\u0144ski, P. (2024). The Evolution of Silence: The Role of Inter-Turn Speech Pauses in the Co-Evolution of Language and Cooperation. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Evolution+of+Silence%3A+The+Role+of+Inter-Turn+Speech+Pauses+in+the+Co-Evolution+of+Language+and+Cooperation%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D53",
@@ -1402,7 +1402,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_54.bib",
             "ris": "bib/evolang15_54.ris",
-            "copy": "Ekstr\u00f6m, A. G. & Moran, S. (2024). What Phonetics Has to Say About Neanderthal (H. Neanderthalensis) Speech Capacities. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Ekstr\u00f6m, A. G. & Moran, S. (2024). What Phonetics Has to Say About Neanderthal (H. Neanderthalensis) Speech Capacities. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22What+Phonetics+Has+to+Say+About+Neanderthal+%28H.+Neanderthalensis%29+Speech+Capacities%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D54",
@@ -1438,7 +1438,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_55.bib",
             "ris": "bib/evolang15_55.ris",
-            "copy": "Baumann, A., Lenzner, B., Fellner, H. & Essl, F. (2024). The Relation Between European Colonialism and Linguistic Diversity. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Baumann, A., Lenzner, B., Fellner, H. & Essl, F. (2024). The Relation Between European Colonialism and Linguistic Diversity. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Relation+Between+European+Colonialism+and+Linguistic+Diversity%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D55",
@@ -1472,7 +1472,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_56.bib",
             "ris": "bib/evolang15_56.ris",
-            "copy": "Fletcher, L., Culbertson, J. & Rabagliati, H. (2024). Communicative Efficiency and Social Biases Modulate Language Learning in Autistic and Allistic Individuals. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Fletcher, L., Culbertson, J. & Rabagliati, H. (2024). Communicative Efficiency and Social Biases Modulate Language Learning in Autistic and Allistic Individuals. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Communicative+Efficiency+and+Social+Biases+Modulate+Language+Learning+in+Autistic+and+Allistic+Individuals%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D56",
@@ -1506,7 +1506,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_57.bib",
             "ris": "bib/evolang15_57.ris",
-            "copy": "Cheung, C., Kirby, S. & Raviv, L. (2024). The Role of Gender, Personality Traits, and Social Biases in Shaping Linguistic Accommodation: An Experimental Approach. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Cheung, C., Kirby, S. & Raviv, L. (2024). The Role of Gender, Personality Traits, and Social Biases in Shaping Linguistic Accommodation: An Experimental Approach. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Role+of+Gender%2C+Personality+Traits%2C+and+Social+Biases+in+Shaping+Linguistic+Accommodation%3A+An+Experimental+Approach%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D57",
@@ -1544,7 +1544,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_58.bib",
             "ris": "bib/evolang15_58.ris",
-            "copy": "Pleyer, M., Karkowska, K., Kuleshova, S., Namednikava, D. & Placi\u0144ski, M. (2024). Towards Computational Detection of Metaphoric Change in Language Evolution via Word Embeddings. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Pleyer, M., Karkowska, K., Kuleshova, S., Namednikava, D. & Placi\u0144ski, M. (2024). Towards Computational Detection of Metaphoric Change in Language Evolution via Word Embeddings. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Towards+Computational+Detection+of+Metaphoric+Change+in+Language+Evolution+via+Word+Embeddings%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D58",
@@ -1580,7 +1580,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_59.bib",
             "ris": "bib/evolang15_59.ris",
-            "copy": "Lammertink, I., De Heer Kloots, M., Bazioni, M. & Raviv, L. (2024). Learnability Effects in Children: Are More Structured Languages Easier to Learn?. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Lammertink, I., De Heer Kloots, M., Bazioni, M. & Raviv, L. (2024). Learnability Effects in Children: Are More Structured Languages Easier to Learn?. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Learnability+Effects+in+Children%3A+Are+More+Structured+Languages+Easier+to+Learn%3F%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D59",
@@ -1616,7 +1616,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_60.bib",
             "ris": "bib/evolang15_60.ris",
-            "copy": "Cauzinille, J., Marxer, R., Rey, A. & Favre, B. (2024). From Speech to Primate Vocalizations: Self-Supervised Deep Learning as a Comparative Approach. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Cauzinille, J., Marxer, R., Rey, A. & Favre, B. (2024). From Speech to Primate Vocalizations: Self-Supervised Deep Learning as a Comparative Approach. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22From+Speech+to+Primate+Vocalizations%3A+Self-Supervised+Deep+Learning+as+a+Comparative+Approach%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D60",
@@ -1660,7 +1660,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_61.bib",
             "ris": "bib/evolang15_61.ris",
-            "copy": "Lahiff, N., Clay, Z., Epping, A., Girard-Buttoz, C., Taglialatela, J., Surbeck, M., Slocombe, K. & Townsend, S. W. (2024). Mechanisms Underlying Alarm Calling Behaviour in Bonobos (Pan Paniscus). In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Lahiff, N., Clay, Z., Epping, A., Girard-Buttoz, C., Taglialatela, J., Surbeck, M., Slocombe, K. & Townsend, S. W. (2024). Mechanisms Underlying Alarm Calling Behaviour in Bonobos (Pan Paniscus). In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Mechanisms+Underlying+Alarm+Calling+Behaviour+in+Bonobos+%28Pan+Paniscus%29%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D61",
@@ -1698,7 +1698,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_62.bib",
             "ris": "bib/evolang15_62.ris",
-            "copy": "Boehm, I., Matzinger, T., Placi\u0144ski, M., \u017bywiczy\u0144ski, P. & Wacewicz, S. (2024). The Power of Linguistic Similarity for Unlocking Cooperation - Evidence From Syntax and Pitch Experiments. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Boehm, I., Matzinger, T., Placi\u0144ski, M., \u017bywiczy\u0144ski, P. & Wacewicz, S. (2024). The Power of Linguistic Similarity for Unlocking Cooperation - Evidence From Syntax and Pitch Experiments. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Power+of+Linguistic+Similarity+for+Unlocking+Cooperation+-+Evidence+From+Syntax+and+Pitch+Experiments%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D62",
@@ -1740,7 +1740,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_63.bib",
             "ris": "bib/evolang15_63.ris",
-            "copy": "Baumann, A., Matzinger, T., M\u00fchlenbernd, R., Wacewicz, S., Pleyer, M., Hartmann, S. & Placi\u0144ski, M. (2024). The Role of Linguistically Encoded Emotional Characteristics for Cooperativeness in a One-Shot Prisoner's Dilemma. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Baumann, A., Matzinger, T., M\u00fchlenbernd, R., Wacewicz, S., Pleyer, M., Hartmann, S. & Placi\u0144ski, M. (2024). The Role of Linguistically Encoded Emotional Characteristics for Cooperativeness in a One-Shot Prisoner's Dilemma. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Role+of+Linguistically+Encoded+Emotional+Characteristics+for+Cooperativeness+in+a+One-Shot+Prisoner%27s+Dilemma%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D63",
@@ -1772,7 +1772,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_64.bib",
             "ris": "bib/evolang15_64.ris",
-            "copy": "Flego, S. & Wedel, A. B. (2024). Chain Shifts and Transphonologizations Are Driven by Homophony Avoidance. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Flego, S. & Wedel, A. B. (2024). Chain Shifts and Transphonologizations Are Driven by Homophony Avoidance. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Chain+Shifts+and+Transphonologizations+Are+Driven+by+Homophony+Avoidance%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D64",
@@ -1806,7 +1806,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_65.bib",
             "ris": "bib/evolang15_65.ris",
-            "copy": "Chen, S., Gil, D. & Ben\u00edtez-Burraco, A. (2024). Languages of Esoteric Societies Provide a Window Into a Previous Stage in the Evolution of Human Languages. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Chen, S., Gil, D. & Ben\u00edtez-Burraco, A. (2024). Languages of Esoteric Societies Provide a Window Into a Previous Stage in the Evolution of Human Languages. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Languages+of+Esoteric+Societies+Provide+a+Window+Into+a+Previous+Stage+in+the+Evolution+of+Human+Languages%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D65",
@@ -1840,7 +1840,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_66.bib",
             "ris": "bib/evolang15_66.ris",
-            "copy": "Gil, D., Chen, S. & Ben\u00edtez-Burraco, A. (2024). The Mekong-Mamberamo Mystery. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Gil, D., Chen, S. & Ben\u00edtez-Burraco, A. (2024). The Mekong-Mamberamo Mystery. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Mekong-Mamberamo+Mystery%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D66",
@@ -1872,7 +1872,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_67.bib",
             "ris": "bib/evolang15_67.ris",
-            "copy": "Frank, S. & Belongie, S. (2024). Feature Transmission Within Concept Transmission. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Frank, S. & Belongie, S. (2024). Feature Transmission Within Concept Transmission. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Feature+Transmission+Within+Concept+Transmission%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D67",
@@ -1904,7 +1904,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_68.bib",
             "ris": "bib/evolang15_68.ris",
-            "copy": "Roberts, G. & Clark, R. (2024). The Evolution of Phonological Dispersion: New Experimental Results. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Roberts, G. & Clark, R. (2024). The Evolution of Phonological Dispersion: New Experimental Results. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Evolution+of+Phonological+Dispersion%3A+New+Experimental+Results%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D68",
@@ -1936,7 +1936,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_69.bib",
             "ris": "bib/evolang15_69.ris",
-            "copy": "King, A. & Wedel, A. B. (2024). Uncommon Sounds for Common Words: Balancing Phonemic Type and Token Frequency Within Words for a Higher Entropy Lexicon. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "King, A. & Wedel, A. B. (2024). Uncommon Sounds for Common Words: Balancing Phonemic Type and Token Frequency Within Words for a Higher Entropy Lexicon. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Uncommon+Sounds+for+Common+Words%3A+Balancing+Phonemic+Type+and+Token+Frequency+Within+Words+for+a+Higher+Entropy+Lexicon%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D69",
@@ -1968,7 +1968,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_70.bib",
             "ris": "bib/evolang15_70.ris",
-            "copy": "Riedmann, C. M. & Horton, W. S. (2024). The Role of Audience Design in an Emerging Language System: Evidence From a Novel Signaling Paradigm. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Riedmann, C. M. & Horton, W. S. (2024). The Role of Audience Design in an Emerging Language System: Evidence From a Novel Signaling Paradigm. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Role+of+Audience+Design+in+an+Emerging+Language+System%3A+Evidence+From+a+Novel+Signaling+Paradigm%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D70",
@@ -2004,7 +2004,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_71.bib",
             "ris": "bib/evolang15_71.ris",
-            "copy": "Cartmill, E., Cartmill, M., Brown, K. & Foster, J. G. (2024). Which Came First\u2014iconicity or Symbolism?. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Cartmill, E., Cartmill, M., Brown, K. & Foster, J. G. (2024). Which Came First\u2014iconicity or Symbolism?. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Which+Came+First%E2%80%94iconicity+or+Symbolism%3F%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D71",
@@ -2048,7 +2048,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_73.bib",
             "ris": "bib/evolang15_73.ris",
-            "copy": "de Reus, K., Ben\u00edtez-Burraco, A., Hersh, T., Groot, N., Slocombe, K., Lambert, M., Vernes, S. & Raviv, L. (2024). Self-Domestication Traits in Vocal Learning Mammals. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "de Reus, K., Ben\u00edtez-Burraco, A., Hersh, T., Groot, N., Slocombe, K., Lambert, M., Vernes, S. & Raviv, L. (2024). Self-Domestication Traits in Vocal Learning Mammals. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Self-Domestication+Traits+in+Vocal+Learning+Mammals%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D73",
@@ -2080,7 +2080,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_75.bib",
             "ris": "bib/evolang15_75.ris",
-            "copy": "Carr, J. & Rastle, K. (2024). The Cultural Evolution of Informative Writing Systems. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Carr, J. & Rastle, K. (2024). The Cultural Evolution of Informative Writing Systems. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Cultural+Evolution+of+Informative+Writing+Systems%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D75",
@@ -2114,7 +2114,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_76.bib",
             "ris": "bib/evolang15_76.ris",
-            "copy": "Iwamura, I., Funakura, H. & Hashimoto, T. (2024). Compositionality as One of the Enabling Factors to Communicate Conceptualized Meaning. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Iwamura, I., Funakura, H. & Hashimoto, T. (2024). Compositionality as One of the Enabling Factors to Communicate Conceptualized Meaning. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Compositionality+as+One+of+the+Enabling+Factors+to+Communicate+Conceptualized+Meaning%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D76",
@@ -2150,7 +2150,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_77.bib",
             "ris": "bib/evolang15_77.ris",
-            "copy": "Delliponti, A. D., Zhang, E. Q., Ng, Y. Y. & Pleyer, M. (2024). The Cognitive Requirements for Developing a Multimodal Communication System: Evidence From Experimental Semiotics and Comparative Cognition. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Delliponti, A. D., Zhang, E. Q., Ng, Y. Y. & Pleyer, M. (2024). The Cognitive Requirements for Developing a Multimodal Communication System: Evidence From Experimental Semiotics and Comparative Cognition. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Cognitive+Requirements+for+Developing+a+Multimodal+Communication+System%3A+Evidence+From+Experimental+Semiotics+and+Comparative+Cognition%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D77",
@@ -2180,7 +2180,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_79.bib",
             "ris": "bib/evolang15_79.ris",
-            "copy": "Smith, K. (2024). Simplifications Made Early in Learning Can Reshape Language Complexity. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Smith, K. (2024). Simplifications Made Early in Learning Can Reshape Language Complexity. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Simplifications+Made+Early+in+Learning+Can+Reshape+Language+Complexity%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D79",
@@ -2212,7 +2212,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_80.bib",
             "ris": "bib/evolang15_80.ris",
-            "copy": "Jon-And, A. & Michaud, J. (2024). Emergent Grammar From a Minimal Cognitive Archtecture. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Jon-And, A. & Michaud, J. (2024). Emergent Grammar From a Minimal Cognitive Archtecture. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Emergent+Grammar+From+a+Minimal+Cognitive+Archtecture%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D80",
@@ -2246,7 +2246,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_81.bib",
             "ris": "bib/evolang15_81.ris",
-            "copy": "Devylder, S., Petersen, M. L. & Tyl\u00e9n, K. (2024). The Dothraki Experiment: Network Topology and the Linguistic Niche Hypothesis. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Devylder, S., Petersen, M. L. & Tyl\u00e9n, K. (2024). The Dothraki Experiment: Network Topology and the Linguistic Niche Hypothesis. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Dothraki+Experiment%3A+Network+Topology+and+the+Linguistic+Niche+Hypothesis%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D81",
@@ -2280,7 +2280,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_82.bib",
             "ris": "bib/evolang15_82.ris",
-            "copy": "Kuleshova, S., Zhang, E. Q. & Pleyer, M. (2024). Artifacts, Analogy, and Metaphor: Inferring the Cognitive Foundations of Metaphor From an Archaeological and Comparative Perspective. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Kuleshova, S., Zhang, E. Q. & Pleyer, M. (2024). Artifacts, Analogy, and Metaphor: Inferring the Cognitive Foundations of Metaphor From an Archaeological and Comparative Perspective. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Artifacts%2C+Analogy%2C+and+Metaphor%3A+Inferring+the+Cognitive+Foundations+of+Metaphor+From+an+Archaeological+and+Comparative+Perspective%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D82",
@@ -2314,7 +2314,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_83.bib",
             "ris": "bib/evolang15_83.ris",
-            "copy": "Pleyer, M., Neels, J. & Hartmann, S. (2024). Entrenchment, Conventionalization and Cumulative Culture: A Usage-Based Perspective on Language Evolution. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Pleyer, M., Neels, J. & Hartmann, S. (2024). Entrenchment, Conventionalization and Cumulative Culture: A Usage-Based Perspective on Language Evolution. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Entrenchment%2C+Conventionalization+and+Cumulative+Culture%3A+A+Usage-Based+Perspective+on+Language+Evolution%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D83",
@@ -2344,7 +2344,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_84.bib",
             "ris": "bib/evolang15_84.ris",
-            "copy": "Holtz, A. (2024). Using the Scale of Innovation to Study the Evolution of Language. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Holtz, A. (2024). Using the Scale of Innovation to Study the Evolution of Language. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Using+the+Scale+of+Innovation+to+Study+the+Evolution+of+Language%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D84",
@@ -2376,7 +2376,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_85.bib",
             "ris": "bib/evolang15_85.ris",
-            "copy": "Perlman, M. & Macuch Silva, V. (2024). Do Semiotics Experiments Really Show the \"Superiority\" of Gesture Over Vocalization for Iconic Representation? And Even if They Do, Does It Matter?. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Perlman, M. & Macuch Silva, V. (2024). Do Semiotics Experiments Really Show the \"Superiority\" of Gesture Over Vocalization for Iconic Representation? And Even if They Do, Does It Matter?. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Do+Semiotics+Experiments+Really+Show+the+%22Superiority%22+of+Gesture+Over+Vocalization+for+Iconic+Representation%3F+And+Even+if+They+Do%2C+Does+It+Matter%3F%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D85",
@@ -2408,7 +2408,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_86.bib",
             "ris": "bib/evolang15_86.ris",
-            "copy": "Roberts, S. G. & Cuskley, C. (2024). Gender Balance in Evolutionary Linguistics. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Roberts, S. G. & Cuskley, C. (2024). Gender Balance in Evolutionary Linguistics. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Gender+Balance+in+Evolutionary+Linguistics%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D86",
@@ -2442,7 +2442,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_87.bib",
             "ris": "bib/evolang15_87.ris",
-            "copy": "Dang, A., Raviv, L. & Galke, L. (2024). Testing the Linguistic Niche Hypothesis in Large Language Models With a Multilingual Wug Test. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Dang, A., Raviv, L. & Galke, L. (2024). Testing the Linguistic Niche Hypothesis in Large Language Models With a Multilingual Wug Test. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Testing+the+Linguistic+Niche+Hypothesis+in+Large+Language+Models+With+a+Multilingual+Wug+Test%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D87",
@@ -2476,7 +2476,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_88.bib",
             "ris": "bib/evolang15_88.ris",
-            "copy": "Schamberg, I., Surbeck, M. & Townsend, S. W. (2024). Cross-Population Variation in Usage of a Call Combination: Evidence of Signal Usage Optionality in Wild Bonobos. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Schamberg, I., Surbeck, M. & Townsend, S. W. (2024). Cross-Population Variation in Usage of a Call Combination: Evidence of Signal Usage Optionality in Wild Bonobos. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Cross-Population+Variation+in+Usage+of+a+Call+Combination%3A+Evidence+of+Signal+Usage+Optionality+in+Wild+Bonobos%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D88",
@@ -2508,7 +2508,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_89.bib",
             "ris": "bib/evolang15_89.ris",
-            "copy": "Durgin, F. H. & Boardman, A. (2024). Metaphor, Emotion, and the Evolved Sensory Interface. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Durgin, F. H. & Boardman, A. (2024). Metaphor, Emotion, and the Evolved Sensory Interface. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Metaphor%2C+Emotion%2C+and+the+Evolved+Sensory+Interface%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D89",
@@ -2542,7 +2542,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_90.bib",
             "ris": "bib/evolang15_90.ris",
-            "copy": "Dekker, P., Rasilo, H. & de Boer, B. (2024). The Role of Generalisation in an Adaptive Resonance Theory Model of Learning Inflection Classes. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Dekker, P., Rasilo, H. & de Boer, B. (2024). The Role of Generalisation in an Adaptive Resonance Theory Model of Learning Inflection Classes. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Role+of+Generalisation+in+an+Adaptive+Resonance+Theory+Model+of+Learning+Inflection+Classes%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D90",
@@ -2574,7 +2574,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_92.bib",
             "ris": "bib/evolang15_92.ris",
-            "copy": "Jadoul, Y. & de Boer, B. (2024). A Tool for Exploring Building Blocks in Speech and Animal Vocalizations. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Jadoul, Y. & de Boer, B. (2024). A Tool for Exploring Building Blocks in Speech and Animal Vocalizations. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22A+Tool+for+Exploring+Building+Blocks+in+Speech+and+Animal+Vocalizations%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D92",
@@ -2606,7 +2606,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_93.bib",
             "ris": "bib/evolang15_93.ris",
-            "copy": "Mayayo, F. & Toro, J. M. (2024). Rats (Rattus Norvegicus) Detect Temporal Rather Than Melodic Changes. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Mayayo, F. & Toro, J. M. (2024). Rats (Rattus Norvegicus) Detect Temporal Rather Than Melodic Changes. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Rats+%28Rattus+Norvegicus%29+Detect+Temporal+Rather+Than+Melodic+Changes%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D93",
@@ -2642,7 +2642,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_94.bib",
             "ris": "bib/evolang15_94.ris",
-            "copy": "Hallam, M., Jordan, F. M., Kirby, S. & Smith, K. (2024). Systemic Structure of Kinship Is Shaped by Evolutionary Processes. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Hallam, M., Jordan, F. M., Kirby, S. & Smith, K. (2024). Systemic Structure of Kinship Is Shaped by Evolutionary Processes. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Systemic+Structure+of+Kinship+Is+Shaped+by+Evolutionary+Processes%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D94",
@@ -2676,7 +2676,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_96.bib",
             "ris": "bib/evolang15_96.ris",
-            "copy": "Kouwenhoven, T., Kara, N. & Verhoef, T. (2024). Communication and Linguistic Structure in Collaborative Human-Machine Language Evolution. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Kouwenhoven, T., Kara, N. & Verhoef, T. (2024). Communication and Linguistic Structure in Collaborative Human-Machine Language Evolution. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Communication+and+Linguistic+Structure+in+Collaborative+Human-Machine+Language+Evolution%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D96",
@@ -2710,7 +2710,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_98.bib",
             "ris": "bib/evolang15_98.ris",
-            "copy": "Dekker, P., Gipper, S. & de Boer, B. (2024). 3SG Is the Most Conservative Subject Marker Across Languages: An Exploratory Study of Rate of Change. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Dekker, P., Gipper, S. & de Boer, B. (2024). 3SG Is the Most Conservative Subject Marker Across Languages: An Exploratory Study of Rate of Change. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%223SG+Is+the+Most+Conservative+Subject+Marker+Across+Languages%3A+An+Exploratory+Study+of+Rate+of+Change%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D98",
@@ -2744,7 +2744,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_99.bib",
             "ris": "bib/evolang15_99.ris",
-            "copy": "Craevschi, A., Babinski, S. & Cathcart, C. (2024). Finding Proportionality in Computational Approaches to Morphological Change. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Craevschi, A., Babinski, S. & Cathcart, C. (2024). Finding Proportionality in Computational Approaches to Morphological Change. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Finding+Proportionality+in+Computational+Approaches+to+Morphological+Change%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D99",
@@ -2782,7 +2782,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_100.bib",
             "ris": "bib/evolang15_100.ris",
-            "copy": "Zhang, Y., Verhoef, T., Lian, Y., Noord, G. v. & Bisazza, A. (2024). Simulating Dependency Length Minimization Using Neural-Network Based Learning and Communication. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Zhang, Y., Verhoef, T., Lian, Y., Noord, G. v. & Bisazza, A. (2024). Simulating Dependency Length Minimization Using Neural-Network Based Learning and Communication. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Simulating+Dependency+Length+Minimization+Using+Neural-Network+Based+Learning+and+Communication%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D100",
@@ -2814,7 +2814,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_101.bib",
             "ris": "bib/evolang15_101.ris",
-            "copy": "Flaherty, M. & Cuskley, C. (2024). What's the Deal With Large Language Models? A Comparative Evolutionary Perspective. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Flaherty, M. & Cuskley, C. (2024). What's the Deal With Large Language Models? A Comparative Evolutionary Perspective. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22What%27s+the+Deal+With+Large+Language+Models%3F+A+Comparative+Evolutionary+Perspective%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D101",
@@ -2864,7 +2864,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_102.bib",
             "ris": "bib/evolang15_102.ris",
-            "copy": "Ekstr\u00f6m, A. G., Nellissen, L., Bortolato, T., Crockford, C., Edlund, J., Masi, S., Zuberb\u00fchler, K., Lameira, A. R., Wittig, R. W., Grawunder, S. & Moran, S. (2024). Phonetic Properties of Chimpanzee, Gorilla, and Orangutan Hoots Tell a Uniform Story \u2013 And Point to New Frontiers. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Ekstr\u00f6m, A. G., Nellissen, L., Bortolato, T., Crockford, C., Edlund, J., Masi, S., Zuberb\u00fchler, K., Lameira, A. R., Wittig, R. W., Grawunder, S. & Moran, S. (2024). Phonetic Properties of Chimpanzee, Gorilla, and Orangutan Hoots Tell a Uniform Story \u2013 And Point to New Frontiers. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Phonetic+Properties+of+Chimpanzee%2C+Gorilla%2C+and+Orangutan+Hoots+Tell+a+Uniform+Story+%E2%80%93+And+Point+to+New+Frontiers%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D102",
@@ -2900,7 +2900,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_103.bib",
             "ris": "bib/evolang15_103.ris",
-            "copy": "Lutzenberger, H., Fox, N., Proctor, H. & Schembri, A. (2024). Seeing Signs of Morphology - Form-Meaning Relations in British Sign Language Morphology Are Iconic for Hearing Non-Signers. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Lutzenberger, H., Fox, N., Proctor, H. & Schembri, A. (2024). Seeing Signs of Morphology - Form-Meaning Relations in British Sign Language Morphology Are Iconic for Hearing Non-Signers. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Seeing+Signs+of+Morphology+-+Form-Meaning+Relations+in+British+Sign+Language+Morphology+Are+Iconic+for+Hearing+Non-Signers%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D103",
@@ -2944,7 +2944,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_104.bib",
             "ris": "bib/evolang15_104.ris",
-            "copy": "Motiekaityt\u0117, K., Grosseck, O., Wolf, L., Bosker, H. R., Peeters, D., Perlman, M., Ortega, G. & Raviv, L. (2024). Iconicity and Compositionality in Emerging Vocal Communication Systems: A Virtual Reality Approach. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Motiekaityt\u0117, K., Grosseck, O., Wolf, L., Bosker, H. R., Peeters, D., Perlman, M., Ortega, G. & Raviv, L. (2024). Iconicity and Compositionality in Emerging Vocal Communication Systems: A Virtual Reality Approach. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Iconicity+and+Compositionality+in+Emerging+Vocal+Communication+Systems%3A+A+Virtual+Reality+Approach%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D104",
@@ -2978,7 +2978,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_105.bib",
             "ris": "bib/evolang15_105.ris",
-            "copy": "Delliponti, A. D., Wacewicz, S. & Pleyer, M. (2024). Alignment vs Conflict of Interests in Language Evolution: Two Pathways to High-Level Mindreading. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Delliponti, A. D., Wacewicz, S. & Pleyer, M. (2024). Alignment vs Conflict of Interests in Language Evolution: Two Pathways to High-Level Mindreading. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Alignment+vs+Conflict+of+Interests+in+Language+Evolution%3A+Two+Pathways+to+High-Level+Mindreading%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D105",
@@ -3014,7 +3014,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_106.bib",
             "ris": "bib/evolang15_106.ris",
-            "copy": "Dickerman, M., Mine, J., Townsend, S. W. & Stoll, S. (2024). Defining the Building Blocks of Pragmatic Competence: The Social Context of Language Evolution. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Dickerman, M., Mine, J., Townsend, S. W. & Stoll, S. (2024). Defining the Building Blocks of Pragmatic Competence: The Social Context of Language Evolution. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Defining+the+Building+Blocks+of+Pragmatic+Competence%3A+The+Social+Context+of+Language+Evolution%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D106",
@@ -3044,7 +3044,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_107.bib",
             "ris": "bib/evolang15_107.ris",
-            "copy": "Hawks, J. (2024). Morphological Analysis of Vocal Communication in Homo Naledi. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Hawks, J. (2024). Morphological Analysis of Vocal Communication in Homo Naledi. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Morphological+Analysis+of+Vocal+Communication+in+Homo+Naledi%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D107",
@@ -3082,7 +3082,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_108.bib",
             "ris": "bib/evolang15_108.ris",
-            "copy": "Fiala, V., \u017bywiczy\u0144ski, P., Szala, A., Placi\u0144ski, M. & Wacewicz, S. (2024). Exploring the Influence of Word Definition on AI-generated Facial Representations. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Fiala, V., \u017bywiczy\u0144ski, P., Szala, A., Placi\u0144ski, M. & Wacewicz, S. (2024). Exploring the Influence of Word Definition on AI-generated Facial Representations. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Exploring+the+Influence+of+Word+Definition+on+AI-generated+Facial+Representations%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D108",
@@ -3116,7 +3116,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_109.bib",
             "ris": "bib/evolang15_109.ris",
-            "copy": "Magdaleno Flores, F. R., Salinas, I. Q. & Rothstein, S. I. (2024). Vocal Functional Flexibility in a Songbird. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Magdaleno Flores, F. R., Salinas, I. Q. & Rothstein, S. I. (2024). Vocal Functional Flexibility in a Songbird. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Vocal+Functional+Flexibility+in+a+Songbird%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D109",
@@ -3148,7 +3148,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_110.bib",
             "ris": "bib/evolang15_110.ris",
-            "copy": "MacDonald, C. & Christiansen, M. (2024). A Feedback-Facilitated Iterated Learning Experiment. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "MacDonald, C. & Christiansen, M. (2024). A Feedback-Facilitated Iterated Learning Experiment. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22A+Feedback-Facilitated+Iterated+Learning+Experiment%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D110",
@@ -3190,7 +3190,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_111.bib",
             "ris": "bib/evolang15_111.ris",
-            "copy": "Szala, A., Wacewicz, S., Placi\u0144ski, M., Poniewierska, A., Schmeichel, A., Stefa\u0144czyk, M. & \u017bywiczy\u0144ski, P. (2024). Exploring the Content of Casual Polish Conversations. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Szala, A., Wacewicz, S., Placi\u0144ski, M., Poniewierska, A., Schmeichel, A., Stefa\u0144czyk, M. & \u017bywiczy\u0144ski, P. (2024). Exploring the Content of Casual Polish Conversations. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Exploring+the+Content+of+Casual+Polish+Conversations%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D111",
@@ -3222,7 +3222,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_112.bib",
             "ris": "bib/evolang15_112.ris",
-            "copy": "Dona, L. & Schouwstra, M. (2024). Balancing Regularization and Variation: The Roles of Priming and Motivatedness. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Dona, L. & Schouwstra, M. (2024). Balancing Regularization and Variation: The Roles of Priming and Motivatedness. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Balancing+Regularization+and+Variation%3A+The+Roles+of+Priming+and+Motivatedness%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D112",
@@ -3264,7 +3264,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_113.bib",
             "ris": "bib/evolang15_113.ris",
-            "copy": "Fuchs, S., Kadava, S., Pouw, W., Cwiek, A., Walker, B., Fay, N. & Winter, B. (2024). Exploring the Sound Structure of Novel Vocalizations. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Fuchs, S., Kadava, S., Pouw, W., Cwiek, A., Walker, B., Fay, N. & Winter, B. (2024). Exploring the Sound Structure of Novel Vocalizations. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Exploring+the+Sound+Structure+of+Novel+Vocalizations%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D113",
@@ -3294,7 +3294,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_114.bib",
             "ris": "bib/evolang15_114.ris",
-            "copy": "Feeney, A. (2024). Locating the Emergence of Hominin Pragmatic Competence. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Feeney, A. (2024). Locating the Emergence of Hominin Pragmatic Competence. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Locating+the+Emergence+of+Hominin+Pragmatic+Competence%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D114",
@@ -3332,7 +3332,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_115.bib",
             "ris": "bib/evolang15_115.ris",
-            "copy": "Chen, A. M., Hofer, M., Poliak, M., Levy, R. P. & Zaslavsky, N. (2024). Discreteness and Systematicity Emerge to Facilitate Communication in a Continuous Signal-Meaning Space. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Chen, A. M., Hofer, M., Poliak, M., Levy, R. P. & Zaslavsky, N. (2024). Discreteness and Systematicity Emerge to Facilitate Communication in a Continuous Signal-Meaning Space. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Discreteness+and+Systematicity+Emerge+to+Facilitate+Communication+in+a+Continuous+Signal-Meaning+Space%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D115",
@@ -3368,7 +3368,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_116.bib",
             "ris": "bib/evolang15_116.ris",
-            "copy": "Shi, E. R., Zhang, E. Q., Barcel\u00f3-Coblijn, L. & He, R. (2024). The Development of Trisynaptic Pathway in the Hippocampus and the Milestone of Language Development. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Shi, E. R., Zhang, E. Q., Barcel\u00f3-Coblijn, L. & He, R. (2024). The Development of Trisynaptic Pathway in the Hippocampus and the Milestone of Language Development. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Development+of+Trisynaptic+Pathway+in+the+Hippocampus+and+the+Milestone+of+Language+Development%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D116",
@@ -3402,7 +3402,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_118.bib",
             "ris": "bib/evolang15_118.ris",
-            "copy": "Galke, L., Ram, Y. & Raviv, L. (2024). Learning Pressures and Inductive Biases in Emergent Communication: Parallels Between Humans and Deep Neural Networks. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Galke, L., Ram, Y. & Raviv, L. (2024). Learning Pressures and Inductive Biases in Emergent Communication: Parallels Between Humans and Deep Neural Networks. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Learning+Pressures+and+Inductive+Biases+in+Emergent+Communication%3A+Parallels+Between+Humans+and+Deep+Neural+Networks%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D118",
@@ -3434,7 +3434,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_121.bib",
             "ris": "bib/evolang15_121.ris",
-            "copy": "Luuk, E. & Stavroulakis, J. I. (2024). Reconstructing a Protolanguage. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Luuk, E. & Stavroulakis, J. I. (2024). Reconstructing a Protolanguage. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Reconstructing+a+Protolanguage%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D121",
@@ -3466,7 +3466,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_122.bib",
             "ris": "bib/evolang15_122.ris",
-            "copy": "Wedel, A. B. & King, A. (2024). Evolving a Higher Efficiency Lexicon: High Resource-Cost Sounds Are Preferentially Allocated to Word Beginnings and Stressed Syllables. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Wedel, A. B. & King, A. (2024). Evolving a Higher Efficiency Lexicon: High Resource-Cost Sounds Are Preferentially Allocated to Word Beginnings and Stressed Syllables. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Evolving+a+Higher+Efficiency+Lexicon%3A+High+Resource-Cost+Sounds+Are+Preferentially+Allocated+to+Word+Beginnings+and+Stressed+Syllables%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D122",
@@ -3496,7 +3496,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_123.bib",
             "ris": "bib/evolang15_123.ris",
-            "copy": "Kuleshova, S. (2024). Middle Pleistocene Humans in Europe: Cognition Before Neanderthals. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Kuleshova, S. (2024). Middle Pleistocene Humans in Europe: Cognition Before Neanderthals. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Middle+Pleistocene+Humans+in+Europe%3A+Cognition+Before+Neanderthals%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D123",
@@ -3532,7 +3532,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_124.bib",
             "ris": "bib/evolang15_124.ris",
-            "copy": "Grosseck, O., Perlman, M., Ortega, G. & Raviv, L. (2024). The Iconic Affordances of Gesture and Vocalization in Emerging Languages in the Lab. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Grosseck, O., Perlman, M., Ortega, G. & Raviv, L. (2024). The Iconic Affordances of Gesture and Vocalization in Emerging Languages in the Lab. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Iconic+Affordances+of+Gesture+and+Vocalization+in+Emerging+Languages+in+the+Lab%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D124",
@@ -3562,7 +3562,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_125.bib",
             "ris": "bib/evolang15_125.ris",
-            "copy": "Li, V. G. (2024). Obsolescence: A Missing Piece in the Puzzle of Polysemy and Time. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Li, V. G. (2024). Obsolescence: A Missing Piece in the Puzzle of Polysemy and Time. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Obsolescence%3A+A+Missing+Piece+in+the+Puzzle+of+Polysemy+and+Time%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D125",
@@ -3598,7 +3598,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_126.bib",
             "ris": "bib/evolang15_126.ris",
-            "copy": "Rotem-Stibbe, L., Moore, R., Fischer, J. & Tomasello, M. (2024). Attention Soliciting Behaviour in the Communication of Nine Primate Species. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Rotem-Stibbe, L., Moore, R., Fischer, J. & Tomasello, M. (2024). Attention Soliciting Behaviour in the Communication of Nine Primate Species. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Attention+Soliciting+Behaviour+in+the+Communication+of+Nine+Primate+Species%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D126",
@@ -3632,7 +3632,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_127.bib",
             "ris": "bib/evolang15_127.ris",
-            "copy": "Wolters, L., Kirby, S. & Arnon, I. (2024). Word-Like Units Emerge Through Iterated Sequence Learning. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Wolters, L., Kirby, S. & Arnon, I. (2024). Word-Like Units Emerge Through Iterated Sequence Learning. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Word-Like+Units+Emerge+Through+Iterated+Sequence+Learning%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D127",
@@ -3674,7 +3674,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_128.bib",
             "ris": "bib/evolang15_128.ris",
-            "copy": "N\u00f6lle, J., Chen, C., Wu, Y., Arias Sarah, P., Garrod, O. G. B., Schyns, P. G. & Jack, R. E. (2024). The Roots of Facial Expressions: Pragmatic and Semantic Facial Expressions Comprise Biologically-Rooted Facial Movements. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "N\u00f6lle, J., Chen, C., Wu, Y., Arias Sarah, P., Garrod, O. G. B., Schyns, P. G. & Jack, R. E. (2024). The Roots of Facial Expressions: Pragmatic and Semantic Facial Expressions Comprise Biologically-Rooted Facial Movements. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Roots+of+Facial+Expressions%3A+Pragmatic+and+Semantic+Facial+Expressions+Comprise+Biologically-Rooted+Facial+Movements%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D128",
@@ -3708,7 +3708,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_129.bib",
             "ris": "bib/evolang15_129.ris",
-            "copy": "Duan, Y., Le, K. & Lupyan, G. (2024). Differences in Distributional Structure Can Lead to Differences in Similarity Biases. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Duan, Y., Le, K. & Lupyan, G. (2024). Differences in Distributional Structure Can Lead to Differences in Similarity Biases. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Differences+in+Distributional+Structure+Can+Lead+to+Differences+in+Similarity+Biases%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D129",
@@ -3738,7 +3738,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_131.bib",
             "ris": "bib/evolang15_131.ris",
-            "copy": "Rossello, J. (2024). Calls, Words and Brains. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Rossello, J. (2024). Calls, Words and Brains. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Calls%2C+Words+and+Brains%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D131",
@@ -3778,7 +3778,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_132.bib",
             "ris": "bib/evolang15_132.ris",
-            "copy": "Lyn, H., Villegas, J., Bass, C., Baker, S., West, K. & Johnson, L. (2024). Do Dogs Really Get the Point?. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Lyn, H., Villegas, J., Bass, C., Baker, S., West, K. & Johnson, L. (2024). Do Dogs Really Get the Point?. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Do+Dogs+Really+Get+the+Point%3F%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D132",
@@ -3810,7 +3810,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_133.bib",
             "ris": "bib/evolang15_133.ris",
-            "copy": "Altenhof, A. & Roberts, G. (2024). The Emergence of Non-Absolute Synonymy: An Iterated-Learning Experiment. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Altenhof, A. & Roberts, G. (2024). The Emergence of Non-Absolute Synonymy: An Iterated-Learning Experiment. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Emergence+of+Non-Absolute+Synonymy%3A+An+Iterated-Learning+Experiment%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D133",
@@ -3844,7 +3844,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_134.bib",
             "ris": "bib/evolang15_134.ris",
-            "copy": "Hofer, M., Kirby, S. & Levy, R. P. (2024). Simplicity and Informativeness in the Evolution of Combinatorial Structure. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Hofer, M., Kirby, S. & Levy, R. P. (2024). Simplicity and Informativeness in the Evolution of Combinatorial Structure. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Simplicity+and+Informativeness+in+the+Evolution+of+Combinatorial+Structure%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D134",
@@ -3874,7 +3874,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_135.bib",
             "ris": "bib/evolang15_135.ris",
-            "copy": "Mihai, D. (2024). Visual Communication in Heterogeneous Populations of Artificial Communicating Agents. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Mihai, D. (2024). Visual Communication in Heterogeneous Populations of Artificial Communicating Agents. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Visual+Communication+in+Heterogeneous+Populations+of+Artificial+Communicating+Agents%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D135",
@@ -3906,7 +3906,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_136.bib",
             "ris": "bib/evolang15_136.ris",
-            "copy": "Lupyan, G. & Raviv, L. (2024). A Cautionary Note on Sociodemographic Predictors of Linguistic Complexity: Different Measures and Different Analyses Lead to Different Conclusions. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Lupyan, G. & Raviv, L. (2024). A Cautionary Note on Sociodemographic Predictors of Linguistic Complexity: Different Measures and Different Analyses Lead to Different Conclusions. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22A+Cautionary+Note+on+Sociodemographic+Predictors+of+Linguistic+Complexity%3A+Different+Measures+and+Different+Analyses+Lead+to+Different+Conclusions%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D136",
@@ -3942,7 +3942,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_137.bib",
             "ris": "bib/evolang15_137.ris",
-            "copy": "Imel, N., Zaslavsky, N., Franke, M. & Futrell, R. (2024). Noisy Population Dynamics Lead to Efficiently Compressed Vocabularies. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Imel, N., Zaslavsky, N., Franke, M. & Futrell, R. (2024). Noisy Population Dynamics Lead to Efficiently Compressed Vocabularies. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Noisy+Population+Dynamics+Lead+to+Efficiently+Compressed+Vocabularies%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D137",
@@ -3976,7 +3976,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_138.bib",
             "ris": "bib/evolang15_138.ris",
-            "copy": "Winkler, S., Cartmill, E. & Bryant, G. (2024). From Play Pants to Pragmatics: Laughter's Linguistic Leap. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Winkler, S., Cartmill, E. & Bryant, G. (2024). From Play Pants to Pragmatics: Laughter's Linguistic Leap. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22From+Play+Pants+to+Pragmatics%3A+Laughter%27s+Linguistic+Leap%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D138",
@@ -4008,7 +4008,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_139.bib",
             "ris": "bib/evolang15_139.ris",
-            "copy": "Gupta, A. & Steen, F. (2024). Simulating Representational Communication in Vervet Monkeys Using Agent-Based Simulation. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Gupta, A. & Steen, F. (2024). Simulating Representational Communication in Vervet Monkeys Using Agent-Based Simulation. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Simulating+Representational+Communication+in+Vervet+Monkeys+Using+Agent-Based+Simulation%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D139",
@@ -4040,7 +4040,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_140.bib",
             "ris": "bib/evolang15_140.ris",
-            "copy": "Torres, C. J. & Futrell, R. (2024). Compositionality and Algorithmic Complexity in Neural Networks. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Torres, C. J. & Futrell, R. (2024). Compositionality and Algorithmic Complexity in Neural Networks. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Compositionality+and+Algorithmic+Complexity+in+Neural+Networks%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D140",
@@ -4074,7 +4074,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_141.bib",
             "ris": "bib/evolang15_141.ris",
-            "copy": "Liu, Q., De Deyne, S. & Lupyan, G. (2024). Why Are Some Words More Frequent Than Others? New Insights From Network Science. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Liu, Q., De Deyne, S. & Lupyan, G. (2024). Why Are Some Words More Frequent Than Others? New Insights From Network Science. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Why+Are+Some+Words+More+Frequent+Than+Others%3F+New+Insights+From+Network+Science%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D141",
@@ -4108,7 +4108,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_142.bib",
             "ris": "bib/evolang15_142.ris",
-            "copy": "Davis, E., Kluender, R. & Gentner, T. (2024). Starlings Recognize Simple Dependency Patterns. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Davis, E., Kluender, R. & Gentner, T. (2024). Starlings Recognize Simple Dependency Patterns. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Starlings+Recognize+Simple+Dependency+Patterns%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D142",
@@ -4138,7 +4138,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_143.bib",
             "ris": "bib/evolang15_143.ris",
-            "copy": "Brown, H. (2024). Past, Present, and Future: A Literature Review of the Genetic Research Into the Evolution of Human Language. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Brown, H. (2024). Past, Present, and Future: A Literature Review of the Genetic Research Into the Evolution of Human Language. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Past%2C+Present%2C+and+Future%3A+A+Literature+Review+of+the+Genetic+Research+Into+the+Evolution+of+Human+Language%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D143",
@@ -4174,7 +4174,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_144.bib",
             "ris": "bib/evolang15_144.ris",
-            "copy": "Mukherjee, K., Suresh, S., Yu, X. & Lupyan, G. (2024). The Role of Shared Labels and Shared Experiences in Representational Alignment. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Mukherjee, K., Suresh, S., Yu, X. & Lupyan, G. (2024). The Role of Shared Labels and Shared Experiences in Representational Alignment. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Role+of+Shared+Labels+and+Shared+Experiences+in+Representational+Alignment%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D144",
@@ -4208,7 +4208,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_145.bib",
             "ris": "bib/evolang15_145.ris",
-            "copy": "Lei, L., Zhang, E. Q. & Gong, T. (2024). Diversity and Universals in Culturally Evolved Sound Systems Across Species: A Complex Adaptive System Account. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Lei, L., Zhang, E. Q. & Gong, T. (2024). Diversity and Universals in Culturally Evolved Sound Systems Across Species: A Complex Adaptive System Account. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Diversity+and+Universals+in+Culturally+Evolved+Sound+Systems+Across+Species%3A+A+Complex+Adaptive+System+Account%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D145",
@@ -4242,7 +4242,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_146.bib",
             "ris": "bib/evolang15_146.ris",
-            "copy": "Hu, Z., van Paridon, J. & Lupyan, G. (2024). Failures and Successes in Learning a Core Conceptual Distinction From the Statistics of Language. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Hu, Z., van Paridon, J. & Lupyan, G. (2024). Failures and Successes in Learning a Core Conceptual Distinction From the Statistics of Language. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Failures+and+Successes+in+Learning+a+Core+Conceptual+Distinction+From+the+Statistics+of+Language%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D146",
@@ -4272,7 +4272,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_147.bib",
             "ris": "bib/evolang15_147.ris",
-            "copy": "Beekhuizen, B. (2024). Discursive Distinctiveness Explains Lexical Differences Between Languages. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Beekhuizen, B. (2024). Discursive Distinctiveness Explains Lexical Differences Between Languages. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Discursive+Distinctiveness+Explains+Lexical+Differences+Between+Languages%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D147",
@@ -4304,7 +4304,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_148.bib",
             "ris": "bib/evolang15_148.ris",
-            "copy": "Borman, M. Z. & Lupyan, G. (2024). How Many Words Is a Picture (Or Definition) Worth? A Distributional Perspective on Learning and Generalizing New Word Meanings. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Borman, M. Z. & Lupyan, G. (2024). How Many Words Is a Picture (Or Definition) Worth? A Distributional Perspective on Learning and Generalizing New Word Meanings. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22How+Many+Words+Is+a+Picture+%28Or+Definition%29+Worth%3F+A+Distributional+Perspective+on+Learning+and+Generalizing+New+Word+Meanings%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D148",
@@ -4336,7 +4336,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_149.bib",
             "ris": "bib/evolang15_149.ris",
-            "copy": "Boruta-Zywiczynska, M. & Sibierska, M. (2024). When a Fishing Rod Becomes a Tyre: On Gesture Comprehension in 2-to-3 Years Old Transition in Children. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Boruta-Zywiczynska, M. & Sibierska, M. (2024). When a Fishing Rod Becomes a Tyre: On Gesture Comprehension in 2-to-3 Years Old Transition in Children. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22When+a+Fishing+Rod+Becomes+a+Tyre%3A+On+Gesture+Comprehension+in+2-to-3+Years+Old+Transition+in+Children%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D149",
@@ -4368,7 +4368,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_150.bib",
             "ris": "bib/evolang15_150.ris",
-            "copy": "Keogh, A. & Lupyan, G. (2024). Who Benefits From Redundancy in Learning Noun Class Systems?. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Keogh, A. & Lupyan, G. (2024). Who Benefits From Redundancy in Learning Noun Class Systems?. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Who+Benefits+From+Redundancy+in+Learning+Noun+Class+Systems%3F%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D150",
@@ -4398,7 +4398,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_151.bib",
             "ris": "bib/evolang15_151.ris",
-            "copy": "Ji, E. Y. (2024). A Semantic-Pragmatic Embedding Approach to Investigate the Evolution of Basic-Level Categories in Ancient Chinese. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Ji, E. Y. (2024). A Semantic-Pragmatic Embedding Approach to Investigate the Evolution of Basic-Level Categories in Ancient Chinese. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22A+Semantic-Pragmatic+Embedding+Approach+to+Investigate+the+Evolution+of+Basic-Level+Categories+in+Ancient+Chinese%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D151",
@@ -4432,7 +4432,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_153.bib",
             "ris": "bib/evolang15_153.ris",
-            "copy": "Graham, K. E., Rossano, F. & Moore, R. (2024). On the Origins of Great Ape Gestural Forms. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Graham, K. E., Rossano, F. & Moore, R. (2024). On the Origins of Great Ape Gestural Forms. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22On+the+Origins+of+Great+Ape+Gestural+Forms%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D153",
@@ -4470,7 +4470,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_154.bib",
             "ris": "bib/evolang15_154.ris",
-            "copy": "Shcherbakova, O., Claessens, S., Hallam, M., Allassonni\u00e8re-Tang, M. & Jordan, F. M. (2024). The Evolution of Gender-Differentiated Kinship Terms. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:pending."
+            "copy": "Shcherbakova, O., Claessens, S., Hallam, M., Allassonni\u00e8re-Tang, M. & Jordan, F. M. (2024). The Evolution of Gender-Differentiated Kinship Terms. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): Proceedings of the International Conference on the Evolution of Language 2024 (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Evolution+of+Gender-Differentiated+Kinship+Terms%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D154",
