@@ -1,7 +1,7 @@
 var plenariesData = {
     "schouwstra": {
         "name": "Marieke Schouwstra",
-        "title": "Silent gesture: uncovering biases that shape linguistic conventions",
+        "title": "Silent gesture: Uncovering biases that shape linguistic conventions",
         "url": "https://mariekeschouwstra.github.io/",
         "affiliation1": "University of Amsterdam",
         "affiliation2": "",
@@ -27,12 +27,12 @@ var plenariesData = {
     },
     "coppola": {
         "name": "Marie Coppola",
-        "title": "TBA",
+        "title": "The context of transmission matters in the creation and evolution of language",
         "url": "https://psychology.uconn.edu/person/marie-coppola/",
         "affiliation1": "University of Connecticut",
         "affiliation2": "",
         "about": "",
-        "abstract": "",
+        "abstract": "In recent decades the study of new deaf communities and their languages has offered us an opportunity to observe language evolution in action. Consistent with laboratory-based studies of artificial language development and change, this work makes clear that transmission is a key part of this process. However, what those changes are, the specific nature of the adaptation and change, as well as the degree to which conventionalization takes place, are influenced by a variety of factors. Three major dimensions of transmission that have been examined closely, especially in the context of deaf and hearing signers in Nicaragua, are vertical and horizontal interaction, as well as the quantity and density of social connections among signers. Transmission is an opportunity for the learner to change their input; our findings thus far suggest that that adaptation is asymmetric (younger learners adapt more, but often in a direction away from their models) and it is also not random. However, the direction it is nudged in is shaped by a variety of factors, including the number of users, their age, the proportion who are primary users of the language, the rate at which new signers are added, and the frequency of interactions (e.g., Senghas, 2005, LeGuen et al., 2020).\n\nI will discuss examples of specific developments in the domains of lexical conventionalization, grammatical uses of space, and pragmatic understanding in Nicaraguan signing. In each case, the nature of the development was partially determined by the context of transmission of the language system. For example, first-cohort signers\u2019 use of spatial grammar was transformed differently through vertical transmission to second-cohort signers (who are in horizontal contact) than vertical transmission to their own CODA children (who lack horizontal contact). Homesigners, who do not enter a linguistic community, consequently lack both vertical and horizontal contact, which apparently reduces the pressure to converge on common structures. Such differences reveal that transmission is crucial, not as a source of linguistic content or structure, but as a mechanism that enables language systems to adapt and change. The changes themselves are dynamic responses to the context in which the transmission takes place.",
         "image": "coppola.jpg",
         "date": "Tuesday, May 21, 2024",
         "time": "09:00",
@@ -40,7 +40,7 @@ var plenariesData = {
     },
     "mufwene": {
         "name": "Salikoko Mufwene",
-        "title": "Language Vitality: Understudied in Evolutionary Linguistics",
+        "title": "Language vitality: Understudied in evolutionary linguistics",
         "url": "https://linguistics.uchicago.edu/salikoko-s-mufwene/",
         "affiliation1": "University of Chicago",
         "affiliation2": "",

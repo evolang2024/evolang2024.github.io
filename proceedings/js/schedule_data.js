@@ -94,7 +94,7 @@ var scheduleData = [
             {
                 "startTime": "08:45",
                 "endTime": "09:45",
-                "event": "Plenary \"Language Vitality: Understudied in Evolutionary Linguistics\" (Salikoko Mufwene)",
+                "event": "Plenary \"Language vitality: Understudied in evolutionary linguistics\" (Salikoko Mufwene)",
                 "talks": null,
                 "url": "plenary.html?speaker=mufwene",
                 "venue": "Ballroom A"
@@ -254,7 +254,7 @@ var scheduleData = [
             {
                 "startTime": "15:15",
                 "endTime": "16:15",
-                "event": "Plenary \"Silent gesture: uncovering biases that shape linguistic conventions\" (Marieke Schouwstra)",
+                "event": "Plenary \"Silent gesture: Uncovering biases that shape linguistic conventions\" (Marieke Schouwstra)",
                 "talks": null,
                 "url": "plenary.html?speaker=schouwstra",
                 "venue": "Ballroom A"
@@ -553,7 +553,7 @@ var scheduleData = [
             {
                 "startTime": "09:00",
                 "endTime": "10:00",
-                "event": "Plenary \"TBA\" (Marie Coppola)",
+                "event": "Plenary \"The context of transmission matters in the creation and evolution of language\" (Marie Coppola)",
                 "talks": null,
                 "url": "plenary.html?speaker=coppola",
                 "venue": "Ballroom A"
