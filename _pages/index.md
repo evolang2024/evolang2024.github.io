@@ -84,6 +84,8 @@ prospects and pitfalls'
         btn_href: https://docs.google.com/document/d/11ypSUdU4dW37-UaVGD0-LfnYITy-4yjthOIL9NtWPcs/
       - name: 'Comparative  turn-taking:  A  new  approach  to  tackle  language origins '
         organizers: 'Fanny Tibesar (ftibesar@uos.de), Simone Pika (spika@uos.de)'
+        btn_name: 'Info and schedule'
+        btn_href: https://docs.google.com/document/d/1PwXmWWXXMLUEoK-WMz8MnxR611g-GzLGAPcMHG-d3R8/        
       - name: 'What is children’s role in shaping language evolution?'
         organizers: 'Shira Tal (stal@ed.ac.uk), Jennifer Culbertson (jennifer.culbertson@ed.ac.uk )'
         btn_name: 'Info and schedule'
