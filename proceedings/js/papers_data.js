@@ -79,7 +79,7 @@ var papersData = {
         "title": "An Event-Based Model for Linguistic Phylogenetics",
         "authors": [
             "David M Goldstein",
-            "Shawn McCreight",
+            "Shawn H. McCreight",
             "\u00c9va Buchi",
             "John Huelsenbeck"
         ],
@@ -94,7 +94,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_10.bib",
             "ris": "bib/evolang15_10.ris",
-            "copy": "Goldstein, D. M., McCreight, S., Buchi, \u00c9. & Huelsenbeck, J. (2024). An Event-Based Model for Linguistic Phylogenetics. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
+            "copy": "Goldstein, D. M., McCreight, S. H., Buchi, \u00c9. & Huelsenbeck, J. (2024). An Event-Based Model for Linguistic Phylogenetics. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22An+Event-Based+Model+for+Linguistic+Phylogenetics%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D10",
@@ -1278,7 +1278,7 @@ var papersData = {
             "Richard A Blythe",
             "Simon Kirby",
             "Dan Lassiter",
-            "Robert Truswell"
+            "Rob Truswell"
         ],
         "correspemails": [
             null,
@@ -1424,7 +1424,7 @@ var papersData = {
         "authors": [
             "Andreas Baumann",
             "Bernd Lenzner",
-            "Hannes Fellner",
+            "Hannes A. Fellner",
             "Franz Essl"
         ],
         "correspemails": [
@@ -1438,7 +1438,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_55.bib",
             "ris": "bib/evolang15_55.ris",
-            "copy": "Baumann, A., Lenzner, B., Fellner, H. & Essl, F. (2024). The Relation Between European Colonialism and Linguistic Diversity. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
+            "copy": "Baumann, A., Lenzner, B., Fellner, H. A. & Essl, F. (2024). The Relation Between European Colonialism and Linguistic Diversity. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Relation+Between+European+Colonialism+and+Linguistic+Diversity%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D55",
@@ -2027,7 +2027,7 @@ var papersData = {
             "Koen de Reus",
             "Antonio Ben\u00edtez-Burraco",
             "Taylor Hersh",
-            "Nikita Groot",
+            "Nikita E. Groot",
             "Katie Slocombe",
             "Megan Lambert",
             "Sonja Vernes",
@@ -2048,7 +2048,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_73.bib",
             "ris": "bib/evolang15_73.ris",
-            "copy": "de Reus, K., Ben\u00edtez-Burraco, A., Hersh, T., Groot, N., Slocombe, K., Lambert, M., Vernes, S. & Raviv, L. (2024). Self-Domestication Traits in Vocal Learning Mammals. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
+            "copy": "de Reus, K., Ben\u00edtez-Burraco, A., Hersh, T., Groot, N. E., Slocombe, K., Lambert, M., Vernes, S. & Raviv, L. (2024). Self-Domestication Traits in Vocal Learning Mammals. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Self-Domestication+Traits+in+Vocal+Learning+Mammals%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D73",
@@ -3243,12 +3243,12 @@ var papersData = {
         "title": "Exploring the Sound Structure of Novel Vocalizations",
         "authors": [
             "Susanne Fuchs",
-            "Sarka Kadava",
+            "\u0160\u00e1rka Kadav\u00e1",
             "Wim Pouw",
-            "Aleksandra Cwiek",
             "Bradley Walker",
             "Nick Fay",
-            "Bodo Winter"
+            "Bodo Winter",
+            "Aleksandra Cwiek"
         ],
         "correspemails": [
             null,
@@ -3264,7 +3264,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_113.bib",
             "ris": "bib/evolang15_113.ris",
-            "copy": "Fuchs, S., Kadava, S., Pouw, W., Cwiek, A., Walker, B., Fay, N. & Winter, B. (2024). Exploring the Sound Structure of Novel Vocalizations. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
+            "copy": "Fuchs, S., Kadav\u00e1, \u0160., Pouw, W., Walker, B., Fay, N., Winter, B. & Cwiek, A. (2024). Exploring the Sound Structure of Novel Vocalizations. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Exploring+the+Sound+Structure+of+Novel+Vocalizations%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D113",
@@ -3695,7 +3695,7 @@ var papersData = {
         "title": "Differences in Distributional Structure Can Lead to Differences in Similarity Biases",
         "authors": [
             "Yuguang Duan",
-            "Khuyen Le",
+            "Khuyen N. Le",
             "Gary Lupyan"
         ],
         "correspemails": [
@@ -3708,7 +3708,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_129.bib",
             "ris": "bib/evolang15_129.ris",
-            "copy": "Duan, Y., Le, K. & Lupyan, G. (2024). Differences in Distributional Structure Can Lead to Differences in Similarity Biases. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
+            "copy": "Duan, Y., Le, K. N. & Lupyan, G. (2024). Differences in Distributional Structure Can Lead to Differences in Similarity Biases. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Differences+in+Distributional+Structure+Can+Lead+to+Differences+in+Similarity+Biases%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D129",
@@ -3763,7 +3763,7 @@ var papersData = {
             "Christopher Bass",
             "Steven Baker",
             "Katie West",
-            "Lindsey Johnson"
+            "Lindsey E. Johnson"
         ],
         "correspemails": [
             null,
@@ -3778,7 +3778,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_132.bib",
             "ris": "bib/evolang15_132.ris",
-            "copy": "Lyn, H., Villegas, J., Bass, C., Baker, S., West, K. & Johnson, L. (2024). Do Dogs Really Get the Point?. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
+            "copy": "Lyn, H., Villegas, J., Bass, C., Baker, S., West, K. & Johnson, L. E. (2024). Do Dogs Really Get the Point?. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Do+Dogs+Really+Get+the+Point%3F%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D132",
