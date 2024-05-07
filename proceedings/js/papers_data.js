@@ -107,7 +107,7 @@ var papersData = {
         "weburl": "paper.html?nr=10",
         "date": "Monday, May 20, 2024",
         "time": "16:10",
-        "location": "Ballroom C (Track 3)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -237,7 +237,7 @@ var papersData = {
         "weburl": "paper.html?nr=14",
         "date": "Sunday, May 19, 2024",
         "time": "11:30",
-        "location": "Ballroom B (Track 2)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -301,7 +301,7 @@ var papersData = {
         "weburl": "paper.html?nr=16",
         "date": "Monday, May 20, 2024",
         "time": "14:50",
-        "location": "Ballroom C (Track 3)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -405,8 +405,8 @@ var papersData = {
             "systematicity, complexity, information theory"
         ],
         "weburl": "paper.html?nr=19",
-        "date": "Monday, May 20, 2024",
-        "time": "16:35",
+        "date": "Sunday, May 19, 2024",
+        "time": "13:55",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
@@ -437,7 +437,7 @@ var papersData = {
         "weburl": "paper.html?nr=20",
         "date": "Sunday, May 19, 2024",
         "time": "11:05",
-        "location": "Ballroom A (Track 1)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -467,7 +467,7 @@ var papersData = {
         "weburl": "paper.html?nr=21",
         "date": "Sunday, May 19, 2024",
         "time": "10:15",
-        "location": "Ballroom B (Track 2)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -531,8 +531,8 @@ var papersData = {
             "seri, simulation experiments, morphology, language change, analogy, complexity"
         ],
         "weburl": "paper.html?nr=23",
-        "date": "Monday, May 20, 2024",
-        "time": "16:10",
+        "date": "Sunday, May 19, 2024",
+        "time": "13:30",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
@@ -563,7 +563,7 @@ var papersData = {
         "weburl": "paper.html?nr=24",
         "date": "Monday, May 20, 2024",
         "time": "11:30",
-        "location": "Ballroom B (Track 2)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -701,7 +701,7 @@ var papersData = {
         "weburl": "paper.html?nr=28",
         "date": "Sunday, May 19, 2024",
         "time": "10:40",
-        "location": "Ballroom B (Track 2)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -730,7 +730,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=29",
         "date": "Sunday, May 19, 2024",
-        "time": "10:15",
+        "time": "13:30",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
@@ -762,8 +762,8 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=30",
         "date": "Sunday, May 19, 2024",
-        "time": "13:30",
-        "location": "Ballroom D (Track 4)",
+        "time": "10:15",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -924,8 +924,8 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=36",
         "date": "Sunday, May 19, 2024",
-        "time": "14:20",
-        "location": "Ballroom D (Track 4)",
+        "time": "11:05",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -985,7 +985,7 @@ var papersData = {
         "weburl": "paper.html?nr=38",
         "date": "Sunday, May 19, 2024",
         "time": "11:05",
-        "location": "Ballroom C (Track 3)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -1119,9 +1119,9 @@ var papersData = {
             "simulation, language change, protolanguage, historical linguistics, computational linguistics"
         ],
         "weburl": "paper.html?nr=44",
-        "date": "Sunday, May 19, 2024",
-        "time": "14:20",
-        "location": "Ballroom B (Track 2)",
+        "date": "Monday, May 20, 2024",
+        "time": "17:00",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -1151,7 +1151,7 @@ var papersData = {
         "weburl": "paper.html?nr=45",
         "date": "Monday, May 20, 2024",
         "time": "14:25",
-        "location": "Ballroom B (Track 2)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -1267,7 +1267,7 @@ var papersData = {
         "weburl": "paper.html?nr=48",
         "date": "Sunday, May 19, 2024",
         "time": "10:40",
-        "location": "Ballroom A (Track 1)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -1345,9 +1345,9 @@ var papersData = {
             "syntax, ape, vocalization, collocation analysis"
         ],
         "weburl": "paper.html?nr=52",
-        "date": "Monday, May 20, 2024",
-        "time": "14:25",
-        "location": "Ballroom D (Track 4)",
+        "date": "Tuesday, May 21, 2024",
+        "time": "10:55",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -1383,7 +1383,7 @@ var papersData = {
         "weburl": "paper.html?nr=53",
         "date": "Monday, May 20, 2024",
         "time": "11:05",
-        "location": "Ballroom B (Track 2)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -1413,9 +1413,9 @@ var papersData = {
             "speech production, phonetics, human evolution, neanderthal"
         ],
         "weburl": "paper.html?nr=54",
-        "date": "Sunday, May 19, 2024",
-        "time": "13:30",
-        "location": "Ballroom B (Track 2)",
+        "date": "Monday, May 20, 2024",
+        "time": "16:10",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -1485,7 +1485,7 @@ var papersData = {
         "weburl": "paper.html?nr=56",
         "date": "Sunday, May 19, 2024",
         "time": "10:15",
-        "location": "Ballroom A (Track 1)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -1555,9 +1555,9 @@ var papersData = {
             "metaphor, language evolution, language change, word embeddings, computational linguistics"
         ],
         "weburl": "paper.html?nr=58",
-        "date": "Tuesday, May 21, 2024",
+        "date": "Monday, May 20, 2024",
         "time": "14:00",
-        "location": "Ballroom D (Track 4)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -1627,9 +1627,9 @@ var papersData = {
             "deep transfer learning, primate vocal communication, speech processing, self-supervised learning"
         ],
         "weburl": "paper.html?nr=60",
-        "date": "Monday, May 20, 2024",
-        "time": "15:15",
-        "location": "Ballroom D (Track 4)",
+        "date": "Tuesday, May 21, 2024",
+        "time": "11:45",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -1671,9 +1671,9 @@ var papersData = {
             "referential communication, intentional communication, vocalisations, comparative approach"
         ],
         "weburl": "paper.html?nr=61",
-        "date": "Monday, May 20, 2024",
-        "time": "14:00",
-        "location": "Ballroom D (Track 4)",
+        "date": "Tuesday, May 21, 2024",
+        "time": "10:30",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -1752,8 +1752,8 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=63",
         "date": "Monday, May 20, 2024",
-        "time": "14:00",
-        "location": "Ballroom B (Track 2)",
+        "time": "15:15",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -1817,9 +1817,9 @@ var papersData = {
             "linguistic complexity, sociopolitical complexity, morphology, syntax, prehistoric languages"
         ],
         "weburl": "paper.html?nr=65",
-        "date": "Sunday, May 19, 2024",
-        "time": "13:55",
-        "location": "Ballroom B (Track 2)",
+        "date": "Monday, May 20, 2024",
+        "time": "16:35",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -1853,7 +1853,7 @@ var papersData = {
         "weburl": "paper.html?nr=66",
         "date": "Monday, May 20, 2024",
         "time": "17:00",
-        "location": "Ballroom C (Track 3)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -1885,7 +1885,7 @@ var papersData = {
         "weburl": "paper.html?nr=67",
         "date": "Sunday, May 19, 2024",
         "time": "10:40",
-        "location": "Ballroom C (Track 3)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -2060,8 +2060,8 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=73",
         "date": "Monday, May 20, 2024",
-        "time": "15:15",
-        "location": "Ballroom B (Track 2)",
+        "time": "14:00",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -2223,9 +2223,9 @@ var papersData = {
             "emergence of grammar, language acquisition, reinforcement learning, cognitive artificial intelligence"
         ],
         "weburl": "paper.html?nr=80",
-        "date": "Tuesday, May 21, 2024",
-        "time": "11:45",
-        "location": "Ballroom C (Track 3)",
+        "date": "Monday, May 20, 2024",
+        "time": "14:50",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -2389,7 +2389,7 @@ var papersData = {
         "weburl": "paper.html?nr=85",
         "date": "Monday, May 20, 2024",
         "time": "10:15",
-        "location": "Ballroom A (Track 1)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -2487,9 +2487,9 @@ var papersData = {
             "arbitrariness, optionality, bonobos, animal communication"
         ],
         "weburl": "paper.html?nr=88",
-        "date": "Monday, May 20, 2024",
-        "time": "14:50",
-        "location": "Ballroom D (Track 4)",
+        "date": "Tuesday, May 21, 2024",
+        "time": "11:20",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -2655,7 +2655,7 @@ var papersData = {
         "weburl": "paper.html?nr=94",
         "date": "Monday, May 20, 2024",
         "time": "16:35",
-        "location": "Ballroom C (Track 3)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -2825,9 +2825,9 @@ var papersData = {
             "large language models, comparative, artificial language learning"
         ],
         "weburl": "paper.html?nr=101",
-        "date": "Tuesday, May 21, 2024",
-        "time": "10:30",
-        "location": "Ballroom C (Track 3)",
+        "date": "Monday, May 20, 2024",
+        "time": "14:00",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -2912,8 +2912,8 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=103",
         "date": "Sunday, May 19, 2024",
-        "time": "13:55",
-        "location": "Ballroom D (Track 4)",
+        "time": "10:40",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -2957,7 +2957,7 @@ var papersData = {
         "weburl": "paper.html?nr=104",
         "date": "Monday, May 20, 2024",
         "time": "10:40",
-        "location": "Ballroom A (Track 1)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -3027,7 +3027,7 @@ var papersData = {
         "weburl": "paper.html?nr=106",
         "date": "Monday, May 20, 2024",
         "time": "10:15",
-        "location": "Ballroom B (Track 2)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -3056,7 +3056,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=107",
         "date": "Sunday, May 19, 2024",
-        "time": "11:05",
+        "time": "14:20",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
@@ -3235,7 +3235,7 @@ var papersData = {
         "weburl": "paper.html?nr=112",
         "date": "Sunday, May 19, 2024",
         "time": "10:15",
-        "location": "Ballroom C (Track 3)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -3248,7 +3248,7 @@ var papersData = {
             "Bradley Walker",
             "Nick Fay",
             "Bodo Winter",
-            "Aleksandra Cwiek"
+            "Aleksandra \u0106wiek"
         ],
         "correspemails": [
             null,
@@ -3264,7 +3264,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_113.bib",
             "ris": "bib/evolang15_113.ris",
-            "copy": "Fuchs, S., Kadav\u00e1, \u0160., Pouw, W., Walker, B., Fay, N., Winter, B. & Cwiek, A. (2024). Exploring the Sound Structure of Novel Vocalizations. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
+            "copy": "Fuchs, S., Kadav\u00e1, \u0160., Pouw, W., Walker, B., Fay, N., Winter, B. & \u0106wiek, A. (2024). Exploring the Sound Structure of Novel Vocalizations. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Exploring+the+Sound+Structure+of+Novel+Vocalizations%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D113",
@@ -3307,7 +3307,7 @@ var papersData = {
         "weburl": "paper.html?nr=114",
         "date": "Monday, May 20, 2024",
         "time": "10:40",
-        "location": "Ballroom B (Track 2)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -3345,7 +3345,7 @@ var papersData = {
         "weburl": "paper.html?nr=115",
         "date": "Monday, May 20, 2024",
         "time": "14:50",
-        "location": "Ballroom A (Track 1)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -3380,7 +3380,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=116",
         "date": "Sunday, May 19, 2024",
-        "time": "10:40",
+        "time": "13:55",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
@@ -3413,9 +3413,9 @@ var papersData = {
             "emergent communication, language emergence, deep neural networks, learning pressures, language models, computational modeling, language evolution, language learning, language acquisition, machine learning"
         ],
         "weburl": "paper.html?nr=118",
-        "date": "Tuesday, May 21, 2024",
-        "time": "10:55",
-        "location": "Ballroom C (Track 3)",
+        "date": "Monday, May 20, 2024",
+        "time": "15:15",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -3447,7 +3447,7 @@ var papersData = {
         "weburl": "paper.html?nr=121",
         "date": "Sunday, May 19, 2024",
         "time": "11:05",
-        "location": "Ballroom B (Track 2)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -3545,7 +3545,7 @@ var papersData = {
         "weburl": "paper.html?nr=124",
         "date": "Monday, May 20, 2024",
         "time": "11:05",
-        "location": "Ballroom A (Track 1)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -3611,7 +3611,7 @@ var papersData = {
         "weburl": "paper.html?nr=126",
         "date": "Monday, May 20, 2024",
         "time": "14:50",
-        "location": "Ballroom B (Track 2)",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
     },
@@ -3645,7 +3645,7 @@ var papersData = {
         "weburl": "paper.html?nr=127",
         "date": "Monday, May 20, 2024",
         "time": "14:00",
-        "location": "Ballroom A (Track 1)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -3687,7 +3687,7 @@ var papersData = {
         "weburl": "paper.html?nr=128",
         "date": "Monday, May 20, 2024",
         "time": "11:30",
-        "location": "Ballroom A (Track 1)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -3955,7 +3955,7 @@ var papersData = {
         "weburl": "paper.html?nr=137",
         "date": "Sunday, May 19, 2024",
         "time": "11:30",
-        "location": "Ballroom C (Track 3)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -4085,9 +4085,9 @@ var papersData = {
             "word frequency, network, word association, centrality"
         ],
         "weburl": "paper.html?nr=141",
-        "date": "Tuesday, May 21, 2024",
-        "time": "14:25",
-        "location": "Ballroom D (Track 4)",
+        "date": "Sunday, May 19, 2024",
+        "time": "14:20",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -4121,7 +4121,7 @@ var papersData = {
         "weburl": "paper.html?nr=142",
         "date": "Monday, May 20, 2024",
         "time": "14:25",
-        "location": "Ballroom A (Track 1)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -4253,9 +4253,9 @@ var papersData = {
             "distributional semantics; generics; world models"
         ],
         "weburl": "paper.html?nr=146",
-        "date": "Tuesday, May 21, 2024",
-        "time": "11:20",
-        "location": "Ballroom C (Track 3)",
+        "date": "Monday, May 20, 2024",
+        "time": "14:25",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -4284,8 +4284,8 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=147",
         "date": "Monday, May 20, 2024",
-        "time": "14:00",
-        "location": "Ballroom C (Track 3)",
+        "time": "15:15",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     },
@@ -4317,7 +4317,7 @@ var papersData = {
         "weburl": "paper.html?nr=148",
         "date": "Monday, May 20, 2024",
         "time": "15:15",
-        "location": "Ballroom A (Track 1)",
+        "location": "Ballroom C (Track 3)",
         "prestype": "talk",
         "license": null
     },
@@ -4381,7 +4381,7 @@ var papersData = {
         "weburl": "paper.html?nr=150",
         "date": "Sunday, May 19, 2024",
         "time": "11:30",
-        "location": "Ballroom A (Track 1)",
+        "location": "Ballroom D (Track 4)",
         "prestype": "talk",
         "license": null
     },
@@ -4483,7 +4483,7 @@ var papersData = {
         "weburl": "paper.html?nr=154",
         "date": "Monday, May 20, 2024",
         "time": "14:25",
-        "location": "Ballroom C (Track 3)",
+        "location": "Ballroom B (Track 2)",
         "prestype": "talk",
         "license": null
     }
