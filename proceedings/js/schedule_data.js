@@ -532,7 +532,7 @@ var scheduleData = [
                 "endTime": "21:00",
                 "event": "Conference dinner",
                 "talks": null,
-                "url": null,
+                "url": "https://evolang2024.ticketspice.com/evolang-2024-excursions",
                 "venue": "23 N. Pinckney St., Suite 210"
             },
             {
