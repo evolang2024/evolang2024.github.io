@@ -119,9 +119,9 @@ submit:
             <b>Poster Dimensions & Formats:</b><br>
             Overall Poster Board Size&#58; Our poster boards are wide, measuring 91 inches (231 cm) in width and 44.75 inches (113.6 cm) in height. Please design your poster to fit within these dimensions. A poster spanning this entire area would be quite large, and you may want to print it at a somewhat smaller size.<br>
             <b>Wide (Landscape) Format:</b><br>
-            Maximum Size&#58; A0 size (46.8 × 33.1 inches or 118.8 x 84.1 cm). This is the preferred format for its visibility and space efficiency.<br>
+            If you print an A0 size landscape-oriented poster (46.8 × 33.1 inches or 118.8 x 84.1 cm), it will take up about half the poster board area.<br>
             <b>Long (Portrait) Format:</b><br>
-            Maximum Height&#58; Do not exceed the height of the poster boards, which is 44 inches (111.7 cm). Note&#58; The portrait format offers slightly less display area compared to the landscape (A0) format often used at conferences.<br><br>
+            Maximum Height&#58; Do not exceed the height of the poster boards, which is 44 inches (111.7 cm). Note&#58; The portrait format offers less display area compared to the landscape format often used at conferences.<br><br>
 
             <b>Poster Content & Design Tips:</b><br>
             Ensure your poster is readable from a distance. Use large fonts and clear, concise language.<br>
