@@ -97,7 +97,7 @@ var scheduleData = [
                 "event": "Plenary \"Language vitality: Understudied in evolutionary linguistics\" (Salikoko Mufwene)",
                 "talks": null,
                 "url": "plenary.html?speaker=mufwene",
-                "venue": "Ballroom A"
+                "venue": "Ballroom B"
             },
             {
                 "startTime": "09:45",
@@ -136,9 +136,9 @@ var scheduleData = [
                             "endTime": "10:40",
                             "papers": [
                                 30,
-                                112,
                                 21,
-                                56
+                                56,
+                                112
                             ]
                         },
                         {
@@ -146,9 +146,9 @@ var scheduleData = [
                             "endTime": "11:05",
                             "papers": [
                                 103,
-                                67,
                                 28,
-                                48
+                                48,
+                                67
                             ]
                         },
                         {
@@ -156,9 +156,9 @@ var scheduleData = [
                             "endTime": "11:30",
                             "papers": [
                                 36,
-                                38,
                                 121,
-                                20
+                                20,
+                                38
                             ]
                         },
                         {
@@ -166,9 +166,9 @@ var scheduleData = [
                             "endTime": "11:55",
                             "papers": [
                                 null,
-                                137,
                                 14,
-                                150
+                                150,
+                                137
                             ]
                         }
                     ]
@@ -213,9 +213,9 @@ var scheduleData = [
                             "endTime": "13:55",
                             "papers": [
                                 59,
-                                23,
                                 134,
-                                29
+                                29,
+                                23
                             ]
                         },
                         {
@@ -223,9 +223,9 @@ var scheduleData = [
                             "endTime": "14:20",
                             "papers": [
                                 42,
-                                19,
                                 92,
-                                116
+                                116,
+                                19
                             ]
                         },
                         {
@@ -233,9 +233,9 @@ var scheduleData = [
                             "endTime": "14:45",
                             "papers": [
                                 71,
-                                141,
                                 113,
-                                107
+                                107,
+                                141
                             ]
                         }
                     ]
@@ -257,7 +257,7 @@ var scheduleData = [
                 "event": "Plenary \"Silent gesture: Uncovering biases that shape linguistic conventions\" (Marieke Schouwstra)",
                 "talks": null,
                 "url": "plenary.html?speaker=schouwstra",
-                "venue": "Ballroom A"
+                "venue": "Ballroom B"
             },
             {
                 "startTime": "16:20",
@@ -288,7 +288,7 @@ var scheduleData = [
                 "event": "Plenary \"Global and local studies of genetic and linguistic evolution\" (Nicole Creanza)",
                 "talks": null,
                 "url": "plenary.html?speaker=creanza",
-                "venue": "Ballroom A"
+                "venue": "Ballroom B"
             },
             {
                 "startTime": "09:45",
@@ -327,9 +327,9 @@ var scheduleData = [
                             "endTime": "10:40",
                             "papers": [
                                 106,
-                                85,
                                 51,
-                                145
+                                145,
+                                85
                             ]
                         },
                         {
@@ -337,9 +337,9 @@ var scheduleData = [
                             "endTime": "11:05",
                             "papers": [
                                 114,
-                                104,
                                 98,
-                                18
+                                18,
+                                104
                             ]
                         },
                         {
@@ -347,9 +347,9 @@ var scheduleData = [
                             "endTime": "11:30",
                             "papers": [
                                 53,
-                                124,
                                 125,
-                                7
+                                7,
+                                124
                             ]
                         },
                         {
@@ -357,9 +357,9 @@ var scheduleData = [
                             "endTime": "11:55",
                             "papers": [
                                 24,
-                                128,
                                 34,
-                                null
+                                null,
+                                128
                             ]
                         }
                     ]
@@ -404,9 +404,9 @@ var scheduleData = [
                             "endTime": "14:25",
                             "papers": [
                                 73,
-                                58,
                                 127,
-                                101
+                                101,
+                                58
                             ]
                         },
                         {
@@ -414,9 +414,9 @@ var scheduleData = [
                             "endTime": "14:50",
                             "papers": [
                                 45,
-                                154,
                                 142,
-                                146
+                                146,
+                                154
                             ]
                         },
                         {
@@ -424,9 +424,9 @@ var scheduleData = [
                             "endTime": "15:15",
                             "papers": [
                                 126,
-                                16,
                                 115,
-                                80
+                                80,
+                                16
                             ]
                         },
                         {
@@ -434,9 +434,9 @@ var scheduleData = [
                             "endTime": "15:40",
                             "papers": [
                                 63,
-                                147,
                                 148,
-                                118
+                                118,
+                                147
                             ]
                         }
                     ]
@@ -481,9 +481,9 @@ var scheduleData = [
                             "endTime": "16:35",
                             "papers": [
                                 79,
-                                10,
                                 54,
-                                37
+                                37,
+                                10
                             ]
                         },
                         {
@@ -491,9 +491,9 @@ var scheduleData = [
                             "endTime": "17:00",
                             "papers": [
                                 81,
-                                94,
                                 65,
-                                22
+                                22,
+                                94
                             ]
                         },
                         {
@@ -501,9 +501,9 @@ var scheduleData = [
                             "endTime": "17:25",
                             "papers": [
                                 87,
-                                66,
                                 44,
-                                41
+                                41,
+                                66
                             ]
                         }
                     ]
@@ -525,7 +525,7 @@ var scheduleData = [
                 "event": "Business meeting",
                 "talks": null,
                 "url": null,
-                "venue": "Ballroom A"
+                "venue": "Ballroom B"
             },
             {
                 "startTime": "18:45",
@@ -556,7 +556,7 @@ var scheduleData = [
                 "event": "Plenary \"The context of transmission matters in the creation and evolution of language\" (Marie Coppola)",
                 "talks": null,
                 "url": "plenary.html?speaker=coppola",
-                "venue": "Ballroom A"
+                "venue": "Ballroom B"
             },
             {
                 "startTime": "10:00",
@@ -726,7 +726,7 @@ var scheduleData = [
                 "event": "Award ceremony & Closing remarks",
                 "talks": null,
                 "url": null,
-                "venue": "Ballroom A"
+                "venue": "Ballroom B"
             }
         ]
     }
