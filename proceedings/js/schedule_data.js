@@ -50,7 +50,7 @@ var scheduleData = [
                 "event": "Opening remarks",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "Lecture Hall"
             },
             {
                 "startTime": "16:45",
@@ -265,7 +265,7 @@ var scheduleData = [
                 "event": "Flash talks",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "Ballroom B"
             },
             {
                 "startTime": "17:30",
@@ -273,7 +273,7 @@ var scheduleData = [
                 "event": "Poster reception",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "Grand Terrace"
             }
         ]
     },

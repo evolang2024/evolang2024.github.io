@@ -37,7 +37,7 @@ var papersData = {
         "weburl": "paper.html?nr=6",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -141,7 +141,7 @@ var papersData = {
         "weburl": "paper.html?nr=11",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -205,7 +205,7 @@ var papersData = {
         "weburl": "paper.html?nr=13",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -607,7 +607,7 @@ var papersData = {
         "weburl": "paper.html?nr=25",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -637,7 +637,7 @@ var papersData = {
         "weburl": "paper.html?nr=26",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -829,7 +829,7 @@ var papersData = {
         "weburl": "paper.html?nr=32",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -893,7 +893,7 @@ var papersData = {
         "weburl": "paper.html?nr=35",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -1195,7 +1195,7 @@ var papersData = {
         "weburl": "paper.html?nr=46",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -1451,7 +1451,7 @@ var papersData = {
         "weburl": "paper.html?nr=55",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -1981,7 +1981,7 @@ var papersData = {
         "weburl": "paper.html?nr=70",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -2127,7 +2127,7 @@ var papersData = {
         "weburl": "paper.html?nr=76",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -2163,7 +2163,7 @@ var papersData = {
         "weburl": "paper.html?nr=77",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -2327,7 +2327,7 @@ var papersData = {
         "weburl": "paper.html?nr=83",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -2421,7 +2421,7 @@ var papersData = {
         "weburl": "paper.html?nr=86",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -2521,7 +2521,7 @@ var papersData = {
         "weburl": "paper.html?nr=89",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -2555,7 +2555,7 @@ var papersData = {
         "weburl": "paper.html?nr=90",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -2619,7 +2619,7 @@ var papersData = {
         "weburl": "paper.html?nr=93",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -2757,7 +2757,7 @@ var papersData = {
         "weburl": "paper.html?nr=99",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -2877,7 +2877,7 @@ var papersData = {
         "weburl": "paper.html?nr=102",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -2991,7 +2991,7 @@ var papersData = {
         "weburl": "paper.html?nr=105",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -3095,7 +3095,7 @@ var papersData = {
         "weburl": "paper.html?nr=108",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -3129,7 +3129,7 @@ var papersData = {
         "weburl": "paper.html?nr=109",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -3161,7 +3161,7 @@ var papersData = {
         "weburl": "paper.html?nr=110",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -3203,7 +3203,7 @@ var papersData = {
         "weburl": "paper.html?nr=111",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -3509,7 +3509,7 @@ var papersData = {
         "weburl": "paper.html?nr=123",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -3751,7 +3751,7 @@ var papersData = {
         "weburl": "paper.html?nr=131",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -3919,7 +3919,7 @@ var papersData = {
         "weburl": "paper.html?nr=136",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -3989,7 +3989,7 @@ var papersData = {
         "weburl": "paper.html?nr=138",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -4021,7 +4021,7 @@ var papersData = {
         "weburl": "paper.html?nr=139",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -4053,7 +4053,7 @@ var papersData = {
         "weburl": "paper.html?nr=140",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -4151,7 +4151,7 @@ var papersData = {
         "weburl": "paper.html?nr=143",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -4349,7 +4349,7 @@ var papersData = {
         "weburl": "paper.html?nr=149",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
@@ -4411,7 +4411,7 @@ var papersData = {
         "weburl": "paper.html?nr=151",
         "date": "Sunday, May 19, 2024",
         "time": "17:30",
-        "location": "TBA",
+        "location": "Grand Terrace",
         "prestype": "poster",
         "license": null
     },
