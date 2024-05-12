@@ -114,19 +114,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "1A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "1B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "1C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "1D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
@@ -191,19 +191,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "2A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "2B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "2C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "2D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
@@ -305,19 +305,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "3A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "3B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "3C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "3D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
@@ -382,19 +382,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "4A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "4B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "4C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "4D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
@@ -459,19 +459,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "5A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "5B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "5C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "5D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
@@ -573,19 +573,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "6A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "6B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "6C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "6D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
@@ -650,19 +650,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "7A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "7B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "7C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "7D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
