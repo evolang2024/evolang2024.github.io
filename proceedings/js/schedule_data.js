@@ -7,6 +7,14 @@ var scheduleData = [
             {
                 "startTime": "08:45",
                 "endTime": "09:15",
+                "event": "Coffee/Tea break",
+                "talks": null,
+                "url": null,
+                "venue": ""
+            },
+            {
+                "startTime": "08:45",
+                "endTime": "12:00",
                 "event": "Registration",
                 "talks": null,
                 "url": null,
@@ -37,9 +45,17 @@ var scheduleData = [
                 "venue": "Rooms KL, OP, MN, QR"
             },
             {
+                "startTime": "15:00",
+                "endTime": "16:45",
+                "event": "Registration",
+                "talks": null,
+                "url": null,
+                "venue": ""
+            },
+            {
                 "startTime": "16:00",
                 "endTime": "16:30",
-                "event": "Coffee break",
+                "event": "Coffee/Tea break",
                 "talks": null,
                 "url": null,
                 "venue": ""
@@ -85,7 +101,7 @@ var scheduleData = [
         "events": [
             {
                 "startTime": "08:00",
-                "endTime": "14:00",
+                "endTime": "12:00",
                 "event": "Registration",
                 "talks": null,
                 "url": null,
@@ -102,7 +118,7 @@ var scheduleData = [
             {
                 "startTime": "09:45",
                 "endTime": "10:15",
-                "event": "Coffee break",
+                "event": "Coffee/Tea/Snacks break",
                 "talks": null,
                 "url": null,
                 "venue": ""
@@ -244,9 +260,17 @@ var scheduleData = [
                 "venue": ""
             },
             {
+                "startTime": "14:30",
+                "endTime": "15:30",
+                "event": "Registration",
+                "talks": null,
+                "url": null,
+                "venue": ""
+            },
+            {
                 "startTime": "14:45",
                 "endTime": "15:15",
-                "event": "Coffee break",
+                "event": "Coffee/Tea break",
                 "talks": null,
                 "url": null,
                 "venue": ""
@@ -283,6 +307,14 @@ var scheduleData = [
         "date": "Monday, May 20, 2024",
         "events": [
             {
+                "startTime": "08:30",
+                "endTime": "10:20",
+                "event": "Registration",
+                "talks": null,
+                "url": null,
+                "venue": ""
+            },
+            {
                 "startTime": "08:45",
                 "endTime": "09:45",
                 "event": "Plenary \"Global and local studies of genetic and linguistic evolution\" (Nicole Creanza)",
@@ -293,7 +325,7 @@ var scheduleData = [
             {
                 "startTime": "09:45",
                 "endTime": "10:15",
-                "event": "Coffee break",
+                "event": "Coffee/Tea/Snacks break",
                 "talks": null,
                 "url": null,
                 "venue": ""
@@ -447,7 +479,7 @@ var scheduleData = [
             {
                 "startTime": "15:40",
                 "endTime": "16:10",
-                "event": "Coffee break",
+                "event": "Coffee/Tea/Snacks break",
                 "talks": null,
                 "url": null,
                 "venue": ""
@@ -561,7 +593,7 @@ var scheduleData = [
             {
                 "startTime": "10:00",
                 "endTime": "10:30",
-                "event": "Coffee break",
+                "event": "Coffee/Tea/Snacks break",
                 "talks": null,
                 "url": null,
                 "venue": ""
