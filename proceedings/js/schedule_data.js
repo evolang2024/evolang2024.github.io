@@ -74,7 +74,7 @@ var scheduleData = [
                 "event": "Welcome reception",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "Rooftop West Circle"
             }
         ]
     },

@@ -812,7 +812,7 @@ var papersData = {
             null
         ],
         "download": null,
-        "supplementaryMaterial": null,
+        "supplementaryMaterial": "papers/evolang15_supplementary_material_32.pdf",
         "citations": {
             "bibtex": "bib/evolang15_32.bib",
             "ris": "bib/evolang15_32.ris",
@@ -2438,7 +2438,7 @@ var papersData = {
             null
         ],
         "download": null,
-        "supplementaryMaterial": null,
+        "supplementaryMaterial": "papers/evolang15_supplementary_material_87.pdf",
         "citations": {
             "bibtex": "bib/evolang15_87.bib",
             "ris": "bib/evolang15_87.ris",
@@ -2706,7 +2706,7 @@ var papersData = {
             null
         ],
         "download": null,
-        "supplementaryMaterial": null,
+        "supplementaryMaterial": "papers/evolang15_supplementary_material_98.pdf",
         "citations": {
             "bibtex": "bib/evolang15_98.bib",
             "ris": "bib/evolang15_98.ris",
@@ -3870,7 +3870,7 @@ var papersData = {
             null
         ],
         "download": null,
-        "supplementaryMaterial": null,
+        "supplementaryMaterial": "papers/evolang15_supplementary_material_135.pdf",
         "citations": {
             "bibtex": "bib/evolang15_135.bib",
             "ris": "bib/evolang15_135.ris",
@@ -4004,7 +4004,7 @@ var papersData = {
             null
         ],
         "download": null,
-        "supplementaryMaterial": null,
+        "supplementaryMaterial": "papers/evolang15_supplementary_material_139.zip",
         "citations": {
             "bibtex": "bib/evolang15_139.bib",
             "ris": "bib/evolang15_139.ris",
@@ -4036,7 +4036,7 @@ var papersData = {
             null
         ],
         "download": null,
-        "supplementaryMaterial": null,
+        "supplementaryMaterial": "papers/evolang15_supplementary_material_140.zip",
         "citations": {
             "bibtex": "bib/evolang15_140.bib",
             "ris": "bib/evolang15_140.ris",
