@@ -11,7 +11,7 @@ var papersData = {
             "Slawomir Wacewicz"
         ],
         "correspemails": [
-            null,
+            "hartmast@hhu.de",
             null,
             null,
             null,
@@ -49,7 +49,7 @@ var papersData = {
             "Jennifer Culbertson"
         ],
         "correspemails": [
-            null,
+            "e.c.pankratz@sms.ed.ac.uk",
             null,
             null
         ],
@@ -84,7 +84,7 @@ var papersData = {
             "John Huelsenbeck"
         ],
         "correspemails": [
-            null,
+            "goldsteindm@gmail.com",
             null,
             null,
             null
@@ -121,7 +121,7 @@ var papersData = {
         "correspemails": [
             null,
             null,
-            null
+            "axeleks@kth.se"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -152,7 +152,7 @@ var papersData = {
             "Marieke Schouwstra"
         ],
         "correspemails": [
-            null,
+            "katie.mudd@ai.vub.ac.be",
             null
         ],
         "download": null,
@@ -184,7 +184,7 @@ var papersData = {
             "Viorica Marian"
         ],
         "correspemails": [
-            null,
+            "sayuri.hayakawa@okstate.edu",
             null
         ],
         "download": null,
@@ -216,7 +216,7 @@ var papersData = {
             "Kari Stefansson"
         ],
         "correspemails": [
-            null,
+            "rosas@hi.is",
             null
         ],
         "download": null,
@@ -248,7 +248,7 @@ var papersData = {
             "Casimir Fisch"
         ],
         "correspemails": [
-            null,
+            "r.a.blythe@ed.ac.uk",
             null
         ],
         "download": null,
@@ -280,7 +280,7 @@ var papersData = {
             "Paul Widmer"
         ],
         "correspemails": [
-            null,
+            "nicole.tamer@uzh.ch",
             null
         ],
         "download": null,
@@ -316,7 +316,7 @@ var papersData = {
             "Connie de Vos"
         ],
         "correspemails": [
-            null,
+            "d.s.u.naegeli@tilburguniversity.edu",
             null,
             null,
             null,
@@ -357,7 +357,7 @@ var papersData = {
             null,
             null,
             null,
-            null
+            "rferrericancho@cs.upc.edu"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -417,7 +417,7 @@ var papersData = {
             "Freek Van de Velde"
         ],
         "correspemails": [
-            null
+            "freek.vandevelde@kuleuven.be"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -447,7 +447,7 @@ var papersData = {
             "Ljiljana Progovac"
         ],
         "correspemails": [
-            null
+            "progovac@wayne.edu"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -478,7 +478,7 @@ var papersData = {
             "Christophe Heintz"
         ],
         "correspemails": [
-            null,
+            "thom.scottphillips@gmail.com",
             null
         ],
         "download": null,
@@ -511,7 +511,7 @@ var papersData = {
             "Matthew Baerman"
         ],
         "correspemails": [
-            null,
+            "h.sims-williams@surrey.ac.uk",
             null,
             null
         ],
@@ -543,7 +543,7 @@ var papersData = {
             "Piotr Podlipniak"
         ],
         "correspemails": [
-            null
+            "podlip@amu.edu.pl"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -580,7 +580,7 @@ var papersData = {
             "Marie Montant"
         ],
         "correspemails": [
-            null,
+            "habiblise@gmail.com",
             null,
             null,
             null,
@@ -617,7 +617,7 @@ var papersData = {
             "Frederik Hartmann"
         ],
         "correspemails": [
-            null
+            "Frederik.Hartmann@unt.edu"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -649,7 +649,7 @@ var papersData = {
             "Sean G Roberts"
         ],
         "correspemails": [
-            null,
+            "k.krykoniuk@sheffield.ac.uk",
             null,
             null
         ],
@@ -711,7 +711,7 @@ var papersData = {
             "Yasmina Mekki"
         ],
         "correspemails": [
-            null
+            "yas.mekki@gmail.com"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -742,7 +742,7 @@ var papersData = {
             "Molly Flaherty"
         ],
         "correspemails": [
-            null,
+            "fbisnath@umich.edu",
             null
         ],
         "download": null,
@@ -775,7 +775,7 @@ var papersData = {
             "Jennifer Culbertson"
         ],
         "correspemails": [
-            null,
+            "ponrawee.prasertsom@ed.ac.uk",
             null,
             null
         ],
@@ -808,7 +808,7 @@ var papersData = {
             "Ronnie Wilbur"
         ],
         "correspemails": [
-            null,
+            "shtamimi90@gmail.com",
             null
         ],
         "download": null,
@@ -841,7 +841,7 @@ var papersData = {
             "Michael Dunn"
         ],
         "correspemails": [
-            null,
+            "yingqi.jing@lingfil.uu.se",
             null,
             null
         ],
@@ -873,7 +873,7 @@ var papersData = {
             "J\u00e9r\u00f4me Michaud"
         ],
         "correspemails": [
-            null
+            "jerome.michaud@mdu.se"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -904,7 +904,7 @@ var papersData = {
             "Carla L. Hudson Kam"
         ],
         "correspemails": [
-            null,
+            "o.tkachman@alumni.ubc.ca",
             null
         ],
         "download": null,
@@ -935,7 +935,7 @@ var papersData = {
             "Giulia Palazzolo"
         ],
         "correspemails": [
-            null
+            "giulia.palazzolo.1@warwick.ac.uk"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -965,7 +965,7 @@ var papersData = {
             "Bart de Boer"
         ],
         "correspemails": [
-            null
+            "bart@ai.vub.ac.be"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -1000,7 +1000,7 @@ var papersData = {
             "Kristian Tyl\u00e9n"
         ],
         "correspemails": [
-            null,
+            "murillo@cc.au.dk",
             null,
             null,
             null,
@@ -1035,7 +1035,7 @@ var papersData = {
             "Richard Moore"
         ],
         "correspemails": [
-            null
+            "richard.moore@warwick.ac.uk"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -1068,7 +1068,7 @@ var papersData = {
             "Jennifer Culbertson"
         ],
         "correspemails": [
-            null,
+            "stal@ed.ac.uk",
             null,
             null,
             null
@@ -1101,7 +1101,7 @@ var papersData = {
             "Sverker Johansson"
         ],
         "correspemails": [
-            null
+            "sja@du.se"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -1131,7 +1131,7 @@ var papersData = {
             "Simone Pika"
         ],
         "correspemails": [
-            null
+            "simone.pika@uni-osnabrueck.de"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -1168,7 +1168,7 @@ var papersData = {
             "Slawomir Wacewicz"
         ],
         "correspemails": [
-            null,
+            "marpla@umk.pl",
             null,
             null,
             null,
@@ -1208,7 +1208,7 @@ var papersData = {
             "Luc Selen"
         ],
         "correspemails": [
-            null,
+            "wim.pouw@donders.ru.nl",
             null,
             null,
             null
@@ -1244,7 +1244,7 @@ var papersData = {
             "Limor Raviv"
         ],
         "correspemails": [
-            null,
+            "mathilde.josserand@gmail.com",
             null,
             null,
             null
@@ -1281,7 +1281,7 @@ var papersData = {
             "Rob Truswell"
         ],
         "correspemails": [
-            null,
+            "j.a.guerrero-montero@sms.ed.ac.uk",
             null,
             null,
             null,
@@ -1321,7 +1321,7 @@ var papersData = {
             "Simon W. Townsend"
         ],
         "correspemails": [
-            null,
+            "melissa.berthet.ac@gmail.com",
             null,
             null,
             null,
@@ -1360,7 +1360,7 @@ var papersData = {
             "Przemys\u0142aw \u017bywiczy\u0144ski"
         ],
         "correspemails": [
-            null,
+            "theresa.matzinger@univie.ac.at",
             null,
             null,
             null
@@ -1394,8 +1394,8 @@ var papersData = {
             "Steven Moran"
         ],
         "correspemails": [
-            null,
-            null
+            "axeleks@kth.se",
+            "steven.moran@unine.ch"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -1428,7 +1428,7 @@ var papersData = {
             "Franz Essl"
         ],
         "correspemails": [
-            null,
+            "andreas.baumann@univie.ac.at",
             null,
             null,
             null
@@ -1463,7 +1463,7 @@ var papersData = {
             "Hugh Rabagliati"
         ],
         "correspemails": [
-            null,
+            "l.e.f.fletcher@sms.ed.ac.uk",
             null,
             null
         ],
@@ -1497,7 +1497,7 @@ var papersData = {
             "Limor Raviv"
         ],
         "correspemails": [
-            null,
+            "lewis.cheung@mpi.nl",
             null,
             null
         ],
@@ -1533,7 +1533,7 @@ var papersData = {
             "Marek Placi\u0144ski"
         ],
         "correspemails": [
-            null,
+            "pleyer@umk.pl",
             null,
             null,
             null,
@@ -1570,7 +1570,7 @@ var papersData = {
             "Limor Raviv"
         ],
         "correspemails": [
-            null,
+            "imme.lammertink@ru.nl",
             null,
             null,
             null
@@ -1606,7 +1606,7 @@ var papersData = {
             "Benoit Favre"
         ],
         "correspemails": [
-            null,
+            "jules.cauzinille@lis-lab.fr",
             null,
             null,
             null
@@ -1646,7 +1646,7 @@ var papersData = {
             "Simon W. Townsend"
         ],
         "correspemails": [
-            null,
+            "nicole.lahiff@uzh.ch",
             null,
             null,
             null,
@@ -1687,7 +1687,7 @@ var papersData = {
             "Slawomir Wacewicz"
         ],
         "correspemails": [
-            null,
+            "irene.boehm@univie.ac.at",
             null,
             null,
             null,
@@ -1727,7 +1727,7 @@ var papersData = {
             "Marek Placi\u0144ski"
         ],
         "correspemails": [
-            null,
+            "andreas.baumann@univie.ac.at",
             null,
             null,
             null,
@@ -1765,7 +1765,7 @@ var papersData = {
         ],
         "correspemails": [
             null,
-            null
+            "wedel@arizona.edu"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -1799,7 +1799,7 @@ var papersData = {
         "correspemails": [
             null,
             null,
-            null
+            "abenitez8@us.es"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -1833,7 +1833,7 @@ var papersData = {
         "correspemails": [
             null,
             null,
-            null
+            "abenitez8@us.es"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -1864,7 +1864,7 @@ var papersData = {
             "Serge Belongie"
         ],
         "correspemails": [
-            null,
+            "stfr@diku.dk",
             null
         ],
         "download": null,
@@ -1896,7 +1896,7 @@ var papersData = {
             "Robin Clark"
         ],
         "correspemails": [
-            null,
+            "gareth.roberts@ling.upenn.edu",
             null
         ],
         "download": null,
@@ -1928,7 +1928,7 @@ var papersData = {
             "Andrew B Wedel"
         ],
         "correspemails": [
-            null,
+            "adam.king.phd@gmail.com",
             null
         ],
         "download": null,
@@ -1960,7 +1960,7 @@ var papersData = {
             "William S. Horton"
         ],
         "correspemails": [
-            null,
+            "CaseyRiedmann2023@u.northwestern.edu",
             null
         ],
         "download": null,
@@ -1994,7 +1994,7 @@ var papersData = {
             "Jacob Gates Foster"
         ],
         "correspemails": [
-            null,
+            "ericac@iu.edu",
             null,
             null,
             null
@@ -2034,7 +2034,7 @@ var papersData = {
             "Limor Raviv"
         ],
         "correspemails": [
-            null,
+            "koen.dereus@mpi.nl",
             null,
             null,
             null,
@@ -2072,7 +2072,7 @@ var papersData = {
             "Kathleen Rastle"
         ],
         "correspemails": [
-            null,
+            "jon.carr@rhul.ac.uk",
             null
         ],
         "download": null,
@@ -2105,7 +2105,7 @@ var papersData = {
             "Takashi Hashimoto"
         ],
         "correspemails": [
-            null,
+            "ibuki_iwamura@jaist.ac.jp",
             null,
             null
         ],
@@ -2143,7 +2143,7 @@ var papersData = {
             null,
             null,
             null,
-            null
+            "pleyer@umk.pl"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -2173,7 +2173,7 @@ var papersData = {
             "Kenny Smith"
         ],
         "correspemails": [
-            null
+            "kenny.smith@ed.ac.uk"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -2204,7 +2204,7 @@ var papersData = {
             "J\u00e9r\u00f4me Michaud"
         ],
         "correspemails": [
-            null,
+            "anna.jon-and@su.se",
             null
         ],
         "download": null,
@@ -2237,7 +2237,7 @@ var papersData = {
             "Kristian Tyl\u00e9n"
         ],
         "correspemails": [
-            null,
+            "simon.devylder@gmail.com",
             null,
             null
         ],
@@ -2271,7 +2271,7 @@ var papersData = {
             "Michael Pleyer"
         ],
         "correspemails": [
-            null,
+            "40010189@parisnanterre.fr",
             null,
             null
         ],
@@ -2305,7 +2305,7 @@ var papersData = {
             "Stefan Hartmann"
         ],
         "correspemails": [
-            null,
+            "pleyer@umk.pl",
             null,
             null
         ],
@@ -2337,7 +2337,7 @@ var papersData = {
             "Annie Holtz"
         ],
         "correspemails": [
-            null
+            "annie.holtz@ed.ac.uk"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -2368,7 +2368,7 @@ var papersData = {
             "Vinicius Macuch Silva"
         ],
         "correspemails": [
-            null,
+            "m.perlman@bham.ac.uk",
             null
         ],
         "download": null,
@@ -2400,7 +2400,7 @@ var papersData = {
             "Christine Cuskley"
         ],
         "correspemails": [
-            null,
+            "RobertsS55@cardiff.ac.uk",
             null
         ],
         "download": null,
@@ -2433,7 +2433,7 @@ var papersData = {
             "Lukas Galke"
         ],
         "correspemails": [
-            null,
+            "thithaoanh.dangthithaoanh@ru.nl",
             null,
             null
         ],
@@ -2467,7 +2467,7 @@ var papersData = {
             "Simon W. Townsend"
         ],
         "correspemails": [
-            null,
+            "isaac.schamberg@gmail.com",
             null,
             null
         ],
@@ -2500,7 +2500,7 @@ var papersData = {
             "Annabella Boardman"
         ],
         "correspemails": [
-            null,
+            "fdurgin1@swarthmore.edu",
             null
         ],
         "download": null,
@@ -2533,7 +2533,7 @@ var papersData = {
             "Bart de Boer"
         ],
         "correspemails": [
-            null,
+            "peter.dekker@ai.vub.ac.be",
             null,
             null
         ],
@@ -2566,7 +2566,7 @@ var papersData = {
             "Bart de Boer"
         ],
         "correspemails": [
-            null,
+            "Yannick.Jadoul@uniroma1.it",
             null
         ],
         "download": null,
@@ -2598,7 +2598,7 @@ var papersData = {
             "Juan Manuel Toro"
         ],
         "correspemails": [
-            null,
+            "ferran.mayayo@upf.edu",
             null
         ],
         "download": null,
@@ -2632,7 +2632,7 @@ var papersData = {
             "Kenny Smith"
         ],
         "correspemails": [
-            null,
+            "maisy.hallam@ed.ac.uk",
             null,
             null,
             null
@@ -2667,7 +2667,7 @@ var papersData = {
             "Tessa Verhoef"
         ],
         "correspemails": [
-            null,
+            "t.kouwenhoven@liacs.leidenuniv.nl",
             null,
             null
         ],
@@ -2701,7 +2701,7 @@ var papersData = {
             "Bart de Boer"
         ],
         "correspemails": [
-            null,
+            "peter.dekker@ai.vub.ac.be",
             null,
             null
         ],
@@ -2735,7 +2735,7 @@ var papersData = {
             "Chundra Cathcart"
         ],
         "correspemails": [
-            null,
+            "alexandru.craevschi@uzh.ch",
             null,
             null
         ],
@@ -2771,7 +2771,7 @@ var papersData = {
             "Arianna Bisazza"
         ],
         "correspemails": [
-            null,
+            "yuqing.zhang@rug.nl",
             null,
             null,
             null,
@@ -2806,7 +2806,7 @@ var papersData = {
             "Christine Cuskley"
         ],
         "correspemails": [
-            null,
+            "moflaherty@davidson.edu",
             null
         ],
         "download": null,
@@ -2847,7 +2847,7 @@ var papersData = {
             "Steven Moran"
         ],
         "correspemails": [
-            null,
+            "axeleks@kth.se",
             null,
             null,
             null,
@@ -2893,7 +2893,7 @@ var papersData = {
             null,
             null,
             null,
-            null
+            "a.schembri@bham.ac.uk"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -2930,7 +2930,7 @@ var papersData = {
             "Limor Raviv"
         ],
         "correspemails": [
-            null,
+            "kotryna.motiekaityte@mpi.nl",
             null,
             null,
             null,
@@ -2969,7 +2969,7 @@ var papersData = {
             "Michael Pleyer"
         ],
         "correspemails": [
-            null,
+            "angelo.d.delliponti@gmail.com",
             null,
             null
         ],
@@ -3004,7 +3004,7 @@ var papersData = {
             "Sabine Stoll"
         ],
         "correspemails": [
-            null,
+            "miranda.dickerman@uzh.ch",
             null,
             null,
             null
@@ -3037,7 +3037,7 @@ var papersData = {
             "John Hawks"
         ],
         "correspemails": [
-            null
+            "jhawks@wisc.edu"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -3071,7 +3071,7 @@ var papersData = {
             "Slawomir Wacewicz"
         ],
         "correspemails": [
-            null,
+            "vfiala@umk.pl",
             null,
             null,
             null,
@@ -3107,7 +3107,7 @@ var papersData = {
             "Stephen I. Rothstein"
         ],
         "correspemails": [
-            null,
+            "francisco.magdaleno@csuci.edu",
             null,
             null
         ],
@@ -3140,7 +3140,7 @@ var papersData = {
             "Morten Christiansen"
         ],
         "correspemails": [
-            null,
+            "ccm262@cornell.edu",
             null
         ],
         "download": null,
@@ -3177,7 +3177,7 @@ var papersData = {
             "Przemys\u0142aw \u017bywiczy\u0144ski"
         ],
         "correspemails": [
-            null,
+            "szala@oakland.edu",
             null,
             null,
             null,
@@ -3214,7 +3214,7 @@ var papersData = {
             "Marieke Schouwstra"
         ],
         "correspemails": [
-            null,
+            "lois.dona@mpi.nl",
             null
         ],
         "download": null,
@@ -3251,8 +3251,8 @@ var papersData = {
             "Aleksandra \u0106wiek"
         ],
         "correspemails": [
-            null,
-            null,
+            "fuchs@leibniz-zas.de",
+            "kadava@leibniz-zas.de",
             null,
             null,
             null,
@@ -3287,7 +3287,7 @@ var papersData = {
             "Andrew Feeney"
         ],
         "correspemails": [
-            null
+            "andrew.feeney@northumbria.ac.uk"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -3321,7 +3321,7 @@ var papersData = {
             "Noga Zaslavsky"
         ],
         "correspemails": [
-            null,
+            "aliciach@mit.edu",
             null,
             null,
             null,
@@ -3358,7 +3358,7 @@ var papersData = {
             "Rui He"
         ],
         "correspemails": [
-            null,
+            "edwardshiruoyangend@gmail.com",
             null,
             null,
             null
@@ -3393,7 +3393,7 @@ var papersData = {
             "Limor Raviv"
         ],
         "correspemails": [
-            null,
+            "lukas.galke@mpi.nl",
             null,
             null
         ],
@@ -3426,7 +3426,7 @@ var papersData = {
             "John Ioannis Stavroulakis"
         ],
         "correspemails": [
-            null,
+            "erkkil@gmail.com",
             null
         ],
         "download": null,
@@ -3458,7 +3458,7 @@ var papersData = {
             "Adam King"
         ],
         "correspemails": [
-            null,
+            "wedel@arizona.edu",
             null
         ],
         "download": null,
@@ -3489,7 +3489,7 @@ var papersData = {
             "Svetlana Kuleshova"
         ],
         "correspemails": [
-            null
+            "40010189@parisnanterre.fr"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -3522,7 +3522,7 @@ var papersData = {
             "Limor Raviv"
         ],
         "correspemails": [
-            null,
+            "oxana.grosseck@mpi.nl",
             null,
             null,
             null
@@ -3555,7 +3555,7 @@ var papersData = {
             "Vivian G. Li"
         ],
         "correspemails": [
-            null
+            "liguo.vivian@gmail.com"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -3588,7 +3588,7 @@ var papersData = {
             "Michael Tomasello"
         ],
         "correspemails": [
-            null,
+            "lialinrs@icloud.com",
             null,
             null,
             null
@@ -3623,7 +3623,7 @@ var papersData = {
             "Inbal Arnon"
         ],
         "correspemails": [
-            null,
+            "lucia.wolters@mail.huji.ac.il",
             null,
             null
         ],
@@ -3661,7 +3661,7 @@ var papersData = {
             "Rachael E. Jack"
         ],
         "correspemails": [
-            null,
+            "jonas.noelle@glasgow.ac.uk",
             null,
             null,
             null,
@@ -3699,7 +3699,7 @@ var papersData = {
             "Gary Lupyan"
         ],
         "correspemails": [
-            null,
+            "yduan38@wisc.edu",
             null,
             null
         ],
@@ -3731,7 +3731,7 @@ var papersData = {
             "Joana Rossello"
         ],
         "correspemails": [
-            null
+            "joana.rossello@ub.edu"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -3766,7 +3766,7 @@ var papersData = {
             "Lindsey E. Johnson"
         ],
         "correspemails": [
-            null,
+            "hlyn@southalabama.edu",
             null,
             null,
             null,
@@ -3803,7 +3803,7 @@ var papersData = {
         ],
         "correspemails": [
             null,
-            null
+            "gareth.roberts@ling.upenn.edu"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -3835,7 +3835,7 @@ var papersData = {
             "Roger P. Levy"
         ],
         "correspemails": [
-            null,
+            "mhofer@mit.edu",
             null,
             null
         ],
@@ -3867,7 +3867,7 @@ var papersData = {
             "Daniela Mihai"
         ],
         "correspemails": [
-            null
+            "adm1c22@soton.ac.uk"
         ],
         "download": null,
         "supplementaryMaterial": "papers/evolang15_supplementary_material_135.pdf",
@@ -3898,7 +3898,7 @@ var papersData = {
             "Limor Raviv"
         ],
         "correspemails": [
-            null,
+            "lupyan@wisc.edu",
             null
         ],
         "download": null,
@@ -3932,7 +3932,7 @@ var papersData = {
             "Richard Futrell"
         ],
         "correspemails": [
-            null,
+            "nimel@uci.edu",
             null,
             null,
             null
@@ -3967,7 +3967,7 @@ var papersData = {
             "Greg Bryant"
         ],
         "correspemails": [
-            null,
+            "sashawinkler@g.ucla.edu",
             null,
             null
         ],
@@ -4000,7 +4000,7 @@ var papersData = {
             "Francis Steen"
         ],
         "correspemails": [
-            null,
+            "guptaa23@msu.edu",
             null
         ],
         "download": null,
@@ -4032,7 +4032,7 @@ var papersData = {
             "Richard Futrell"
         ],
         "correspemails": [
-            null,
+            "charlt4@uci.edu",
             null
         ],
         "download": null,
@@ -4065,7 +4065,7 @@ var papersData = {
             "Gary Lupyan"
         ],
         "correspemails": [
-            null,
+            "qliu295@wisc.edu",
             null,
             null
         ],
@@ -4099,7 +4099,7 @@ var papersData = {
             "Timothy Gentner"
         ],
         "correspemails": [
-            null,
+            "e4davis@ucsd.edu",
             null,
             null
         ],
@@ -4131,7 +4131,7 @@ var papersData = {
             "Hannah Brown"
         ],
         "correspemails": [
-            null
+            "hannahbrown@cantab.net"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -4164,7 +4164,7 @@ var papersData = {
             "Gary Lupyan"
         ],
         "correspemails": [
-            null,
+            "kmukherjee2@wisc.edu",
             null,
             null,
             null
@@ -4199,7 +4199,7 @@ var papersData = {
             "Tao Gong"
         ],
         "correspemails": [
-            null,
+            "leili@science.ru.nl",
             null,
             null
         ],
@@ -4235,7 +4235,7 @@ var papersData = {
         "correspemails": [
             null,
             null,
-            null
+            "lupyan@wisc.edu"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -4265,7 +4265,7 @@ var papersData = {
             "Barend Beekhuizen"
         ],
         "correspemails": [
-            null
+            "barend.beekhuizen@utoronto.ca"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -4296,7 +4296,7 @@ var papersData = {
             "Gary Lupyan"
         ],
         "correspemails": [
-            null,
+            "borman@wisc.edu",
             null
         ],
         "download": null,
@@ -4328,7 +4328,7 @@ var papersData = {
             "Marta Sibierska"
         ],
         "correspemails": [
-            null,
+            "monika.feba.boruta@gmail.com",
             null
         ],
         "download": null,
@@ -4360,7 +4360,7 @@ var papersData = {
             "Gary Lupyan"
         ],
         "correspemails": [
-            null,
+            "aislinn.keogh@ed.ac.uk",
             null
         ],
         "download": null,
@@ -4391,7 +4391,7 @@ var papersData = {
             "Eugene Yu Ji"
         ],
         "correspemails": [
-            null
+            "yuji1@uchicago.edu"
         ],
         "download": null,
         "supplementaryMaterial": null,
@@ -4423,7 +4423,7 @@ var papersData = {
             "Richard Moore"
         ],
         "correspemails": [
-            null,
+            "keg4@st-andrews.ac.uk",
             null,
             null
         ],
@@ -4459,7 +4459,7 @@ var papersData = {
             "Fiona M. Jordan"
         ],
         "correspemails": [
-            null,
+            "olena_shcherbakova@eva.mpg.de",
             null,
             null,
             null,
