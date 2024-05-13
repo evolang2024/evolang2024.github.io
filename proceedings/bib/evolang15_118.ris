@@ -1,23 +1,23 @@
-TY  - CONF
-T1  - Learning Pressures and Inductive Biases in Emergent Communication: Parallels Between Humans and Deep Neural Networks
-AU  - Galke, L.
-AU  - Ram, Y.
-AU  - Raviv, L.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=118
-KW  - emergent communication, language emergence, deep neural networks, learning pressures, language models, computational modeling, language evolution, language learning, language acquisition, machine learning
-ER  -
+        TY  - CONF
+        T1  - Learning pressures and inductive biases in emergent communication: Parallels between humans and deep neural networks
+        AU  - Galke, L.
+		AU  - Ram, Y.
+		AU  - Raviv, L.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=118
+        KW  - emergent communication, language emergence, deep neural networks, learning pressures, language models, computational modeling, language evolution, language learning, language acquisition, machine learning
+        ER  -

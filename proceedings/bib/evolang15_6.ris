@@ -1,27 +1,27 @@
-TY  - CONF
-T1  - Delineating the Field of Language Evolution Research: A Quantitative Study of Submission Types and Peer-Review Patterns at the Joint Conference on Language Evolution (JCoLE)
-AU  - Hartmann, S.
-AU  - Jadoul, Y.
-AU  - Asano, R.
-AU  - Rodrigues, E. D.
-AU  - Valente, D.
-AU  - Ravignani, A.
-AU  - Wacewicz, S.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=6
-KW  - scientometrics, language evolution research, joint conference on language evolution (jcole)
-ER  -
+        TY  - CONF
+        T1  - Delineating the field of language evolution research: A quantitative study of submission types and peer-review patterns at the Joint Conference on Language Evolution (JCoLE)
+        AU  - Hartmann, S.
+		AU  - Jadoul, Y.
+		AU  - Asano, R.
+		AU  - Rodrigues, E. D.
+		AU  - Valente, D.
+		AU  - Ravignani, A.
+		AU  - Wacewicz, S.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=6
+        KW  - scientometrics, language evolution research, joint conference on language evolution (jcole)
+        ER  -

@@ -1,23 +1,23 @@
-TY  - CONF
-T1  - Why Are Languages Skewed? A Bayesian Account for How Skew and Type Count, but Not Entropy, Facilitate Rule Generalisation
-AU  - Pankratz, E.
-AU  - Kirby, S.
-AU  - Culbertson, J.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=7
-KW  - generalisation, statistical structure, shannon entropy, artificial language learning, bayesian reasoning
-ER  -
+        TY  - CONF
+        T1  - Why are languages skewed? A Bayesian account for how skew and type count, but not entropy, facilitate rule generalisation
+        AU  - Pankratz, E.
+		AU  - Kirby, S.
+		AU  - Culbertson, J.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=7
+        KW  - generalisation, statistical structure, shannon entropy, artificial language learning, bayesian reasoning
+        ER  -

@@ -1,27 +1,27 @@
-TY  - CONF
-T1  - Exploring the Content of Casual Polish Conversations
-AU  - Szala, A.
-AU  - Wacewicz, S.
-AU  - Placiński, M.
-AU  - Poniewierska, A.
-AU  - Schmeichel, A.
-AU  - Stefańczyk, M.
-AU  - Żywiczyński, P.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=111
-KW  - dunbar, social topics, language emergence, language evolution
-ER  -
+        TY  - CONF
+        T1  - Exploring the content of casual Polish conversations
+        AU  - Szala, A.
+		AU  - Wacewicz, S.
+		AU  - Placiński, M.
+		AU  - Poniewierska, A.
+		AU  - Schmeichel, A.
+		AU  - Stefańczyk, M.
+		AU  - Żywiczyński, P.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=111
+        KW  - dunbar, social topics, language emergence, language evolution
+        ER  -

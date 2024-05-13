@@ -1,23 +1,23 @@
-TY  - CONF
-T1  - Finding Proportionality in Computational Approaches to Morphological Change
-AU  - Craevschi, A.
-AU  - Babinski, S.
-AU  - Cathcart, C.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=99
-KW  - morphological change, analogy, computational morphology
-ER  -
+        TY  - CONF
+        T1  - Finding proportionality in computational approaches to morphological change
+        AU  - Craevschi, A.
+		AU  - Babinski, S.
+		AU  - Cathcart, C.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=99
+        KW  - morphological change, analogy, computational morphology
+        ER  -

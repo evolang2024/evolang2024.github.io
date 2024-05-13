@@ -1,25 +1,25 @@
-TY  - CONF
-T1  - Exploring the Influence of Word Definition on AI-generated Facial Representations
-AU  - Fiala, V.
-AU  - Żywiczyński, P.
-AU  - Szala, A.
-AU  - Placiński, M.
-AU  - Wacewicz, S.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=108
-KW  - geometric morphometrics, categorisation, facial attractiveness, visual recognition, linguistic descriptions
-ER  -
+        TY  - CONF
+        T1  - Exploring the influence of word definition on AI-generated facial representations
+        AU  - Fiala, V.
+		AU  - Żywiczyński, P.
+		AU  - Szala, A.
+		AU  - Placiński, M.
+		AU  - Wacewicz, S.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=108
+        KW  - geometric morphometrics, categorisation, facial attractiveness, visual recognition, linguistic descriptions
+        ER  -

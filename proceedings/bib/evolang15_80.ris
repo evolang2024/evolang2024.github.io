@@ -1,22 +1,22 @@
-TY  - CONF
-T1  - Emergent Grammar From a Minimal Cognitive Architecture
-AU  - Jon-And, A.
-AU  - Michaud, J.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=80
-KW  - emergence of grammar, language acquisition, reinforcement learning, cognitive artificial intelligence
-ER  -
+        TY  - CONF
+        T1  - Emergent grammar from a minimal cognitive architecture
+        AU  - Jon-And, A.
+		AU  - Michaud, J.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=80
+        KW  - emergence of grammar, language acquisition, reinforcement learning, cognitive artificial intelligence
+        ER  -

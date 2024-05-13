@@ -1,25 +1,25 @@
-TY  - CONF
-T1  - Towards Computational Detection of Metaphoric Change in Language Evolution via Word Embeddings
-AU  - Pleyer, M.
-AU  - Karkowska, K.
-AU  - Kuleshova, S.
-AU  - Namednikava, D.
-AU  - Placiński, M.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=58
-KW  - metaphor, language evolution, language change, word embeddings, computational linguistics
-ER  -
+        TY  - CONF
+        T1  - Towards computational detection of metaphoric change in language evolution via word embeddings
+        AU  - Pleyer, M.
+		AU  - Karkowska, K.
+		AU  - Kuleshova, S.
+		AU  - Namednikava, D.
+		AU  - Placiński, M.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=58
+        KW  - metaphor, language evolution, language change, word embeddings, computational linguistics
+        ER  -

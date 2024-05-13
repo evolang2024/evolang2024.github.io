@@ -1,23 +1,23 @@
-TY  - CONF
-T1  - Failures and Successes in Learning a Core Conceptual Distinction From the Statistics of Language
-AU  - Hu, Z.
-AU  - van Paridon, J.
-AU  - Lupyan, G.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=146
-KW  - distributional semantics; generics; world models
-ER  -
+        TY  - CONF
+        T1  - Failures and successes in learning a core conceptual distinction from the statistics of language
+        AU  - Hu, Z.
+		AU  - van Paridon, J.
+		AU  - Lupyan, G.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=146
+        KW  - distributional semantics; generics; world models
+        ER  -

@@ -1,22 +1,22 @@
-TY  - CONF
-T1  - Uncommon Sounds for Common Words: Balancing Phonemic Type and Token Frequency Within Words for a Higher Entropy Lexicon
-AU  - King, A.
-AU  - Wedel, A. B.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=69
-KW  - language evolution, linguistics, lexicon, efficient communication, corpus linguistics, information theory
-ER  -
+        TY  - CONF
+        T1  - Uncommon sounds for common words: Balancing phonemic type and token frequency within words for a higher entropy lexicon
+        AU  - King, A.
+		AU  - Wedel, A. B.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=69
+        KW  - language evolution, linguistics, lexicon, efficient communication, corpus linguistics, information theory
+        ER  -

@@ -1,22 +1,22 @@
-TY  - CONF
-T1  - A Tool for Exploring Building Blocks in Speech and Animal Vocalizations
-AU  - Jadoul, Y.
-AU  - de Boer, B.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=92
-KW  - pattern mining, speech, bioacoustics, combinatorial structure, building blocks
-ER  -
+        TY  - CONF
+        T1  - A tool for exploring building blocks in speech and animal vocalizations
+        AU  - Jadoul, Y.
+		AU  - de Boer, B.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=92
+        KW  - pattern mining, speech, bioacoustics, combinatorial structure, building blocks
+        ER  -
