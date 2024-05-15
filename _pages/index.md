@@ -79,15 +79,15 @@ workshops:
     header: Workshops (May 18th)
     workshop_list:
       - name: 'Large-scale computational approaches to evolution and change:
-prospects and pitfalls (9:15-12pm; 1:15pm-4pm - Meeting Room QR)'
+prospects and pitfalls (9:15am-12pm; 1:15pm-4pm - Meeting Room QR)'
         organizers: 'Andres Karjus (akarjus@tlu.ee), Nina Tahmasebi (nina.tahmasebi@gu.se), Haim Dubossarsky (h.dubossarsky@qmul.ac.uk), Stefano De Pascale (stefano.depascale@kuleuven.be)' 
         btn_name: 'Info and schedule'
         btn_href: https://www.changeiskey.org/event/2024-evolang-workshop/
-      - name: 'Interactive alignment in the evolution of vocal communication (9:15-12pm - Meeting Room MN)'
+      - name: 'Interactive alignment in the evolution of vocal communication (9:15am-12pm - Meeting Room MN)'
         organizers: 'Julia Hyland Bruno (julia.hylandbruno@njit.edu) and Olga Fehér (o.feher@warwick.ac.uk)'
         btn_name: 'Info and schedule'
         btn_href: 'https://warwick.ac.uk/fac/sci/psych/people/ofeher/ofeher/interactive_alignment_workshop_2024'
-      - name: 'What is children’s role in shaping language evolution? (9:15am-12pm; 9:15am-12pm - Meeting Room OP)'
+      - name: 'What is children’s role in shaping language evolution? (9:15am-12pm - Meeting Room OP)'
         organizers: 'Shira Tal (stal@ed.ac.uk), Jennifer Culbertson (jennifer.culbertson@ed.ac.uk )'
         btn_name: 'Info and schedule'
         btn_href: 'https://evolang2024.github.io/workshop_tal_culbertson/'
