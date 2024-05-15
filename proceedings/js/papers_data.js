@@ -19,7 +19,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_6.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_6.bib",
@@ -39,7 +39,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "7": {
         "title": "Why are languages skewed? A Bayesian account for how skew and type count, but not entropy, facilitate rule generalisation",
@@ -53,7 +53,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_7.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_7.bib",
@@ -73,7 +73,7 @@ var papersData = {
         "time": "11:05",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "10": {
         "title": "An event-based model for linguistic phylogenetics",
@@ -89,7 +89,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_10.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_10.bib",
@@ -109,7 +109,7 @@ var papersData = {
         "time": "16:10",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "11": {
         "title": "The phoneme as cognitive technology",
@@ -123,7 +123,7 @@ var papersData = {
             null,
             "axeleks@kth.se"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_11.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_11.bib",
@@ -143,7 +143,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "12": {
         "title": "Shared context helps maintain lexical variation",
@@ -155,7 +155,7 @@ var papersData = {
             "katie.mudd@ai.vub.ac.be",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_12.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_12.bib",
@@ -175,7 +175,7 @@ var papersData = {
         "time": "10:55",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "13": {
         "title": "The mind finds meaning in the sounds of language",
@@ -219,7 +219,7 @@ var papersData = {
             "rosas@hi.is",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_14.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_14.bib",
@@ -239,7 +239,7 @@ var papersData = {
         "time": "11:30",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "15": {
         "title": "Spontaneous emergence of large shared signalling systems with and without referential transmission",
@@ -251,7 +251,7 @@ var papersData = {
             "r.a.blythe@ed.ac.uk",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_15.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_15.bib",
@@ -271,7 +271,7 @@ var papersData = {
         "time": "15:15",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "16": {
         "title": "Exploring systematic phonological cues in language: A comparative study across 60 languages from 13 families",
@@ -283,7 +283,7 @@ var papersData = {
             "nicole.tamer@uzh.ch",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_16.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_16.bib",
@@ -323,7 +323,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_17.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_17.bib",
@@ -343,7 +343,7 @@ var papersData = {
         "time": "14:25",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "18": {
         "title": "Compression in killer whale pulsed calls",
@@ -359,7 +359,7 @@ var papersData = {
             null,
             "rferrericancho@cs.upc.edu"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_18.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_18.bib",
@@ -379,7 +379,7 @@ var papersData = {
         "time": "10:40",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "19": {
         "title": "Natural-language-like systematicity from a constraint on excess entropy",
@@ -389,7 +389,7 @@ var papersData = {
         "correspemails": [
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_19.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_19.bib",
@@ -409,7 +409,7 @@ var papersData = {
         "time": "13:55",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "20": {
         "title": "Gender differences in linguistic complexity through time",
@@ -419,7 +419,7 @@ var papersData = {
         "correspemails": [
             "freek.vandevelde@kuleuven.be"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_20.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_20.bib",
@@ -439,7 +439,7 @@ var papersData = {
         "time": "11:05",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "21": {
         "title": "Survival of the wittiest (not friendliest): The art and science of human evolution",
@@ -449,7 +449,7 @@ var papersData = {
         "correspemails": [
             "progovac@wayne.edu"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_21.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_21.bib",
@@ -469,7 +469,7 @@ var papersData = {
         "time": "10:15",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "22": {
         "title": "Great ape interaction: Ladyginian but not Gricean",
@@ -481,7 +481,7 @@ var papersData = {
             "thom.scottphillips@gmail.com",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_22.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_22.bib",
@@ -501,7 +501,7 @@ var papersData = {
         "time": "16:35",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "23": {
         "title": "Scalar morphology: How linguistic complexity can become redundant, yet be actively maintained by analogy",
@@ -515,7 +515,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_23.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_23.bib",
@@ -535,7 +535,7 @@ var papersData = {
         "time": "13:30",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "24": {
         "title": "Neural repurposing as a driving force in the Baldwinian coevolution of emotional and propositional communications",
@@ -545,7 +545,7 @@ var papersData = {
         "correspemails": [
             "podlip@amu.edu.pl"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_24.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_24.bib",
@@ -565,7 +565,7 @@ var papersData = {
         "time": "11:30",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "25": {
         "title": "Social ambiguity and multimodal interactions in Guinea baboons",
@@ -589,7 +589,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_25.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_25.bib",
@@ -609,7 +609,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "26": {
         "title": "Investigating the diachronic development of phonological complexity as a latent process \u2013 A computational study using deep neural networks",
@@ -653,7 +653,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_27.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_27.bib",
@@ -673,7 +673,7 @@ var papersData = {
         "time": "14:00",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "28": {
         "title": "The evolution of language and human rationality",
@@ -683,7 +683,7 @@ var papersData = {
         "correspemails": [
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_28.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_28.bib",
@@ -703,7 +703,7 @@ var papersData = {
         "time": "10:40",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "29": {
         "title": "Multivariate genome-wide association study of language-related human brain white matter tracts demonstrates high polygenicity",
@@ -713,7 +713,7 @@ var papersData = {
         "correspemails": [
             "yas.mekki@gmail.com"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_29.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_29.bib",
@@ -745,7 +745,7 @@ var papersData = {
             "fbisnath@umich.edu",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_30.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_30.bib",
@@ -765,7 +765,7 @@ var papersData = {
         "time": "10:15",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "31": {
         "title": "Cognitive biases explain constrained variation in noun classification",
@@ -779,7 +779,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_31.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_31.bib",
@@ -799,7 +799,7 @@ var papersData = {
         "time": "14:00",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "32": {
         "title": "Gesture as precursor to language: Evidence from bimodal bilingualism",
@@ -811,7 +811,7 @@ var papersData = {
             "shtamimi90@gmail.com",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_32.pdf",
         "supplementaryMaterial": "papers/evolang15_supplementary_material_32.pdf",
         "citations": {
             "bibtex": "bib/evolang15_32.bib",
@@ -831,7 +831,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "34": {
         "title": "Multilevel phylogenetic inference of harmony in Indo-European",
@@ -845,7 +845,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_34.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_34.bib",
@@ -865,7 +865,7 @@ var papersData = {
         "time": "11:30",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "35": {
         "title": "A complex systems perspective on language evolution",
@@ -875,7 +875,7 @@ var papersData = {
         "correspemails": [
             "jerome.michaud@mdu.se"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_35.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_35.bib",
@@ -895,7 +895,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "36": {
         "title": "Semantics-based spontaneous compounding emergence in artificial sign languages",
@@ -907,7 +907,7 @@ var papersData = {
             "o.tkachman@alumni.ubc.ca",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_36.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_36.bib",
@@ -927,7 +927,7 @@ var papersData = {
         "time": "11:05",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "37": {
         "title": "The evolution of reference",
@@ -937,7 +937,7 @@ var papersData = {
         "correspemails": [
             "giulia.palazzolo.1@warwick.ac.uk"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_37.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_37.bib",
@@ -957,7 +957,7 @@ var papersData = {
         "time": "16:10",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "38": {
         "title": "Fixation times for language evolution in social networks",
@@ -967,7 +967,7 @@ var papersData = {
         "correspemails": [
             "bart@ai.vub.ac.be"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_38.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_38.bib",
@@ -987,7 +987,7 @@ var papersData = {
         "time": "11:05",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "39": {
         "title": "Form and function in the evolution of symbolic artifacts: A transmission chain study",
@@ -1007,7 +1007,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_39.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_39.bib",
@@ -1027,7 +1027,7 @@ var papersData = {
         "time": "10:30",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "41": {
         "title": "Some remarks on the distinction between 'Gricean' and 'Ladyginian' communication",
@@ -1073,7 +1073,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_42.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_42.bib",
@@ -1093,7 +1093,7 @@ var papersData = {
         "time": "13:55",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "44": {
         "title": "Simulating the spread and development of protolanguages",
@@ -1103,7 +1103,7 @@ var papersData = {
         "correspemails": [
             "sja@du.se"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_44.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_44.bib",
@@ -1123,37 +1123,7 @@ var papersData = {
         "time": "17:00",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
-    },
-    "45": {
-        "title": "The evolutionary roots of rituals: Studying animal interactions",
-        "authors": [
-            "Simone Pika"
-        ],
-        "correspemails": [
-            "simone.pika@uni-osnabrueck.de"
-        ],
-        "download": null,
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "bib/evolang15_45.bib",
-            "ris": "bib/evolang15_45.ris",
-            "copy": "Pika, S. (2024). The evolutionary roots of rituals: Studying animal interactions. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
-        },
-        "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+evolutionary+roots+of+rituals%3A+Studying+animal+interactions%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D45",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D45&quote=Check+out+this+paper+from+Evolang+XV%3A+%22The+evolutionary+roots+of+rituals%3A+Studying+animal+interactions%22+%23EvolangXV"
-        },
-        "summary": "Human collective rituals are powerful communicative interactions that foster social assimilation and solidarity (Whitehouse and Lanman 2014; Fischer et al. 2013). They have been thought to have co-evolved with speech, and played a crucial role in the evolution of complex societies (Rossano 2015)Concerning evolutionary precursors, scholars argued that 'rituals' may have evolved from \u2018rule-governed\u2019 communicative exchanges and individualistic and competitive manipulative displays (Knight 1994; Dal Pesco and Fischer 2020). \nThe present paper aims to briefly review the existing body of work on animal interactions with a special focus on ritualized and \u2018rule-governed\u2019 behaviors. Subsequently, it will introduce a newly discovered interaction , \"insect applications\", in chimpanzees in the wild, which are used by chimpanzees to treat their own wounds but also the wounds of other conspecifics (Mascaro et al. 2022). The interactions involve subtle signals such as tactile gestures and gaze alternations and the context of wound tending provides a useful scenario to study the development of socially negotiated signals, context-specific roles, and role-reversal. Wound tending behaviors in chimpanzees may thus provide a useful window onto evolutionary precursors of human communicative rituals, specifically healing rituals, and scenarios of ritual/speech co-evolution (Knight 1998).",
-        "keywords": [
-            "coevolution of speech and rituals, evolutionary roots of ritual, rule-governed communicative exchanges, manipulative displays"
-        ],
-        "weburl": "paper.html?nr=45",
-        "date": "Monday, May 20, 2024",
-        "time": "14:25",
-        "location": "Ballroom A (Track 1)",
-        "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "46": {
         "title": "Does syntactic alignment predict cooperation? A corpus study of the Prisoner's Dilemma",
@@ -1177,7 +1147,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_46.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_46.bib",
@@ -1197,7 +1167,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "47": {
         "title": "Movement-related muscle activity and kinetics affect vocalization amplitude",
@@ -1213,7 +1183,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_47.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_47.bib",
@@ -1233,7 +1203,7 @@ var papersData = {
         "time": "10:55",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "48": {
         "title": "Testing the role of minorities in shaping language evolution: An experimental study",
@@ -1249,7 +1219,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_48.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_48.bib",
@@ -1269,7 +1239,7 @@ var papersData = {
         "time": "10:40",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "51": {
         "title": "Grammar change through cultural transmission",
@@ -1287,7 +1257,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_51.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_51.bib",
@@ -1307,7 +1277,7 @@ var papersData = {
         "time": "10:15",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "52": {
         "title": "Call combinations in bonobos and chimpanzees",
@@ -1329,7 +1299,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_52.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_52.bib",
@@ -1349,7 +1319,7 @@ var papersData = {
         "time": "10:55",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "53": {
         "title": "The evolution of silence: The role of inter-turn speech pauses in the co-evolution of language and cooperation",
@@ -1365,7 +1335,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_53.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_53.bib",
@@ -1385,7 +1355,7 @@ var papersData = {
         "time": "11:05",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "54": {
         "title": "What phonetics has to say about Neanderthal (<i>H. neanderthalensis</i>) speech capacities",
@@ -1397,7 +1367,7 @@ var papersData = {
             "axeleks@kth.se",
             "steven.moran@unine.ch"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_54.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_54.bib",
@@ -1417,7 +1387,7 @@ var papersData = {
         "time": "16:10",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "55": {
         "title": "The relation between European colonialism and linguistic diversity",
@@ -1433,7 +1403,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_55.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_55.bib",
@@ -1453,7 +1423,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "56": {
         "title": "Communicative efficiency and social biases modulate language learning in autistic and allistic individuals",
@@ -1467,7 +1437,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_56.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_56.bib",
@@ -1487,7 +1457,7 @@ var papersData = {
         "time": "10:15",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "57": {
         "title": "The role of gender, personality traits, and social biases in shaping linguistic accommodation: An experimental approach",
@@ -1501,7 +1471,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_57.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_57.bib",
@@ -1521,7 +1491,7 @@ var papersData = {
         "time": "11:45",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "58": {
         "title": "Towards computational detection of metaphoric change in language evolution via word embeddings",
@@ -1539,7 +1509,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_58.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_58.bib",
@@ -1559,7 +1529,7 @@ var papersData = {
         "time": "14:00",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "59": {
         "title": "Learnability effects in children: Are more structured languages easier to learn?",
@@ -1575,7 +1545,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_59.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_59.bib",
@@ -1595,15 +1565,15 @@ var papersData = {
         "time": "13:30",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "60": {
         "title": "From speech to primate vocalizations: Self-supervised deep learning as a comparative approach",
         "authors": [
             "Jules Cauzinille",
+            "Benoit Favre",
             "Ricard Marxer",
-            "Arnaud Rey",
-            "Benoit Favre"
+            "Arnaud Rey"
         ],
         "correspemails": [
             "jules.cauzinille@lis-lab.fr",
@@ -1611,12 +1581,12 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_60.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_60.bib",
             "ris": "bib/evolang15_60.ris",
-            "copy": "Cauzinille, J., Marxer, R., Rey, A. & Favre, B. (2024). From speech to primate vocalizations: Self-supervised deep learning as a comparative approach. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
+            "copy": "Cauzinille, J., Favre, B., Marxer, R. & Rey, A. (2024). From speech to primate vocalizations: Self-supervised deep learning as a comparative approach. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22From+speech+to+primate+vocalizations%3A+Self-supervised+deep+learning+as+a+comparative+approach%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D60",
@@ -1631,7 +1601,7 @@ var papersData = {
         "time": "11:45",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "61": {
         "title": "Mechanisms underlying alarm calling behaviour in bonobos (<i>Pan paniscus</i>)",
@@ -1693,7 +1663,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_62.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_62.bib",
@@ -1713,7 +1683,7 @@ var papersData = {
         "time": "11:20",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "63": {
         "title": "The role of linguistically encoded emotional characteristics for cooperativeness in a one-shot Prisoner's Dilemma",
@@ -1735,7 +1705,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_63.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_63.bib",
@@ -1752,10 +1722,10 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=63",
         "date": "Monday, May 20, 2024",
-        "time": "15:15",
+        "time": "14:50",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "64": {
         "title": "Chain shifts and transphonologizations are driven by homophony avoidance",
@@ -1767,7 +1737,7 @@ var papersData = {
             null,
             "wedel@arizona.edu"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_64.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_64.bib",
@@ -1787,7 +1757,7 @@ var papersData = {
         "time": "10:55",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "65": {
         "title": "Languages of esoteric societies provide a window into a previous stage in the evolution of human languages",
@@ -1801,7 +1771,7 @@ var papersData = {
             null,
             "abenitez8@us.es"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_65.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_65.bib",
@@ -1821,7 +1791,7 @@ var papersData = {
         "time": "16:35",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "66": {
         "title": "The Mekong-Mamberamo mystery",
@@ -1835,7 +1805,7 @@ var papersData = {
             null,
             "abenitez8@us.es"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_66.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_66.bib",
@@ -1855,7 +1825,7 @@ var papersData = {
         "time": "17:00",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "67": {
         "title": "Feature transmission within concept transmission",
@@ -1867,7 +1837,7 @@ var papersData = {
             "stfr@diku.dk",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_67.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_67.bib",
@@ -1887,7 +1857,7 @@ var papersData = {
         "time": "10:40",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "68": {
         "title": "The evolution of phonological dispersion: New experimental results",
@@ -1899,7 +1869,7 @@ var papersData = {
             "gareth.roberts@ling.upenn.edu",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_68.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_68.bib",
@@ -1919,7 +1889,7 @@ var papersData = {
         "time": "11:20",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "69": {
         "title": "Uncommon sounds for common words: Balancing phonemic type and token frequency within words for a higher entropy lexicon",
@@ -1931,7 +1901,7 @@ var papersData = {
             "adam.king.phd@gmail.com",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_69.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_69.bib",
@@ -1951,7 +1921,7 @@ var papersData = {
         "time": "10:30",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "70": {
         "title": "The role of audience design in an emerging language system: Evidence from a novel signaling paradigm",
@@ -1963,7 +1933,7 @@ var papersData = {
             "CaseyRiedmann2023@u.northwestern.edu",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_70.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_70.bib",
@@ -1983,7 +1953,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "71": {
         "title": "Which came first\u2014iconicity or symbolism?",
@@ -1999,7 +1969,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_71.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_71.bib",
@@ -2019,7 +1989,7 @@ var papersData = {
         "time": "14:20",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "73": {
         "title": "Self-domestication traits in vocal learning mammals",
@@ -2043,7 +2013,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_73.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_73.bib",
@@ -2063,7 +2033,7 @@ var papersData = {
         "time": "14:00",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "75": {
         "title": "The cultural evolution of informative writing systems",
@@ -2075,7 +2045,7 @@ var papersData = {
             "jon.carr@rhul.ac.uk",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_75.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_75.bib",
@@ -2095,7 +2065,7 @@ var papersData = {
         "time": "11:20",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "76": {
         "title": "Compositionality as one of the enabling factors to communicate conceptualized meaning",
@@ -2109,7 +2079,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_76.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_76.bib",
@@ -2129,7 +2099,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "77": {
         "title": "The cognitive requirements for developing a multimodal communication system: Evidence from experimental semiotics and comparative cognition",
@@ -2145,7 +2115,7 @@ var papersData = {
             null,
             "pleyer@umk.pl"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_77.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_77.bib",
@@ -2165,7 +2135,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "79": {
         "title": "Simplifications made early in learning can reshape language complexity",
@@ -2175,7 +2145,7 @@ var papersData = {
         "correspemails": [
             "kenny.smith@ed.ac.uk"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_79.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_79.bib",
@@ -2195,7 +2165,7 @@ var papersData = {
         "time": "16:10",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "80": {
         "title": "Emergent grammar from a minimal cognitive architecture",
@@ -2207,7 +2177,7 @@ var papersData = {
             "anna.jon-and@su.se",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_80.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_80.bib",
@@ -2227,7 +2197,7 @@ var papersData = {
         "time": "14:50",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "81": {
         "title": "The Dothraki experiment: Network topology and the linguistic niche hypothesis",
@@ -2241,7 +2211,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_81.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_81.bib",
@@ -2261,7 +2231,7 @@ var papersData = {
         "time": "16:35",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "82": {
         "title": "Artifacts, analogy, and metaphor: Inferring the cognitive foundations of metaphor from an archaeological and comparative perspective",
@@ -2275,7 +2245,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_82.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_82.bib",
@@ -2295,7 +2265,7 @@ var papersData = {
         "time": "11:45",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "83": {
         "title": "Entrenchment, conventionalization and cumulative culture: A usage-based perspective on language evolution",
@@ -2309,7 +2279,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_83.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_83.bib",
@@ -2329,7 +2299,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "84": {
         "title": "Using the scale of innovation to study the evolution of language",
@@ -2339,7 +2309,7 @@ var papersData = {
         "correspemails": [
             "annie.holtz@ed.ac.uk"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_84.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_84.bib",
@@ -2359,7 +2329,7 @@ var papersData = {
         "time": "15:15",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "85": {
         "title": "Do semiotics experiments really show the \"superiority\" of gesture over vocalization for iconic representation? And even if they do, does it matter?",
@@ -2371,7 +2341,7 @@ var papersData = {
             "m.perlman@bham.ac.uk",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_85.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_85.bib",
@@ -2391,7 +2361,7 @@ var papersData = {
         "time": "10:15",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "86": {
         "title": "Gender balance in evolutionary linguistics",
@@ -2403,7 +2373,7 @@ var papersData = {
             "RobertsS55@cardiff.ac.uk",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_86.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_86.bib",
@@ -2423,7 +2393,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "87": {
         "title": "Testing the linguistic niche hypothesis in large language models with a multilingual Wug Test",
@@ -2437,7 +2407,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_87.pdf",
         "supplementaryMaterial": "papers/evolang15_supplementary_material_87.pdf",
         "citations": {
             "bibtex": "bib/evolang15_87.bib",
@@ -2457,7 +2427,7 @@ var papersData = {
         "time": "17:00",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "88": {
         "title": "Cross-population variation in usage of a call combination: Evidence of signal usage optionality in wild bonobos",
@@ -2471,7 +2441,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_88.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_88.bib",
@@ -2491,7 +2461,7 @@ var papersData = {
         "time": "11:20",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "89": {
         "title": "Metaphor, emotion, and the evolved sensory interface",
@@ -2503,7 +2473,7 @@ var papersData = {
             "fdurgin1@swarthmore.edu",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_89.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_89.bib",
@@ -2523,7 +2493,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "90": {
         "title": "The role of generalisation in an Adaptive Resonance Theory model of learning inflection classes",
@@ -2537,7 +2507,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_90.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_90.bib",
@@ -2557,7 +2527,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "92": {
         "title": "A tool for exploring building blocks in speech and animal vocalizations",
@@ -2569,7 +2539,7 @@ var papersData = {
             "Yannick.Jadoul@uniroma1.it",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_92.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_92.bib",
@@ -2589,7 +2559,7 @@ var papersData = {
         "time": "13:55",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "93": {
         "title": "Rats (<i>Rattus norvegicus</i>) detect temporal rather than melodic changes",
@@ -2601,7 +2571,7 @@ var papersData = {
             "ferran.mayayo@upf.edu",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_93.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_93.bib",
@@ -2621,7 +2591,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "94": {
         "title": "Systemic structure of kinship is shaped by evolutionary processes",
@@ -2637,7 +2607,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_94.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_94.bib",
@@ -2657,7 +2627,7 @@ var papersData = {
         "time": "16:35",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "96": {
         "title": "Communication and linguistic structure in collaborative human-machine language evolution",
@@ -2671,7 +2641,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_96.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_96.bib",
@@ -2691,7 +2661,7 @@ var papersData = {
         "time": "14:25",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "98": {
         "title": "3SG is the most conservative subject marker across languages: An exploratory study of rate of change",
@@ -2705,7 +2675,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_98.pdf",
         "supplementaryMaterial": "papers/evolang15_supplementary_material_98.pdf",
         "citations": {
             "bibtex": "bib/evolang15_98.bib",
@@ -2725,7 +2695,7 @@ var papersData = {
         "time": "10:40",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "99": {
         "title": "Finding proportionality in computational approaches to morphological change",
@@ -2739,7 +2709,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_99.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_99.bib",
@@ -2759,7 +2729,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "100": {
         "title": "Simulating dependency length minimization using neural-network based learning and communication",
@@ -2777,7 +2747,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_100.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_100.bib",
@@ -2797,7 +2767,7 @@ var papersData = {
         "time": "14:50",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "101": {
         "title": "What's the deal with large language models? A comparative evolutionary perspective",
@@ -2809,7 +2779,7 @@ var papersData = {
             "moflaherty@davidson.edu",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_101.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_101.bib",
@@ -2829,7 +2799,7 @@ var papersData = {
         "time": "14:00",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "102": {
         "title": "Phonetic properties of chimpanzee, gorilla, and orangutan hoots tell a uniform story \u2013 and point to new frontiers",
@@ -2859,7 +2829,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_102.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_102.bib",
@@ -2879,7 +2849,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "103": {
         "title": "Seeing signs of morphology - Form-meaning relations in British Sign Language morphology are iconic for hearing non-signers",
@@ -2895,7 +2865,7 @@ var papersData = {
             null,
             "a.schembri@bham.ac.uk"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_103.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_103.bib",
@@ -2915,7 +2885,7 @@ var papersData = {
         "time": "10:40",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "104": {
         "title": "Iconicity and compositionality in emerging vocal communication systems: A Virtual Reality approach",
@@ -2939,7 +2909,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_104.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_104.bib",
@@ -2959,7 +2929,7 @@ var papersData = {
         "time": "10:40",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "105": {
         "title": "Alignment vs conflict of interests in language evolution: Two pathways to high-level mindreading",
@@ -2973,7 +2943,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_105.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_105.bib",
@@ -2993,7 +2963,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "106": {
         "title": "Defining the building blocks of pragmatic competence: The social context of language evolution",
@@ -3009,7 +2979,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_106.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_106.bib",
@@ -3029,7 +2999,7 @@ var papersData = {
         "time": "10:15",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "107": {
         "title": "Morphological analysis of vocal communication in <i>Homo naledi</i>",
@@ -3039,7 +3009,7 @@ var papersData = {
         "correspemails": [
             "jhawks@wisc.edu"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_107.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_107.bib",
@@ -3059,7 +3029,7 @@ var papersData = {
         "time": "14:20",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "108": {
         "title": "Exploring the influence of word definition on AI-generated facial representations",
@@ -3077,7 +3047,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_108.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_108.bib",
@@ -3097,7 +3067,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "109": {
         "title": "Vocal functional flexibility in a songbird",
@@ -3143,7 +3113,7 @@ var papersData = {
             "ccm262@cornell.edu",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_110.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_110.bib",
@@ -3163,7 +3133,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "111": {
         "title": "Exploring the content of casual Polish conversations",
@@ -3185,7 +3155,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_111.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_111.bib",
@@ -3205,7 +3175,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "112": {
         "title": "Balancing regularization and variation: The roles of priming and motivatedness",
@@ -3217,7 +3187,7 @@ var papersData = {
             "lois.dona@mpi.nl",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_112.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_112.bib",
@@ -3237,7 +3207,7 @@ var papersData = {
         "time": "10:15",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "113": {
         "title": "Exploring the sound structure of novel vocalizations",
@@ -3259,7 +3229,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_113.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_113.bib",
@@ -3279,7 +3249,7 @@ var papersData = {
         "time": "14:20",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "114": {
         "title": "Locating the emergence of hominin pragmatic competence",
@@ -3289,7 +3259,7 @@ var papersData = {
         "correspemails": [
             "andrew.feeney@northumbria.ac.uk"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_114.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_114.bib",
@@ -3309,7 +3279,7 @@ var papersData = {
         "time": "10:40",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "115": {
         "title": "Discreteness and systematicity emerge to facilitate communication in a continuous signal-meaning space",
@@ -3327,7 +3297,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_115.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_115.bib",
@@ -3347,7 +3317,7 @@ var papersData = {
         "time": "14:50",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "116": {
         "title": "The development of trisynaptic pathway in the hippocampus and the milestone of language development",
@@ -3363,7 +3333,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_116.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_116.bib",
@@ -3383,7 +3353,7 @@ var papersData = {
         "time": "13:55",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "118": {
         "title": "Learning pressures and inductive biases in emergent communication: Parallels between humans and deep neural networks",
@@ -3397,7 +3367,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_118.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_118.bib",
@@ -3417,7 +3387,7 @@ var papersData = {
         "time": "15:15",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "121": {
         "title": "Reconstructing a protolanguage",
@@ -3429,7 +3399,7 @@ var papersData = {
             "erkkil@gmail.com",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_121.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_121.bib",
@@ -3449,7 +3419,7 @@ var papersData = {
         "time": "11:05",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "122": {
         "title": "Evolving a higher efficiency lexicon: High resource-cost sounds are preferentially allocated to word beginnings and stressed syllables",
@@ -3461,7 +3431,7 @@ var papersData = {
             "wedel@arizona.edu",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_122.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_122.bib",
@@ -3481,7 +3451,7 @@ var papersData = {
         "time": "11:45",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "123": {
         "title": "Middle pleistocene humans in Europe: Cognition before Neanderthals",
@@ -3491,7 +3461,7 @@ var papersData = {
         "correspemails": [
             "40010189@parisnanterre.fr"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_123.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_123.bib",
@@ -3511,7 +3481,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "124": {
         "title": "The iconic affordances of gesture and vocalization in emerging languages in the lab",
@@ -3527,7 +3497,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_124.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_124.bib",
@@ -3547,7 +3517,7 @@ var papersData = {
         "time": "11:05",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "125": {
         "title": "Obsolescence: A missing piece in the puzzle of polysemy and time",
@@ -3557,7 +3527,7 @@ var papersData = {
         "correspemails": [
             "liguo.vivian@gmail.com"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_125.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_125.bib",
@@ -3577,7 +3547,7 @@ var papersData = {
         "time": "11:05",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "126": {
         "title": "Attention soliciting behaviour in the communication of nine primate species",
@@ -3610,7 +3580,7 @@ var papersData = {
         ],
         "weburl": "paper.html?nr=126",
         "date": "Monday, May 20, 2024",
-        "time": "14:50",
+        "time": "14:25",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": null
@@ -3627,7 +3597,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_127.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_127.bib",
@@ -3647,7 +3617,7 @@ var papersData = {
         "time": "14:00",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "128": {
         "title": "The roots of facial expressions: Pragmatic and semantic facial expressions comprise biologically-rooted facial movements",
@@ -3669,7 +3639,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_128.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_128.bib",
@@ -3689,7 +3659,7 @@ var papersData = {
         "time": "11:30",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "129": {
         "title": "Differences in distributional structure can lead to differences in similarity biases",
@@ -3703,7 +3673,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_129.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_129.bib",
@@ -3723,37 +3693,7 @@ var papersData = {
         "time": "14:25",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
-    },
-    "131": {
-        "title": "Calls, words and brains",
-        "authors": [
-            "Joana Rossello"
-        ],
-        "correspemails": [
-            "joana.rossello@ub.edu"
-        ],
-        "download": null,
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "bib/evolang15_131.bib",
-            "ris": "bib/evolang15_131.ris",
-            "copy": "Rossello, J. (2024). Calls, words and brains. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
-        },
-        "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Calls%2C+words+and+brains%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D131",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D131&quote=Check+out+this+paper+from+Evolang+XV%3A+%22Calls%2C+words+and+brains%22+%23EvolangXV"
-        },
-        "summary": "The question of whether there is compositionality in some nonhuman call combinations is controversial and maybe unresolvable if the terms of the debate do not change. Neither the restraint of equating meaning to functionally referential signals nor a loose interpretation of what meaning is in nonhuman animals are of help. In the former case because functional referentiality is a problematic construct and in the latter because of indeterminacy. Functional referential calls, if existing at all, do not compare to words. There is a huge gap between calls and words which must be acknowledged. Progress will be made if instead of prioritizing animal behavior we look at comparative neurobiology to understand why only human brains support words.",
-        "keywords": [
-            "words, calls, compositionality, temporal lobe"
-        ],
-        "weburl": "paper.html?nr=131",
-        "date": "Sunday, May 19, 2024",
-        "time": "17:30",
-        "location": "Grand Terrace",
-        "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "132": {
         "title": "Do dogs really get the point?",
@@ -3773,7 +3713,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_132.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_132.bib",
@@ -3793,7 +3733,7 @@ var papersData = {
         "time": "14:50",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "133": {
         "title": "The emergence of non-absolute synonymy: An iterated-learning experiment",
@@ -3805,7 +3745,7 @@ var papersData = {
             null,
             "gareth.roberts@ling.upenn.edu"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_133.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_133.bib",
@@ -3825,7 +3765,7 @@ var papersData = {
         "time": "14:50",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "134": {
         "title": "Simplicity and informativeness in the evolution of combinatorial structure",
@@ -3839,7 +3779,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_134.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_134.bib",
@@ -3859,7 +3799,7 @@ var papersData = {
         "time": "13:30",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "135": {
         "title": "Visual communication in heterogeneous populations of artificial communicating agents",
@@ -3869,7 +3809,7 @@ var papersData = {
         "correspemails": [
             "adm1c22@soton.ac.uk"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_135.pdf",
         "supplementaryMaterial": "papers/evolang15_supplementary_material_135.pdf",
         "citations": {
             "bibtex": "bib/evolang15_135.bib",
@@ -3889,7 +3829,7 @@ var papersData = {
         "time": "14:00",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "136": {
         "title": "A cautionary note on sociodemographic predictors of linguistic complexity: Different measures and different analyses lead to different conclusions",
@@ -3901,7 +3841,7 @@ var papersData = {
             "lupyan@wisc.edu",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_136.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_136.bib",
@@ -3921,7 +3861,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "137": {
         "title": "Noisy population dynamics lead to efficiently compressed vocabularies",
@@ -3971,7 +3911,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_138.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_138.bib",
@@ -3991,7 +3931,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "139": {
         "title": "Simulating representational communication in vervet monkeys using agent-based simulation",
@@ -4003,7 +3943,7 @@ var papersData = {
             "guptaa23@msu.edu",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_139.pdf",
         "supplementaryMaterial": "papers/evolang15_supplementary_material_139.zip",
         "citations": {
             "bibtex": "bib/evolang15_139.bib",
@@ -4023,7 +3963,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "140": {
         "title": "Compositionality and algorithmic complexity in neural networks",
@@ -4035,7 +3975,7 @@ var papersData = {
             "charlt4@uci.edu",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_140.pdf",
         "supplementaryMaterial": "papers/evolang15_supplementary_material_140.zip",
         "citations": {
             "bibtex": "bib/evolang15_140.bib",
@@ -4055,7 +3995,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "141": {
         "title": "Why are some words more frequent than others? New insights from network science",
@@ -4069,7 +4009,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_141.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_141.bib",
@@ -4089,7 +4029,7 @@ var papersData = {
         "time": "14:20",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "142": {
         "title": "Starlings recognize simple dependency patterns",
@@ -4103,7 +4043,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_142.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_142.bib",
@@ -4123,7 +4063,7 @@ var papersData = {
         "time": "14:25",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "143": {
         "title": "Past, present, and future: A literature review of the genetic research into the evolution of human language",
@@ -4133,7 +4073,7 @@ var papersData = {
         "correspemails": [
             "hannahbrown@cantab.net"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_143.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_143.bib",
@@ -4153,7 +4093,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "144": {
         "title": "The role of shared labels and shared experiences in representational alignment",
@@ -4169,7 +4109,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_144.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_144.bib",
@@ -4189,7 +4129,7 @@ var papersData = {
         "time": "10:30",
         "location": "Ballroom A (Track 1)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "145": {
         "title": "Diversity and universals in culturally evolved sound systems across species: A complex adaptive system account",
@@ -4203,7 +4143,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_145.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_145.bib",
@@ -4223,7 +4163,7 @@ var papersData = {
         "time": "10:15",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "146": {
         "title": "Failures and successes in learning a core conceptual distinction from the statistics of language",
@@ -4237,7 +4177,7 @@ var papersData = {
             null,
             "lupyan@wisc.edu"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_146.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_146.bib",
@@ -4257,7 +4197,7 @@ var papersData = {
         "time": "14:25",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "147": {
         "title": "Discursive distinctiveness explains lexical differences between languages",
@@ -4267,7 +4207,7 @@ var papersData = {
         "correspemails": [
             "barend.beekhuizen@utoronto.ca"
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_147.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_147.bib",
@@ -4287,7 +4227,7 @@ var papersData = {
         "time": "15:15",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "148": {
         "title": "How many words is a picture (or definition) worth? A distributional perspective on learning and generalizing new word meanings",
@@ -4299,7 +4239,7 @@ var papersData = {
             "borman@wisc.edu",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_148.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_148.bib",
@@ -4319,7 +4259,7 @@ var papersData = {
         "time": "15:15",
         "location": "Ballroom B (Track 2)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "149": {
         "title": "When a fishing rod becomes a tyre: On gesture comprehension in 2-to-3 years old transition in children",
@@ -4331,7 +4271,7 @@ var papersData = {
             "monika.feba.boruta@gmail.com",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_149.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_149.bib",
@@ -4351,7 +4291,7 @@ var papersData = {
         "time": "17:30",
         "location": "Grand Terrace",
         "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "150": {
         "title": "Who benefits from redundancy in learning noun class systems?",
@@ -4363,7 +4303,7 @@ var papersData = {
             "aislinn.keogh@ed.ac.uk",
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_150.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_150.bib",
@@ -4383,37 +4323,7 @@ var papersData = {
         "time": "11:30",
         "location": "Ballroom C (Track 3)",
         "prestype": "talk",
-        "license": null
-    },
-    "151": {
-        "title": "A semantic-pragmatic embedding approach to investigate the evolution of basic-level categories in ancient Chinese",
-        "authors": [
-            "Eugene Yu Ji"
-        ],
-        "correspemails": [
-            "yuji1@uchicago.edu"
-        ],
-        "download": null,
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "bib/evolang15_151.bib",
-            "ris": "bib/evolang15_151.ris",
-            "copy": "Ji, E. Y. (2024). A semantic-pragmatic embedding approach to investigate the evolution of basic-level categories in ancient Chinese. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
-        },
-        "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22A+semantic-pragmatic+embedding+approach+to+investigate+the+evolution+of+basic-level+categories+in+ancient+Chinese%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D151",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D151&quote=Check+out+this+paper+from+Evolang+XV%3A+%22A+semantic-pragmatic+embedding+approach+to+investigate+the+evolution+of+basic-level+categories+in+ancient+Chinese%22+%23EvolangXV"
-        },
-        "summary": "This study proposes a novel computational approach using to analyze the historical evolution of basic-level categories in ancient Chinese. Our method generates a 2D embedding space capturing semantic and pragmatic dimensions, applied to the evolution of ancient Chinese color, smell, and classifier categories. Findings indicate a pragmatic alignment in ancient Chinese color terms, a co-evolution of smell terms with color, and a notable alignment shift in classifiers over time. Together, these results address related debates in cognitive science and anthropology on the formation and evolution of basic-level categories, suggesting linguistic evolution's dependency on domain and era-specific semantic-pragmatic factors.",
-        "keywords": [
-            "semantic evolution, pragmatic evolution, distributional methods, ancient chinese, basic-level categories"
-        ],
-        "weburl": "paper.html?nr=151",
-        "date": "Sunday, May 19, 2024",
-        "time": "17:30",
-        "location": "Grand Terrace",
-        "prestype": "poster",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     },
     "153": {
         "title": "On the origins of great ape gestural forms",
@@ -4465,7 +4375,7 @@ var papersData = {
             null,
             null
         ],
-        "download": null,
+        "download": "papers/evolang15_paper_154.pdf",
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_154.bib",
@@ -4485,6 +4395,6 @@ var papersData = {
         "time": "14:25",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null
+        "license": "CC BY-NC-ND 4.0"
     }
 }

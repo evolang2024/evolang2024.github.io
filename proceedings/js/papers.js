@@ -45,7 +45,7 @@ $(document).ready(function() {
 		$("#summary").html(paperInfo.summary);
 
 		if (paperInfo.license === undefined || paperInfo.license == null || paperInfo.license == "NONE" || paperInfo.license=="NO PUBLISH") {
-			// $("#nopublish").show(); // TODO
+			$("#nopublish").show();
 			$("#dlLink").attr("href","#");
 			//$("#abstractText").html("There is no summary available for this paper.");
 		} else {
