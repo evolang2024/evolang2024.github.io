@@ -79,31 +79,31 @@ workshops:
     header: Workshops (May 18th)
     workshop_list:
       - name: 'Large-scale computational approaches to evolution and change:
-prospects and pitfalls (Fri 5/18 9:15-12pm; 1:15pm-4pm - Meeting Room QR)'
+prospects and pitfalls (5/18 9:15-12pm; 1:15pm-4pm - Meeting Room QR)'
         organizers: 'Andres Karjus (akarjus@tlu.ee), Nina Tahmasebi (nina.tahmasebi@gu.se), Haim Dubossarsky (h.dubossarsky@qmul.ac.uk), Stefano De Pascale (stefano.depascale@kuleuven.be)' 
         btn_name: 'Info and schedule'
         btn_href: https://www.changeiskey.org/event/2024-evolang-workshop/
-      - name: 'Interactive alignment in the evolution of vocal communication (Fri 9:15-12pm - Meeting Room MN)'
+      - name: 'Interactive alignment in the evolution of vocal communication (9:15-12pm - Meeting Room MN)'
         organizers: 'Julia Hyland Bruno (julia.hylandbruno@njit.edu) and Olga Fehér (o.feher@warwick.ac.uk)'
         btn_name: 'Info and schedule'
         btn_href: 'https://warwick.ac.uk/fac/sci/psych/people/ofeher/ofeher/interactive_alignment_workshop_2024'
-      - name: 'What is children’s role in shaping language evolution? (Fri 5/18 9:15-12pm; 9:15am-12pm - Meeting Room OP)'
+      - name: 'What is children’s role in shaping language evolution? (5/18 9:15am-12pm; 9:15am-12pm - Meeting Room OP)'
         organizers: 'Shira Tal (stal@ed.ac.uk), Jennifer Culbertson (jennifer.culbertson@ed.ac.uk )'
         btn_name: 'Info and schedule'
         btn_href: 'https://evolang2024.github.io/workshop_tal_culbertson/'
-      - name: 'Causal approaches to investigating language evolution: New studies of the association between phonology and climate (Fri 5/18 9:15-12pm - Meeting Room KL)'
+      - name: 'Causal approaches to investigating language evolution: New studies of the association between phonology and climate (5/18 9:15am-12pm - Meeting Room KL)'
         organizers: 'Seán Roberts (RobertsS55@cardiff.ac.uk) and Frederik Hartmann (frederik.hartmann@unt.edu)' 
         btn_name: 'Info and schedule'
         btn_href: https://correlation-machine.com/EvoLang_PhonologyAndClimate/
-      - name: 'EMOLANG: What can communicative signals of positive emotions tell us about the evolution of language? (Fri 5/18 12pm-4pm - Meeting Room OP)'
+      - name: 'EMOLANG: What can communicative signals of positive emotions tell us about the evolution of language? (5/18 12pm-4pm - Meeting Room OP)'
         organizers: ' Heidi Lyn (hlyn@southalabama.edu), Erica Cartmill (cartmill@ucla.edu)'
         btn_name: 'Info and schedule'
         btn_href: 'https://evolang2024.github.io/workshop_emolang/'
-      - name: 'What allows human language? a multidisciplinary perspective (Fri 5/18 1:15pm-4pm - Meeting Room OP)'
+      - name: 'What allows human language? a multidisciplinary perspective (5/18 1:15pm-4pm - Meeting Room OP)'
         organizers: 'Nicolas Claidière (nicolas.claidiere@cnrs.fr). Speakers include Inbal Arnon, Tecumseh Fitch, Simon Kirby, Susan Goldin Meadow, Simon Fisher, Limor Raviv, Kazuo Okanoya, Lucie Wolters, and Liran Carmel'
         btn_name: 'Info and schedule'
         btn_href: https://docs.google.com/document/d/11ypSUdU4dW37-UaVGD0-LfnYITy-4yjthOIL9NtWPcs/
-      - name: 'Comparative  turn-taking:  A  new  approach  to  tackle  language origins (Fri 5/18 1:15pm-4pm - Meeting Room KL)'
+      - name: 'Comparative  turn-taking:  A  new  approach  to  tackle  language origins (5/18 1:15pm-4pm - Meeting Room KL)'
         organizers: 'Fanny Tibesar (ftibesar@uos.de), Simone Pika (spika@uos.de)'
         btn_name: 'Info and schedule'
         btn_href: https://docs.google.com/document/d/1PwXmWWXXMLUEoK-WMz8MnxR611g-GzLGAPcMHG-d3R8/        
@@ -161,108 +161,7 @@ organizers:
         - name: Anita Slonimska
         - name: Slawomir Wacewicz
         - name: Stuart Watson
-# schedule:
-#     button_1: Download Schedule
-#     button_1_href: "#"
-#     button_2: Buy Tickets
-#     button_2_href: "#"    
-#     days:
-#         - name: Day 1
-#           subheader: (Wed 18, May)
-#           events:
-#             - title: Sample Event Title Number 1
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#             - title: Sample Event Title Number 2
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#         - name: Day 2
-#           subheader: (Thurs 19, May)
-#           events:
-#             - title: Sample Event Title Number 12
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#             - title: Sample Event Title Number 2
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#             - title: Sample Event Title Number 2
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#             - title: Sample Event Title Number 2
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#         - name: Day 3
-#           subheader: (Fri 20, May)
-#           events:
-#             - title: Sample Event Title Number 1
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#             - title: Sample Event Title Number 2
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#             - title: Sample Event Title Number 2
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#             - title: Sample Event Title Number 2
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#         - name: Day 4
-#           subheader: (Sat 21, May)
-#           events:
-#             - title: Sample Event Title Number 1
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#             - title: Sample Event Title Number 2
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#             - title: Sample Event Title Number 2
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#             - title: Sample Event Title Number 2
-#               location: Conference Room A
-#               time: 9:00-9:30
-#               speaker: Person 1
-#               speaker_img_href: "assets/images/speakers/speaker-3.jpg"
-#               description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 venue:
     header-1: Welcome to Madison!
     body-1: Madison (pop. ~272k) is the capital of Wisconsin and the home of <A HREF='https://www.wisc.edu/'>University of Wisconsin's flagship campus</A>. The conference will be held at the <A HREF='https://www.mononaterrace.com/'>Monona Terrace</A>--a beautiful conference venue designed by Frank Lloyd Wright on the shores of Lake Monona. We invite you to take advantage of this time away from your daily lives to catch up on the latest developments in the field and to deepen your appreciation of the amazing research being done in the language evolution community. We also invite you to consider how our work may be a force for positive change back in the real world. We hope you will take us up on these invitations--in the conference hall, at the lively Union Terrace, at the Saturday farmer’s market on the Capitol Square, and at the many fine eating and drinking establishments nearby. We will also be planning several excursions after the main conference. 
