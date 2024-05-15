@@ -79,7 +79,7 @@ workshops:
     header: Workshops (May 18th)
     workshop_list:
       - name: 'Large-scale computational approaches to evolution and change:
-prospects and pitfalls (5/18 9:15-12pm; 1:15pm-4pm - Meeting Room QR)'
+prospects and pitfalls (9:15-12pm; 1:15pm-4pm - Meeting Room QR)'
         organizers: 'Andres Karjus (akarjus@tlu.ee), Nina Tahmasebi (nina.tahmasebi@gu.se), Haim Dubossarsky (h.dubossarsky@qmul.ac.uk), Stefano De Pascale (stefano.depascale@kuleuven.be)' 
         btn_name: 'Info and schedule'
         btn_href: https://www.changeiskey.org/event/2024-evolang-workshop/
@@ -87,23 +87,23 @@ prospects and pitfalls (5/18 9:15-12pm; 1:15pm-4pm - Meeting Room QR)'
         organizers: 'Julia Hyland Bruno (julia.hylandbruno@njit.edu) and Olga Fehér (o.feher@warwick.ac.uk)'
         btn_name: 'Info and schedule'
         btn_href: 'https://warwick.ac.uk/fac/sci/psych/people/ofeher/ofeher/interactive_alignment_workshop_2024'
-      - name: 'What is children’s role in shaping language evolution? (5/18 9:15am-12pm; 9:15am-12pm - Meeting Room OP)'
+      - name: 'What is children’s role in shaping language evolution? (9:15am-12pm; 9:15am-12pm - Meeting Room OP)'
         organizers: 'Shira Tal (stal@ed.ac.uk), Jennifer Culbertson (jennifer.culbertson@ed.ac.uk )'
         btn_name: 'Info and schedule'
         btn_href: 'https://evolang2024.github.io/workshop_tal_culbertson/'
-      - name: 'Causal approaches to investigating language evolution: New studies of the association between phonology and climate (5/18 9:15am-12pm - Meeting Room KL)'
+      - name: 'Causal approaches to investigating language evolution: New studies of the association between phonology and climate (9:15am-12pm - Meeting Room KL)'
         organizers: 'Seán Roberts (RobertsS55@cardiff.ac.uk) and Frederik Hartmann (frederik.hartmann@unt.edu)' 
         btn_name: 'Info and schedule'
         btn_href: https://correlation-machine.com/EvoLang_PhonologyAndClimate/
-      - name: 'EMOLANG: What can communicative signals of positive emotions tell us about the evolution of language? (5/18 12pm-4pm - Meeting Room OP)'
+      - name: 'EMOLANG: What can communicative signals of positive emotions tell us about the evolution of language? (12pm-4pm - Meeting Room OP)'
         organizers: ' Heidi Lyn (hlyn@southalabama.edu), Erica Cartmill (cartmill@ucla.edu)'
         btn_name: 'Info and schedule'
         btn_href: 'https://evolang2024.github.io/workshop_emolang/'
-      - name: 'What allows human language? a multidisciplinary perspective (5/18 1:15pm-4pm - Meeting Room OP)'
+      - name: 'What allows human language? a multidisciplinary perspective (1:15pm-4pm - Meeting Room OP)'
         organizers: 'Nicolas Claidière (nicolas.claidiere@cnrs.fr). Speakers include Inbal Arnon, Tecumseh Fitch, Simon Kirby, Susan Goldin Meadow, Simon Fisher, Limor Raviv, Kazuo Okanoya, Lucie Wolters, and Liran Carmel'
         btn_name: 'Info and schedule'
         btn_href: https://docs.google.com/document/d/11ypSUdU4dW37-UaVGD0-LfnYITy-4yjthOIL9NtWPcs/
-      - name: 'Comparative  turn-taking:  A  new  approach  to  tackle  language origins (5/18 1:15pm-4pm - Meeting Room KL)'
+      - name: 'Comparative  turn-taking:  A  new  approach  to  tackle  language origins (1:15pm-4pm - Meeting Room KL)'
         organizers: 'Fanny Tibesar (ftibesar@uos.de), Simone Pika (spika@uos.de)'
         btn_name: 'Info and schedule'
         btn_href: https://docs.google.com/document/d/1PwXmWWXXMLUEoK-WMz8MnxR611g-GzLGAPcMHG-d3R8/        
