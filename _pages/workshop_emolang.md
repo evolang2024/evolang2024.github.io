@@ -12,7 +12,7 @@ info:
       - header: "Schedule (Lunch will be served)"
         subheader: "<ul>
             <li>12:00-12:05 Intro: Heidi Lyn & Erica Cartmill</li>
-            <li>12:05-12:25 Colin Allen - TBA (philosophy of animal emotions)</li>
+            <li>12:05-12:25 Colin Allen - Working Memory, Emotional Regulation, and Learning Modes: Precursors to Language in Plio-Pleistocene Hominins</li>
             <li>12:25-12:45 Marina Davila Ross - Towards the complexity and evolutionary continuity of laugh expressions in hominoids</li>
             <li>12:45-1:05 Sasha Winkler - Evolution and cognitive effects of animal play vocalizations</li>
             <li>1:05-1:25 Heidi Lyn & Lindsey Johnson - Potential behavioral markers of positive affect in bottlenose dolphins</li>
