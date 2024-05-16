@@ -327,7 +327,7 @@ var papersData = {
         "time": "14:50",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": null,
+        "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:50",
         "calendar_endTime": "15:15"
