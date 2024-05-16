@@ -80,6 +80,30 @@ $(document).ready(function() {
 		$("#ris").attr("href", paperInfo.citations.ris);
 		$("#copyCitation").attr("data-content", fullcite);
 
+		function escape(s) { return $("<div>").text(s).html(); }
+
+		calendar_description = ((paperInfo.prestype =="talk") ? "Podium presentation" : "Poster presentation") + "\n\n[strong]" + paperInfo.title + "[/strong]\n[i]" + $('#authlist').text().replace("  ", " ") + "[/i]\n\n" + paperInfo.summary;
+
+		calendar_html = $('#calendarButtonDiv')
+		calendar_html.empty();
+		calendar_html.html(
+			`<add-to-calendar-button
+				name="Evolang XV: ` + escape(paperInfo.title) +  `"
+				description="` + escape(calendar_description) + `"
+				startDate="` + escape(paperInfo.calendar_startDate) + `"
+				startTime="` + escape(paperInfo.calendar_startTime) + `"
+				endTime="` + escape(paperInfo.calendar_endTime) + `"
+				timeZone="America/Chicago"
+				location="` + escape(paperInfo.location) + `"
+				options="'Apple','Google','Outlook.com','Yahoo','MicrosoftTeams','Microsoft365','iCal'"
+				buttonStyle="round"
+				hideBackground
+				hideCheckmark
+				size="0"
+				pastDateHandling="disable"
+			></add-to-calendar-button>`
+		);
+
 		$('[data-toggle="tooltip"]').tooltip();
 
 		$(".loadbreak").hide();
