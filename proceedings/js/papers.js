@@ -96,6 +96,7 @@ $(document).ready(function() {
 				timeZone="America/Chicago"
 				location="` + escape(paperInfo.location) + `"
 				options="'Apple','Google','Outlook.com','Yahoo','MicrosoftTeams','Microsoft365','iCal'"
+				listStyle="dropup-static"
 				buttonStyle="round"
 				hideBackground
 				hideCheckmark
