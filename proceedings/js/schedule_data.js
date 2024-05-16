@@ -10,7 +10,8 @@ var scheduleData = [
                 "event": "Coffee/Tea break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "08:45",
@@ -18,7 +19,8 @@ var scheduleData = [
                 "event": "Registration",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "09:15",
@@ -26,7 +28,8 @@ var scheduleData = [
                 "event": "Workshops \u2013 morning",
                 "talks": null,
                 "url": "https://evolang2024.github.io/#workshops-section",
-                "venue": "Rooms KL, OP, MN, QR"
+                "venue": "Rooms KL, OP, MN, QR",
+                "extra": null
             },
             {
                 "startTime": "12:00",
@@ -34,7 +37,8 @@ var scheduleData = [
                 "event": "Lunch",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "13:15",
@@ -42,7 +46,8 @@ var scheduleData = [
                 "event": "Workshops \u2013 afternoon",
                 "talks": null,
                 "url": "https://evolang2024.github.io/#workshops-section",
-                "venue": "Rooms KL, OP, MN, QR"
+                "venue": "Rooms KL, OP, MN, QR",
+                "extra": null
             },
             {
                 "startTime": "15:00",
@@ -50,7 +55,8 @@ var scheduleData = [
                 "event": "Registration",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "16:00",
@@ -58,7 +64,8 @@ var scheduleData = [
                 "event": "Coffee/Tea break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "16:30",
@@ -66,7 +73,8 @@ var scheduleData = [
                 "event": "Opening remarks",
                 "talks": null,
                 "url": null,
-                "venue": "Lecture Hall"
+                "venue": "Lecture Hall",
+                "extra": null
             },
             {
                 "startTime": "16:45",
@@ -74,7 +82,8 @@ var scheduleData = [
                 "event": "Plenary \"The enchronic envelope: A privileged locus in the life cycles of language\" (Nick Enfield)",
                 "talks": null,
                 "url": "plenary.html?speaker=enfield",
-                "venue": "Lecture Hall"
+                "venue": "Lecture Hall",
+                "extra": "ASL interpretation"
             },
             {
                 "startTime": "17:45",
@@ -82,7 +91,8 @@ var scheduleData = [
                 "event": "Break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "18:00",
@@ -90,7 +100,8 @@ var scheduleData = [
                 "event": "Welcome reception",
                 "talks": null,
                 "url": null,
-                "venue": "Rooftop West Circle"
+                "venue": "Rooftop West Circle",
+                "extra": null
             }
         ]
     },
@@ -105,7 +116,8 @@ var scheduleData = [
                 "event": "Registration",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "08:45",
@@ -113,7 +125,8 @@ var scheduleData = [
                 "event": "Plenary \"Language vitality: Understudied in evolutionary linguistics\" (Salikoko Mufwene)",
                 "talks": null,
                 "url": "plenary.html?speaker=mufwene",
-                "venue": "Ballroom B"
+                "venue": "Ballroom B",
+                "extra": null
             },
             {
                 "startTime": "09:45",
@@ -121,7 +134,8 @@ var scheduleData = [
                 "event": "Coffee/Tea/Snacks break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "10:15",
@@ -190,7 +204,8 @@ var scheduleData = [
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "12:00",
@@ -198,7 +213,8 @@ var scheduleData = [
                 "event": "Lunch",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "13:30",
@@ -257,7 +273,8 @@ var scheduleData = [
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "14:30",
@@ -265,7 +282,8 @@ var scheduleData = [
                 "event": "Registration",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "14:45",
@@ -273,7 +291,8 @@ var scheduleData = [
                 "event": "Coffee/Tea break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "15:15",
@@ -281,7 +300,8 @@ var scheduleData = [
                 "event": "Plenary \"Silent gesture: Uncovering biases that shape linguistic conventions\" (Marieke Schouwstra)",
                 "talks": null,
                 "url": "plenary.html?speaker=schouwstra",
-                "venue": "Ballroom B"
+                "venue": "Ballroom B",
+                "extra": "ASL interpretation"
             },
             {
                 "startTime": "16:20",
@@ -289,7 +309,8 @@ var scheduleData = [
                 "event": "Flash talks",
                 "talks": null,
                 "url": null,
-                "venue": "Ballroom B"
+                "venue": "Ballroom B",
+                "extra": null
             },
             {
                 "startTime": "17:30",
@@ -297,7 +318,8 @@ var scheduleData = [
                 "event": "Poster reception",
                 "talks": null,
                 "url": null,
-                "venue": "Grand Terrace"
+                "venue": "Grand Terrace",
+                "extra": null
             }
         ]
     },
@@ -312,7 +334,8 @@ var scheduleData = [
                 "event": "Registration",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "08:45",
@@ -320,7 +343,8 @@ var scheduleData = [
                 "event": "Plenary \"Global and local studies of genetic and linguistic evolution\" (Nicole Creanza)",
                 "talks": null,
                 "url": "plenary.html?speaker=creanza",
-                "venue": "Ballroom B"
+                "venue": "Ballroom B",
+                "extra": null
             },
             {
                 "startTime": "09:45",
@@ -328,7 +352,8 @@ var scheduleData = [
                 "event": "Coffee/Tea/Snacks break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "10:15",
@@ -397,7 +422,8 @@ var scheduleData = [
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "12:00",
@@ -405,7 +431,8 @@ var scheduleData = [
                 "event": "Lunch",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "14:00",
@@ -474,7 +501,8 @@ var scheduleData = [
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "15:40",
@@ -482,7 +510,8 @@ var scheduleData = [
                 "event": "Coffee/Tea/Snacks break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "16:10",
@@ -541,7 +570,8 @@ var scheduleData = [
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "17:25",
@@ -549,7 +579,8 @@ var scheduleData = [
                 "event": "Break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "17:30",
@@ -557,7 +588,8 @@ var scheduleData = [
                 "event": "Business meeting",
                 "talks": null,
                 "url": null,
-                "venue": "Ballroom B"
+                "venue": "Ballroom B",
+                "extra": null
             },
             {
                 "startTime": "18:45",
@@ -565,7 +597,8 @@ var scheduleData = [
                 "event": "Conference dinner",
                 "talks": null,
                 "url": "https://evolang2024.ticketspice.com/evolang-2024-excursions",
-                "venue": "23 N. Pinckney St., Suite 210"
+                "venue": "23 N. Pinckney St., Suite 210",
+                "extra": null
             },
             {
                 "startTime": "21:00",
@@ -573,7 +606,8 @@ var scheduleData = [
                 "event": "Karaoke",
                 "talks": null,
                 "url": null,
-                "venue": "23 N. Pinckney St., Suite 210"
+                "venue": "23 N. Pinckney St., Suite 210",
+                "extra": null
             }
         ]
     },
@@ -588,7 +622,8 @@ var scheduleData = [
                 "event": "Plenary \"The context of transmission matters in the creation and evolution of language\" (Marie Coppola)",
                 "talks": null,
                 "url": "plenary.html?speaker=coppola",
-                "venue": "Ballroom B"
+                "venue": "Ballroom B",
+                "extra": "ASL interpretation"
             },
             {
                 "startTime": "10:00",
@@ -596,7 +631,8 @@ var scheduleData = [
                 "event": "Coffee/Tea/Snacks break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "10:30",
@@ -665,7 +701,8 @@ var scheduleData = [
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "12:15",
@@ -673,7 +710,8 @@ var scheduleData = [
                 "event": "Lunch",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "14:00",
@@ -742,7 +780,8 @@ var scheduleData = [
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "15:40",
@@ -750,7 +789,8 @@ var scheduleData = [
                 "event": "Break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "16:00",
@@ -758,7 +798,8 @@ var scheduleData = [
                 "event": "Award ceremony & Closing remarks",
                 "talks": null,
                 "url": null,
-                "venue": "Ballroom B"
+                "venue": "Ballroom B",
+                "extra": null
             }
         ]
     }

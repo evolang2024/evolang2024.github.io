@@ -42,7 +42,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "7": {
         "title": "Why are languages skewed? A Bayesian account for how skew and type count, but not entropy, facilitate rule generalisation",
@@ -79,7 +80,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "11:05",
-        "calendar_endTime": "11:30"
+        "calendar_endTime": "11:30",
+        "extra": null
     },
     "10": {
         "title": "An event-based model for linguistic phylogenetics",
@@ -118,7 +120,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "16:10",
-        "calendar_endTime": "16:35"
+        "calendar_endTime": "16:35",
+        "extra": null
     },
     "11": {
         "title": "The phoneme as cognitive technology",
@@ -155,7 +158,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "12": {
         "title": "Shared context helps maintain lexical variation",
@@ -190,7 +194,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "10:55",
-        "calendar_endTime": "11:20"
+        "calendar_endTime": "11:20",
+        "extra": null
     },
     "13": {
         "title": "The mind finds meaning in the sounds of language",
@@ -225,7 +230,8 @@ var papersData = {
         "license": null,
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "14": {
         "title": "Using genetics to investigate the evolution of language and speech: New findings on musicality and vocal acoustics",
@@ -260,7 +266,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "11:30",
-        "calendar_endTime": "11:55"
+        "calendar_endTime": "11:55",
+        "extra": null
     },
     "15": {
         "title": "Spontaneous emergence of large shared signalling systems with and without referential transmission",
@@ -295,7 +302,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "15:15",
-        "calendar_endTime": "15:40"
+        "calendar_endTime": "15:40",
+        "extra": null
     },
     "16": {
         "title": "Exploring systematic phonological cues in language: A comparative study across 60 languages from 13 families",
@@ -330,7 +338,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:50",
-        "calendar_endTime": "15:15"
+        "calendar_endTime": "15:15",
+        "extra": null
     },
     "17": {
         "title": "Representing space in silent gesture: Communicative contexts compared in Bali",
@@ -373,7 +382,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "14:25",
-        "calendar_endTime": "14:50"
+        "calendar_endTime": "14:50",
+        "extra": null
     },
     "18": {
         "title": "Compression in killer whale pulsed calls",
@@ -412,7 +422,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "10:40",
-        "calendar_endTime": "11:05"
+        "calendar_endTime": "11:05",
+        "extra": null
     },
     "19": {
         "title": "Natural-language-like systematicity from a constraint on excess entropy",
@@ -445,7 +456,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "13:55",
-        "calendar_endTime": "14:20"
+        "calendar_endTime": "14:20",
+        "extra": null
     },
     "20": {
         "title": "Gender differences in linguistic complexity through time",
@@ -478,7 +490,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "11:05",
-        "calendar_endTime": "11:30"
+        "calendar_endTime": "11:30",
+        "extra": null
     },
     "21": {
         "title": "Survival of the wittiest (not friendliest): The art and science of human evolution",
@@ -511,7 +524,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "10:15",
-        "calendar_endTime": "10:40"
+        "calendar_endTime": "10:40",
+        "extra": null
     },
     "22": {
         "title": "Great ape interaction: Ladyginian but not Gricean",
@@ -546,7 +560,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "16:35",
-        "calendar_endTime": "17:00"
+        "calendar_endTime": "17:00",
+        "extra": null
     },
     "23": {
         "title": "Scalar morphology: How linguistic complexity can become redundant, yet be actively maintained by analogy",
@@ -583,7 +598,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "13:30",
-        "calendar_endTime": "13:55"
+        "calendar_endTime": "13:55",
+        "extra": null
     },
     "24": {
         "title": "Neural repurposing as a driving force in the Baldwinian coevolution of emotional and propositional communications",
@@ -616,7 +632,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "11:30",
-        "calendar_endTime": "11:55"
+        "calendar_endTime": "11:55",
+        "extra": null
     },
     "25": {
         "title": "Social ambiguity and multimodal interactions in Guinea baboons",
@@ -663,7 +680,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "26": {
         "title": "Investigating the diachronic development of phonological complexity as a latent process \u2013 A computational study using deep neural networks",
@@ -696,7 +714,8 @@ var papersData = {
         "license": null,
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "27": {
         "title": "Pointing prevents the emergence of symbolic referential signals: Empirical tests in a common task framework",
@@ -733,7 +752,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "14:00",
-        "calendar_endTime": "14:25"
+        "calendar_endTime": "14:25",
+        "extra": null
     },
     "28": {
         "title": "The evolution of language and human rationality",
@@ -766,7 +786,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "10:40",
-        "calendar_endTime": "11:05"
+        "calendar_endTime": "11:05",
+        "extra": null
     },
     "29": {
         "title": "Multivariate genome-wide association study of language-related human brain white matter tracts demonstrates high polygenicity",
@@ -799,7 +820,8 @@ var papersData = {
         "license": null,
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "13:30",
-        "calendar_endTime": "13:55"
+        "calendar_endTime": "13:55",
+        "extra": null
     },
     "30": {
         "title": "The study of sign languages and gesture at Evolang conferences",
@@ -834,7 +856,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "10:15",
-        "calendar_endTime": "10:40"
+        "calendar_endTime": "10:40",
+        "extra": "ASL interpretation"
     },
     "31": {
         "title": "Cognitive biases explain constrained variation in noun classification",
@@ -871,7 +894,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "14:00",
-        "calendar_endTime": "14:25"
+        "calendar_endTime": "14:25",
+        "extra": null
     },
     "32": {
         "title": "Gesture as precursor to language: Evidence from bimodal bilingualism",
@@ -906,7 +930,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "34": {
         "title": "Multilevel phylogenetic inference of harmony in Indo-European",
@@ -943,7 +968,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "11:30",
-        "calendar_endTime": "11:55"
+        "calendar_endTime": "11:55",
+        "extra": null
     },
     "35": {
         "title": "A complex systems perspective on language evolution",
@@ -976,7 +1002,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "36": {
         "title": "Semantics-based spontaneous compounding emergence in artificial sign languages",
@@ -1011,7 +1038,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "11:05",
-        "calendar_endTime": "11:30"
+        "calendar_endTime": "11:30",
+        "extra": "ASL interpretation"
     },
     "37": {
         "title": "The evolution of reference",
@@ -1044,7 +1072,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "16:10",
-        "calendar_endTime": "16:35"
+        "calendar_endTime": "16:35",
+        "extra": null
     },
     "38": {
         "title": "Fixation times for language evolution in social networks",
@@ -1077,7 +1106,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "11:05",
-        "calendar_endTime": "11:30"
+        "calendar_endTime": "11:30",
+        "extra": null
     },
     "39": {
         "title": "Form and function in the evolution of symbolic artifacts: A transmission chain study",
@@ -1120,7 +1150,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "10:30",
-        "calendar_endTime": "10:55"
+        "calendar_endTime": "10:55",
+        "extra": null
     },
     "41": {
         "title": "Some remarks on the distinction between 'Gricean' and 'Ladyginian' communication",
@@ -1153,7 +1184,8 @@ var papersData = {
         "license": null,
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "17:00",
-        "calendar_endTime": "17:25"
+        "calendar_endTime": "17:25",
+        "extra": null
     },
     "42": {
         "title": "Communicative efficiency is present in young children and becomes more adult-like with age",
@@ -1192,7 +1224,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "13:55",
-        "calendar_endTime": "14:20"
+        "calendar_endTime": "14:20",
+        "extra": null
     },
     "44": {
         "title": "Simulating the spread and development of protolanguages",
@@ -1225,7 +1258,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "17:00",
-        "calendar_endTime": "17:25"
+        "calendar_endTime": "17:25",
+        "extra": null
     },
     "46": {
         "title": "Does syntactic alignment predict cooperation? A corpus study of the Prisoner's Dilemma",
@@ -1272,7 +1306,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "47": {
         "title": "Movement-related muscle activity and kinetics affect vocalization amplitude",
@@ -1311,7 +1346,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "10:55",
-        "calendar_endTime": "11:20"
+        "calendar_endTime": "11:20",
+        "extra": null
     },
     "48": {
         "title": "Testing the role of minorities in shaping language evolution: An experimental study",
@@ -1350,7 +1386,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "10:40",
-        "calendar_endTime": "11:05"
+        "calendar_endTime": "11:05",
+        "extra": null
     },
     "51": {
         "title": "Grammar change through cultural transmission",
@@ -1391,7 +1428,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "10:15",
-        "calendar_endTime": "10:40"
+        "calendar_endTime": "10:40",
+        "extra": null
     },
     "52": {
         "title": "Call combinations in bonobos and chimpanzees",
@@ -1436,7 +1474,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "10:55",
-        "calendar_endTime": "11:20"
+        "calendar_endTime": "11:20",
+        "extra": null
     },
     "53": {
         "title": "The evolution of silence: The role of inter-turn speech pauses in the co-evolution of language and cooperation",
@@ -1475,7 +1514,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "11:05",
-        "calendar_endTime": "11:30"
+        "calendar_endTime": "11:30",
+        "extra": null
     },
     "54": {
         "title": "What phonetics has to say about Neanderthal (<i>H. neanderthalensis</i>) speech capacities",
@@ -1510,7 +1550,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "16:10",
-        "calendar_endTime": "16:35"
+        "calendar_endTime": "16:35",
+        "extra": null
     },
     "55": {
         "title": "The relation between European colonialism and linguistic diversity",
@@ -1549,7 +1590,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "56": {
         "title": "Communicative efficiency and social biases modulate language learning in autistic and allistic individuals",
@@ -1586,7 +1628,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "10:15",
-        "calendar_endTime": "10:40"
+        "calendar_endTime": "10:40",
+        "extra": null
     },
     "57": {
         "title": "The role of gender, personality traits, and social biases in shaping linguistic accommodation: An experimental approach",
@@ -1623,7 +1666,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "11:45",
-        "calendar_endTime": "12:10"
+        "calendar_endTime": "12:10",
+        "extra": null
     },
     "58": {
         "title": "Towards computational detection of metaphoric change in language evolution via word embeddings",
@@ -1664,7 +1708,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:00",
-        "calendar_endTime": "14:25"
+        "calendar_endTime": "14:25",
+        "extra": null
     },
     "59": {
         "title": "Learnability effects in children: Are more structured languages easier to learn?",
@@ -1703,7 +1748,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "13:30",
-        "calendar_endTime": "13:55"
+        "calendar_endTime": "13:55",
+        "extra": null
     },
     "60": {
         "title": "From speech to primate vocalizations: Self-supervised deep learning as a comparative approach",
@@ -1742,7 +1788,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "11:45",
-        "calendar_endTime": "12:10"
+        "calendar_endTime": "12:10",
+        "extra": null
     },
     "61": {
         "title": "Mechanisms underlying alarm calling behaviour in bonobos (<i>Pan paniscus</i>)",
@@ -1789,7 +1836,8 @@ var papersData = {
         "license": null,
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "10:30",
-        "calendar_endTime": "10:55"
+        "calendar_endTime": "10:55",
+        "extra": null
     },
     "62": {
         "title": "The power of linguistic similarity for unlocking cooperation - Evidence from syntax and pitch experiments",
@@ -1830,7 +1878,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "11:20",
-        "calendar_endTime": "11:45"
+        "calendar_endTime": "11:45",
+        "extra": null
     },
     "63": {
         "title": "The role of linguistically encoded emotional characteristics for cooperativeness in a one-shot Prisoner's Dilemma",
@@ -1875,7 +1924,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:50",
-        "calendar_endTime": "15:15"
+        "calendar_endTime": "15:15",
+        "extra": null
     },
     "64": {
         "title": "Chain shifts and transphonologizations are driven by homophony avoidance",
@@ -1910,7 +1960,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "10:55",
-        "calendar_endTime": "11:20"
+        "calendar_endTime": "11:20",
+        "extra": null
     },
     "65": {
         "title": "Languages of esoteric societies provide a window into a previous stage in the evolution of human languages",
@@ -1947,7 +1998,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "16:35",
-        "calendar_endTime": "17:00"
+        "calendar_endTime": "17:00",
+        "extra": null
     },
     "66": {
         "title": "The Mekong-Mamberamo mystery",
@@ -1984,7 +2036,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "17:00",
-        "calendar_endTime": "17:25"
+        "calendar_endTime": "17:25",
+        "extra": null
     },
     "67": {
         "title": "Feature transmission within concept transmission",
@@ -2019,7 +2072,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "10:40",
-        "calendar_endTime": "11:05"
+        "calendar_endTime": "11:05",
+        "extra": null
     },
     "68": {
         "title": "The evolution of phonological dispersion: New experimental results",
@@ -2054,7 +2108,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "11:20",
-        "calendar_endTime": "11:45"
+        "calendar_endTime": "11:45",
+        "extra": null
     },
     "69": {
         "title": "Uncommon sounds for common words: Balancing phonemic type and token frequency within words for a higher entropy lexicon",
@@ -2089,7 +2144,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "10:30",
-        "calendar_endTime": "10:55"
+        "calendar_endTime": "10:55",
+        "extra": null
     },
     "70": {
         "title": "The role of audience design in an emerging language system: Evidence from a novel signaling paradigm",
@@ -2124,7 +2180,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "71": {
         "title": "Which came first\u2014iconicity or symbolism?",
@@ -2163,7 +2220,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "14:20",
-        "calendar_endTime": "14:45"
+        "calendar_endTime": "14:45",
+        "extra": "ASL interpretation"
     },
     "73": {
         "title": "Self-domestication traits in vocal learning mammals",
@@ -2210,7 +2268,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:00",
-        "calendar_endTime": "14:25"
+        "calendar_endTime": "14:25",
+        "extra": null
     },
     "75": {
         "title": "The cultural evolution of informative writing systems",
@@ -2245,7 +2304,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "11:20",
-        "calendar_endTime": "11:45"
+        "calendar_endTime": "11:45",
+        "extra": null
     },
     "76": {
         "title": "Compositionality as one of the enabling factors to communicate conceptualized meaning",
@@ -2282,7 +2342,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "77": {
         "title": "The cognitive requirements for developing a multimodal communication system: Evidence from experimental semiotics and comparative cognition",
@@ -2321,7 +2382,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "79": {
         "title": "Simplifications made early in learning can reshape language complexity",
@@ -2354,7 +2416,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "16:10",
-        "calendar_endTime": "16:35"
+        "calendar_endTime": "16:35",
+        "extra": null
     },
     "80": {
         "title": "Emergent grammar from a minimal cognitive architecture",
@@ -2389,7 +2452,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:50",
-        "calendar_endTime": "15:15"
+        "calendar_endTime": "15:15",
+        "extra": null
     },
     "81": {
         "title": "The Dothraki experiment: Network topology and the linguistic niche hypothesis",
@@ -2426,7 +2490,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "16:35",
-        "calendar_endTime": "17:00"
+        "calendar_endTime": "17:00",
+        "extra": null
     },
     "82": {
         "title": "Artifacts, analogy, and metaphor: Inferring the cognitive foundations of metaphor from an archaeological and comparative perspective",
@@ -2463,7 +2528,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "11:45",
-        "calendar_endTime": "12:10"
+        "calendar_endTime": "12:10",
+        "extra": null
     },
     "83": {
         "title": "Entrenchment, conventionalization and cumulative culture: A usage-based perspective on language evolution",
@@ -2500,7 +2566,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "84": {
         "title": "Using the scale of innovation to study the evolution of language",
@@ -2533,7 +2600,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "15:15",
-        "calendar_endTime": "15:40"
+        "calendar_endTime": "15:40",
+        "extra": null
     },
     "85": {
         "title": "Do semiotics experiments really show the \"superiority\" of gesture over vocalization for iconic representation? And even if they do, does it matter?",
@@ -2568,7 +2636,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "10:15",
-        "calendar_endTime": "10:40"
+        "calendar_endTime": "10:40",
+        "extra": null
     },
     "86": {
         "title": "Gender balance in evolutionary linguistics",
@@ -2603,7 +2672,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "87": {
         "title": "Testing the linguistic niche hypothesis in large language models with a multilingual Wug Test",
@@ -2640,7 +2710,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "17:00",
-        "calendar_endTime": "17:25"
+        "calendar_endTime": "17:25",
+        "extra": null
     },
     "88": {
         "title": "Cross-population variation in usage of a call combination: Evidence of signal usage optionality in wild bonobos",
@@ -2677,7 +2748,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "11:20",
-        "calendar_endTime": "11:45"
+        "calendar_endTime": "11:45",
+        "extra": null
     },
     "89": {
         "title": "Metaphor, emotion, and the evolved sensory interface",
@@ -2712,7 +2784,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "90": {
         "title": "The role of generalisation in an Adaptive Resonance Theory model of learning inflection classes",
@@ -2749,7 +2822,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "92": {
         "title": "A tool for exploring building blocks in speech and animal vocalizations",
@@ -2784,7 +2858,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "13:55",
-        "calendar_endTime": "14:20"
+        "calendar_endTime": "14:20",
+        "extra": null
     },
     "93": {
         "title": "Rats (<i>Rattus norvegicus</i>) detect temporal rather than melodic changes",
@@ -2819,7 +2894,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "94": {
         "title": "Systemic structure of kinship is shaped by evolutionary processes",
@@ -2858,7 +2934,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "16:35",
-        "calendar_endTime": "17:00"
+        "calendar_endTime": "17:00",
+        "extra": null
     },
     "96": {
         "title": "Communication and linguistic structure in collaborative human-machine language evolution",
@@ -2895,7 +2972,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "14:25",
-        "calendar_endTime": "14:50"
+        "calendar_endTime": "14:50",
+        "extra": null
     },
     "98": {
         "title": "3SG is the most conservative subject marker across languages: An exploratory study of rate of change",
@@ -2932,7 +3010,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "10:40",
-        "calendar_endTime": "11:05"
+        "calendar_endTime": "11:05",
+        "extra": null
     },
     "99": {
         "title": "Finding proportionality in computational approaches to morphological change",
@@ -2969,7 +3048,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "100": {
         "title": "Simulating dependency length minimization using neural-network based learning and communication",
@@ -3010,7 +3090,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "14:50",
-        "calendar_endTime": "15:15"
+        "calendar_endTime": "15:15",
+        "extra": null
     },
     "101": {
         "title": "What's the deal with large language models? A comparative evolutionary perspective",
@@ -3045,7 +3126,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:00",
-        "calendar_endTime": "14:25"
+        "calendar_endTime": "14:25",
+        "extra": null
     },
     "102": {
         "title": "Phonetic properties of chimpanzee, gorilla, and orangutan hoots tell a uniform story \u2013 and point to new frontiers",
@@ -3098,7 +3180,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "103": {
         "title": "Seeing signs of morphology - Form-meaning relations in British Sign Language morphology are iconic for hearing non-signers",
@@ -3137,7 +3220,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "10:40",
-        "calendar_endTime": "11:05"
+        "calendar_endTime": "11:05",
+        "extra": "ASL interpretation"
     },
     "104": {
         "title": "Iconicity and compositionality in emerging vocal communication systems: A Virtual Reality approach",
@@ -3184,7 +3268,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "10:40",
-        "calendar_endTime": "11:05"
+        "calendar_endTime": "11:05",
+        "extra": null
     },
     "105": {
         "title": "Alignment vs conflict of interests in language evolution: Two pathways to high-level mindreading",
@@ -3221,7 +3306,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "106": {
         "title": "Defining the building blocks of pragmatic competence: The social context of language evolution",
@@ -3260,7 +3346,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "10:15",
-        "calendar_endTime": "10:40"
+        "calendar_endTime": "10:40",
+        "extra": null
     },
     "107": {
         "title": "Morphological analysis of vocal communication in <i>Homo naledi</i>",
@@ -3293,7 +3380,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "14:20",
-        "calendar_endTime": "14:45"
+        "calendar_endTime": "14:45",
+        "extra": null
     },
     "108": {
         "title": "Exploring the influence of word definition on AI-generated facial representations",
@@ -3334,7 +3422,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "109": {
         "title": "Vocal functional flexibility in a songbird",
@@ -3371,7 +3460,8 @@ var papersData = {
         "license": null,
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "110": {
         "title": "A feedback-facilitated iterated learning experiment",
@@ -3406,7 +3496,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "111": {
         "title": "Exploring the content of casual Polish conversations",
@@ -3451,7 +3542,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "112": {
         "title": "Balancing regularization and variation: The roles of priming and motivatedness",
@@ -3486,7 +3578,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "10:15",
-        "calendar_endTime": "10:40"
+        "calendar_endTime": "10:40",
+        "extra": null
     },
     "113": {
         "title": "Exploring the sound structure of novel vocalizations",
@@ -3531,7 +3624,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "14:20",
-        "calendar_endTime": "14:45"
+        "calendar_endTime": "14:45",
+        "extra": null
     },
     "114": {
         "title": "Locating the emergence of hominin pragmatic competence",
@@ -3564,7 +3658,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "10:40",
-        "calendar_endTime": "11:05"
+        "calendar_endTime": "11:05",
+        "extra": null
     },
     "115": {
         "title": "Discreteness and systematicity emerge to facilitate communication in a continuous signal-meaning space",
@@ -3605,7 +3700,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:50",
-        "calendar_endTime": "15:15"
+        "calendar_endTime": "15:15",
+        "extra": null
     },
     "116": {
         "title": "The development of trisynaptic pathway in the hippocampus and the milestone of language development",
@@ -3644,7 +3740,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "13:55",
-        "calendar_endTime": "14:20"
+        "calendar_endTime": "14:20",
+        "extra": null
     },
     "118": {
         "title": "Learning pressures and inductive biases in emergent communication: Parallels between humans and deep neural networks",
@@ -3681,7 +3778,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "15:15",
-        "calendar_endTime": "15:40"
+        "calendar_endTime": "15:40",
+        "extra": null
     },
     "121": {
         "title": "Reconstructing a protolanguage",
@@ -3716,7 +3814,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "11:05",
-        "calendar_endTime": "11:30"
+        "calendar_endTime": "11:30",
+        "extra": null
     },
     "122": {
         "title": "Evolving a higher efficiency lexicon: High resource-cost sounds are preferentially allocated to word beginnings and stressed syllables",
@@ -3751,7 +3850,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "11:45",
-        "calendar_endTime": "12:10"
+        "calendar_endTime": "12:10",
+        "extra": null
     },
     "123": {
         "title": "Middle pleistocene humans in Europe: Cognition before Neanderthals",
@@ -3784,7 +3884,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "124": {
         "title": "The iconic affordances of gesture and vocalization in emerging languages in the lab",
@@ -3823,7 +3924,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "11:05",
-        "calendar_endTime": "11:30"
+        "calendar_endTime": "11:30",
+        "extra": null
     },
     "125": {
         "title": "Obsolescence: A missing piece in the puzzle of polysemy and time",
@@ -3856,7 +3958,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "11:05",
-        "calendar_endTime": "11:30"
+        "calendar_endTime": "11:30",
+        "extra": null
     },
     "126": {
         "title": "Attention soliciting behaviour in the communication of nine primate species",
@@ -3895,7 +3998,8 @@ var papersData = {
         "license": null,
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:25",
-        "calendar_endTime": "14:50"
+        "calendar_endTime": "14:50",
+        "extra": null
     },
     "127": {
         "title": "Word-like units emerge through iterated sequence learning",
@@ -3932,7 +4036,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:00",
-        "calendar_endTime": "14:25"
+        "calendar_endTime": "14:25",
+        "extra": null
     },
     "128": {
         "title": "The roots of facial expressions: Pragmatic and semantic facial expressions comprise biologically-rooted facial movements",
@@ -3977,7 +4082,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "11:30",
-        "calendar_endTime": "11:55"
+        "calendar_endTime": "11:55",
+        "extra": null
     },
     "129": {
         "title": "Differences in distributional structure can lead to differences in similarity biases",
@@ -4014,7 +4120,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "14:25",
-        "calendar_endTime": "14:50"
+        "calendar_endTime": "14:50",
+        "extra": null
     },
     "132": {
         "title": "Do dogs really get the point?",
@@ -4057,7 +4164,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "14:50",
-        "calendar_endTime": "15:15"
+        "calendar_endTime": "15:15",
+        "extra": null
     },
     "133": {
         "title": "The emergence of non-absolute synonymy: An iterated-learning experiment",
@@ -4092,7 +4200,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "14:50",
-        "calendar_endTime": "15:15"
+        "calendar_endTime": "15:15",
+        "extra": null
     },
     "134": {
         "title": "Simplicity and informativeness in the evolution of combinatorial structure",
@@ -4129,7 +4238,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "13:30",
-        "calendar_endTime": "13:55"
+        "calendar_endTime": "13:55",
+        "extra": null
     },
     "135": {
         "title": "Visual communication in heterogeneous populations of artificial communicating agents",
@@ -4162,7 +4272,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "14:00",
-        "calendar_endTime": "14:25"
+        "calendar_endTime": "14:25",
+        "extra": null
     },
     "136": {
         "title": "A cautionary note on sociodemographic predictors of linguistic complexity: Different measures and different analyses lead to different conclusions",
@@ -4197,7 +4308,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "137": {
         "title": "Noisy population dynamics lead to efficiently compressed vocabularies",
@@ -4236,7 +4348,8 @@ var papersData = {
         "license": null,
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "11:30",
-        "calendar_endTime": "11:55"
+        "calendar_endTime": "11:55",
+        "extra": null
     },
     "138": {
         "title": "From play pants to pragmatics: Laughter's linguistic leap",
@@ -4273,7 +4386,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "139": {
         "title": "Simulating representational communication in vervet monkeys using agent-based simulation",
@@ -4308,7 +4422,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "140": {
         "title": "Compositionality and algorithmic complexity in neural networks",
@@ -4343,7 +4458,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "141": {
         "title": "Why are some words more frequent than others? New insights from network science",
@@ -4380,7 +4496,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "14:20",
-        "calendar_endTime": "14:45"
+        "calendar_endTime": "14:45",
+        "extra": null
     },
     "142": {
         "title": "Starlings recognize simple dependency patterns",
@@ -4417,7 +4534,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:25",
-        "calendar_endTime": "14:50"
+        "calendar_endTime": "14:50",
+        "extra": null
     },
     "143": {
         "title": "Past, present, and future: A literature review of the genetic research into the evolution of human language",
@@ -4450,7 +4568,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "144": {
         "title": "The role of shared labels and shared experiences in representational alignment",
@@ -4489,7 +4608,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "10:30",
-        "calendar_endTime": "10:55"
+        "calendar_endTime": "10:55",
+        "extra": null
     },
     "145": {
         "title": "Diversity and universals in culturally evolved sound systems across species: A complex adaptive system account",
@@ -4526,7 +4646,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "10:15",
-        "calendar_endTime": "10:40"
+        "calendar_endTime": "10:40",
+        "extra": null
     },
     "146": {
         "title": "Failures and successes in learning a core conceptual distinction from the statistics of language",
@@ -4563,7 +4684,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:25",
-        "calendar_endTime": "14:50"
+        "calendar_endTime": "14:50",
+        "extra": null
     },
     "147": {
         "title": "Discursive distinctiveness explains lexical differences between languages",
@@ -4596,7 +4718,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "15:15",
-        "calendar_endTime": "15:40"
+        "calendar_endTime": "15:40",
+        "extra": null
     },
     "148": {
         "title": "How many words is a picture (or definition) worth? A distributional perspective on learning and generalizing new word meanings",
@@ -4631,7 +4754,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "15:15",
-        "calendar_endTime": "15:40"
+        "calendar_endTime": "15:40",
+        "extra": null
     },
     "149": {
         "title": "When a fishing rod becomes a tyre: On gesture comprehension in 2-to-3 years old transition in children",
@@ -4666,7 +4790,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     },
     "150": {
         "title": "Who benefits from redundancy in learning noun class systems?",
@@ -4701,7 +4826,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "11:30",
-        "calendar_endTime": "11:55"
+        "calendar_endTime": "11:55",
+        "extra": null
     },
     "153": {
         "title": "On the origins of great ape gestural forms",
@@ -4738,7 +4864,8 @@ var papersData = {
         "license": null,
         "calendar_startDate": "2024-05-21",
         "calendar_startTime": "15:15",
-        "calendar_endTime": "15:40"
+        "calendar_endTime": "15:40",
+        "extra": null
     },
     "154": {
         "title": "The evolution of gender-differentiated kinship terms",
@@ -4779,7 +4906,8 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:25",
-        "calendar_endTime": "14:50"
+        "calendar_endTime": "14:50",
+        "extra": null
     },
     "155": {
         "title": "The career of verb metaphor: Language evolution parallels online processing differences between nouns and verbs",
@@ -4814,6 +4942,7 @@ var papersData = {
         "license": "CC BY-NC-ND 4.0",
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "17:30",
-        "calendar_endTime": "17:55"
+        "calendar_endTime": "17:55",
+        "extra": null
     }
 }

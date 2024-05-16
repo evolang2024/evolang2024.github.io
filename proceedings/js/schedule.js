@@ -38,10 +38,18 @@ function eventRow(timeSlot) {
                 )
             ).append(
                 $("<div>", {"class": "col-md-6 col-sm-6"}).append(
-                    $("<p>").append(timeSlot.url != null ? 
+                    $("<p>", {"class": "stitle"}).append(timeSlot.url != null ? 
                         $("<a>", {"href": timeSlot.url}).text(timeSlot.event) :
                         document.createTextNode(timeSlot.event)
                     )
+                ).append(
+                    timeSlot.extra != null ?
+                    $("<p>", {"class": "text-uppercase probootstrap-uppercase"}).append(
+                        $("<i>").text(
+                            timeSlot.extra
+                        )
+                    ) :
+                    $()
                 )
             ).append(
                 $("<div>", {"class": "col-md-4 col-sm-4"}).append(
@@ -68,7 +76,7 @@ function talkRow(talks, slot) {
     
     slot.papers.forEach((paper, i) => {
         var paperInfo = papersData[paper];
-        var track_p_xs = $("<p>", {"class": "text-uppercase probootstrap-uppercase visible-xs"}).append(
+        var track_p_xs = $("<p>", {"class": "text-uppercase probootstrap-uppercase"}).append(
                             $("<i>").text(
                                 talks.tracks[i].name
                             )
@@ -97,6 +105,14 @@ function talkRow(talks, slot) {
                     $("<p>", {"class": "authsub"}).text(
                         paperInfo.authors.join(", ")
                     )
+                ).append(
+                    paperInfo.extra != null ?
+                    $("<p>", {"class": "text-uppercase probootstrap-uppercase"}).append(
+                        $("<i>").text(
+                            paperInfo.extra
+                        )
+                    ) :
+                    $()
                 )
             ) :
             $("<p>")
