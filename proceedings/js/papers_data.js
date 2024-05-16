@@ -4780,5 +4780,40 @@ var papersData = {
         "calendar_startDate": "2024-05-20",
         "calendar_startTime": "14:25",
         "calendar_endTime": "14:50"
+    },
+    "155": {
+        "title": "The career of verb metaphor: Language evolution parallels online processing differences between nouns and verbs",
+        "authors": [
+            "Dedre Gentner",
+            "Daniel King"
+        ],
+        "correspemails": [
+            "gentner@northwestern.edu",
+            null
+        ],
+        "download": "papers/evolang15_paper_155.pdf",
+        "supplementaryMaterial": null,
+        "citations": {
+            "bibtex": "bib/evolang15_155.bib",
+            "ris": "bib/evolang15_155.ris",
+            "copy": "Gentner, D. & King, D. (2024). The career of verb metaphor: Language evolution parallels online processing differences between nouns and verbs. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
+        },
+        "sharing": {
+            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+career+of+verb+metaphor%3A+Language+evolution+parallels+online+processing+differences+between+nouns+and+verbs%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D155",
+            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D155&quote=Check+out+this+paper+from+Evolang+XV%3A+%22The+career+of+verb+metaphor%3A+Language+evolution+parallels+online+processing+differences+between+nouns+and+verbs%22+%23EvolangXV"
+        },
+        "summary": "This paper explores the relationship between online sentence processing and meaning change over time. Specifically, we test the hypothesis, first proposed in Bowdle & Gentner\u2019s (2005) Career of Metaphor, that novel metaphoric extensions may become new conventionalized word senses over time, driving polysemy. Here we examine whether identified differences between nouns and verbs in online sentence processing\u2014the verb mutability effect\u2014are paralleled by differences in the lexicon, as would be expected if online processing drives lexical changes over time. In Experiment 1, we found that verbs are more polysemous than nouns overall. In Experiment 2, we found that verb senses are rated as being significantly more metaphoric than noun senses, controlling for frequency band; in Experiment 3, we found that historically newer word senses are generally perceived as being more metaphoric than older word senses. Implications for language evolution are discussed.",
+        "keywords": [
+            "verb metaphor, polysemy, evolution of meaning"
+        ],
+        "weburl": "paper.html?nr=155",
+        "date": "Sunday, May 19, 2024",
+        "time": "17:30",
+        "location": "Grand Terrace",
+        "prestype": "poster",
+        "license": "CC BY-NC-ND 4.0",
+        "calendar_startDate": "2024-05-19",
+        "calendar_startTime": "17:30",
+        "calendar_endTime": "17:55"
     }
 }
