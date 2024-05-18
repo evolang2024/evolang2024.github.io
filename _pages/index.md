@@ -99,7 +99,7 @@ prospects and pitfalls (9:15am-12pm; 1:15pm-4pm - Meeting Room QR)'
         organizers: ' Heidi Lyn (hlyn@southalabama.edu), Erica Cartmill (cartmill@ucla.edu)'
         btn_name: 'Info and schedule'
         btn_href: 'https://evolang2024.github.io/workshop_emolang/'
-      - name: 'What allows human language? a multidisciplinary perspective (1:15pm-4pm - Meeting Room OP)'
+      - name: 'What allows human language? a multidisciplinary perspective (1:15pm-4pm - Meeting Room MN)'
         organizers: 'Nicolas Claidière (nicolas.claidiere@cnrs.fr). Speakers include Inbal Arnon, Tecumseh Fitch, Simon Kirby, Susan Goldin Meadow, Simon Fisher, Limor Raviv, Kazuo Okanoya, Lucie Wolters, and Liran Carmel'
         btn_name: 'Info and schedule'
         btn_href: https://docs.google.com/document/d/11ypSUdU4dW37-UaVGD0-LfnYITy-4yjthOIL9NtWPcs/
