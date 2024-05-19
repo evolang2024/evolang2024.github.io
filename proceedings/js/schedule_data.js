@@ -188,7 +188,7 @@ var scheduleData = [
                                 36,
                                 121,
                                 20,
-                                38
+                                null
                             ]
                         },
                         {
@@ -551,7 +551,7 @@ var scheduleData = [
                             "startTime": "16:35",
                             "endTime": "17:00",
                             "papers": [
-                                null,
+                                38,
                                 65,
                                 22,
                                 94

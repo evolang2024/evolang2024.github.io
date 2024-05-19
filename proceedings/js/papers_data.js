@@ -1099,14 +1099,14 @@ var papersData = {
             "cultural evolution, social networks, fixation time, fractional derivative"
         ],
         "weburl": "paper.html?nr=38",
-        "date": "Sunday, May 19, 2024",
-        "time": "11:05",
-        "location": "Ballroom D (Track 4)",
+        "date": "Monday, May 20, 2024",
+        "time": "16:35",
+        "location": "Ballroom A (Track 1)",
         "prestype": "talk",
         "license": "CC BY-NC-ND 4.0",
-        "calendar_startDate": "2024-05-19",
-        "calendar_startTime": "11:05",
-        "calendar_endTime": "11:30",
+        "calendar_startDate": "2024-05-20",
+        "calendar_startTime": "16:35",
+        "calendar_endTime": "17:00",
         "extra": null
     },
     "39": {
