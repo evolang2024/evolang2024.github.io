@@ -7,10 +7,20 @@ var scheduleData = [
             {
                 "startTime": "08:45",
                 "endTime": "09:15",
+                "event": "Coffee/Tea break",
+                "talks": null,
+                "url": null,
+                "venue": "",
+                "extra": null
+            },
+            {
+                "startTime": "08:45",
+                "endTime": "12:00",
                 "event": "Registration",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "09:15",
@@ -18,7 +28,8 @@ var scheduleData = [
                 "event": "Workshops \u2013 morning",
                 "talks": null,
                 "url": "https://evolang2024.github.io/#workshops-section",
-                "venue": "Rooms KL, OP, MN, QR"
+                "venue": "Rooms KL, OP, MN, QR",
+                "extra": null
             },
             {
                 "startTime": "12:00",
@@ -26,7 +37,8 @@ var scheduleData = [
                 "event": "Lunch",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "13:15",
@@ -34,15 +46,26 @@ var scheduleData = [
                 "event": "Workshops \u2013 afternoon",
                 "talks": null,
                 "url": "https://evolang2024.github.io/#workshops-section",
-                "venue": "Rooms KL, OP, MN, QR"
+                "venue": "Rooms KL, OP, MN, QR",
+                "extra": null
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "16:45",
+                "event": "Registration",
+                "talks": null,
+                "url": null,
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "16:00",
                 "endTime": "16:30",
-                "event": "Coffee break",
+                "event": "Coffee/Tea break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "16:30",
@@ -50,7 +73,8 @@ var scheduleData = [
                 "event": "Opening remarks",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "Lecture Hall",
+                "extra": null
             },
             {
                 "startTime": "16:45",
@@ -58,7 +82,8 @@ var scheduleData = [
                 "event": "Plenary \"The enchronic envelope: A privileged locus in the life cycles of language\" (Nick Enfield)",
                 "talks": null,
                 "url": "plenary.html?speaker=enfield",
-                "venue": "Lecture Hall"
+                "venue": "Lecture Hall",
+                "extra": "ASL interpretation"
             },
             {
                 "startTime": "17:45",
@@ -66,7 +91,8 @@ var scheduleData = [
                 "event": "Break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "18:00",
@@ -74,7 +100,8 @@ var scheduleData = [
                 "event": "Welcome reception",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "Rooftop West Circle",
+                "extra": null
             }
         ]
     },
@@ -85,11 +112,12 @@ var scheduleData = [
         "events": [
             {
                 "startTime": "08:00",
-                "endTime": "14:00",
+                "endTime": "12:00",
                 "event": "Registration",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "08:45",
@@ -97,15 +125,17 @@ var scheduleData = [
                 "event": "Plenary \"Language vitality: Understudied in evolutionary linguistics\" (Salikoko Mufwene)",
                 "talks": null,
                 "url": "plenary.html?speaker=mufwene",
-                "venue": "Ballroom A"
+                "venue": "Ballroom B",
+                "extra": null
             },
             {
                 "startTime": "09:45",
                 "endTime": "10:15",
-                "event": "Coffee break",
+                "event": "Coffee/Tea/Snacks break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "10:15",
@@ -114,19 +144,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "1A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "1B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "1C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "1D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
@@ -136,9 +166,9 @@ var scheduleData = [
                             "endTime": "10:40",
                             "papers": [
                                 30,
-                                112,
                                 21,
-                                56
+                                56,
+                                112
                             ]
                         },
                         {
@@ -146,9 +176,9 @@ var scheduleData = [
                             "endTime": "11:05",
                             "papers": [
                                 103,
-                                67,
                                 28,
-                                48
+                                48,
+                                67
                             ]
                         },
                         {
@@ -156,9 +186,9 @@ var scheduleData = [
                             "endTime": "11:30",
                             "papers": [
                                 36,
-                                38,
                                 121,
-                                20
+                                20,
+                                null
                             ]
                         },
                         {
@@ -166,15 +196,16 @@ var scheduleData = [
                             "endTime": "11:55",
                             "papers": [
                                 null,
-                                137,
                                 14,
-                                150
+                                150,
+                                137
                             ]
                         }
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "12:00",
@@ -182,7 +213,8 @@ var scheduleData = [
                 "event": "Lunch",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "13:30",
@@ -191,19 +223,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "2A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "2B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "2C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "2D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
@@ -213,9 +245,9 @@ var scheduleData = [
                             "endTime": "13:55",
                             "papers": [
                                 59,
-                                23,
                                 134,
-                                29
+                                29,
+                                23
                             ]
                         },
                         {
@@ -223,9 +255,9 @@ var scheduleData = [
                             "endTime": "14:20",
                             "papers": [
                                 42,
-                                19,
                                 92,
-                                116
+                                116,
+                                19
                             ]
                         },
                         {
@@ -233,23 +265,34 @@ var scheduleData = [
                             "endTime": "14:45",
                             "papers": [
                                 71,
-                                141,
                                 113,
-                                107
+                                107,
+                                141
                             ]
                         }
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
+            },
+            {
+                "startTime": "14:30",
+                "endTime": "15:30",
+                "event": "Registration",
+                "talks": null,
+                "url": null,
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "14:45",
                 "endTime": "15:15",
-                "event": "Coffee break",
+                "event": "Coffee/Tea break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "15:15",
@@ -257,7 +300,8 @@ var scheduleData = [
                 "event": "Plenary \"Silent gesture: Uncovering biases that shape linguistic conventions\" (Marieke Schouwstra)",
                 "talks": null,
                 "url": "plenary.html?speaker=schouwstra",
-                "venue": "Ballroom A"
+                "venue": "Ballroom B",
+                "extra": "ASL interpretation"
             },
             {
                 "startTime": "16:20",
@@ -265,7 +309,8 @@ var scheduleData = [
                 "event": "Flash talks",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "Ballroom B",
+                "extra": null
             },
             {
                 "startTime": "17:30",
@@ -273,7 +318,8 @@ var scheduleData = [
                 "event": "Poster reception",
                 "talks": null,
                 "url": null,
-                "venue": "TBA"
+                "venue": "Grand Terrace",
+                "extra": null
             }
         ]
     },
@@ -283,20 +329,31 @@ var scheduleData = [
         "date": "Monday, May 20, 2024",
         "events": [
             {
+                "startTime": "08:30",
+                "endTime": "10:20",
+                "event": "Registration",
+                "talks": null,
+                "url": null,
+                "venue": "",
+                "extra": null
+            },
+            {
                 "startTime": "08:45",
                 "endTime": "09:45",
                 "event": "Plenary \"Global and local studies of genetic and linguistic evolution\" (Nicole Creanza)",
                 "talks": null,
                 "url": "plenary.html?speaker=creanza",
-                "venue": "Ballroom A"
+                "venue": "Ballroom B",
+                "extra": null
             },
             {
                 "startTime": "09:45",
                 "endTime": "10:15",
-                "event": "Coffee break",
+                "event": "Coffee/Tea/Snacks break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "10:15",
@@ -305,19 +362,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "3A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "3B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "3C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "3D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
@@ -327,9 +384,9 @@ var scheduleData = [
                             "endTime": "10:40",
                             "papers": [
                                 106,
-                                85,
                                 51,
-                                145
+                                145,
+                                85
                             ]
                         },
                         {
@@ -337,9 +394,9 @@ var scheduleData = [
                             "endTime": "11:05",
                             "papers": [
                                 114,
-                                104,
                                 98,
-                                18
+                                18,
+                                104
                             ]
                         },
                         {
@@ -347,9 +404,9 @@ var scheduleData = [
                             "endTime": "11:30",
                             "papers": [
                                 53,
-                                124,
                                 125,
-                                7
+                                7,
+                                124
                             ]
                         },
                         {
@@ -357,15 +414,16 @@ var scheduleData = [
                             "endTime": "11:55",
                             "papers": [
                                 24,
-                                128,
                                 34,
-                                null
+                                null,
+                                128
                             ]
                         }
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "12:00",
@@ -373,7 +431,8 @@ var scheduleData = [
                 "event": "Lunch",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "14:00",
@@ -382,19 +441,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "4A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "4B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "4C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "4D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
@@ -404,53 +463,55 @@ var scheduleData = [
                             "endTime": "14:25",
                             "papers": [
                                 73,
-                                58,
                                 127,
-                                101
+                                101,
+                                58
                             ]
                         },
                         {
                             "startTime": "14:25",
                             "endTime": "14:50",
                             "papers": [
-                                45,
-                                154,
+                                126,
                                 142,
-                                146
+                                146,
+                                154
                             ]
                         },
                         {
                             "startTime": "14:50",
                             "endTime": "15:15",
                             "papers": [
-                                126,
-                                16,
+                                63,
                                 115,
-                                80
+                                80,
+                                16
                             ]
                         },
                         {
                             "startTime": "15:15",
                             "endTime": "15:40",
                             "papers": [
-                                63,
-                                147,
+                                null,
                                 148,
-                                118
+                                118,
+                                147
                             ]
                         }
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "15:40",
                 "endTime": "16:10",
-                "event": "Coffee break",
+                "event": "Coffee/Tea/Snacks break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "16:10",
@@ -459,19 +520,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "5A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "5B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "5C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "5D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
@@ -481,19 +542,19 @@ var scheduleData = [
                             "endTime": "16:35",
                             "papers": [
                                 79,
-                                10,
                                 54,
-                                37
+                                37,
+                                10
                             ]
                         },
                         {
                             "startTime": "16:35",
                             "endTime": "17:00",
                             "papers": [
-                                81,
-                                94,
+                                38,
                                 65,
-                                22
+                                22,
+                                94
                             ]
                         },
                         {
@@ -501,15 +562,16 @@ var scheduleData = [
                             "endTime": "17:25",
                             "papers": [
                                 87,
-                                66,
                                 44,
-                                41
+                                41,
+                                66
                             ]
                         }
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "17:25",
@@ -517,7 +579,8 @@ var scheduleData = [
                 "event": "Break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "17:30",
@@ -525,7 +588,8 @@ var scheduleData = [
                 "event": "Business meeting",
                 "talks": null,
                 "url": null,
-                "venue": "Ballroom A"
+                "venue": "Ballroom B",
+                "extra": null
             },
             {
                 "startTime": "18:45",
@@ -533,7 +597,8 @@ var scheduleData = [
                 "event": "Conference dinner",
                 "talks": null,
                 "url": "https://evolang2024.ticketspice.com/evolang-2024-excursions",
-                "venue": "23 N. Pinckney St., Suite 210"
+                "venue": "23 N. Pinckney St., Suite 210",
+                "extra": null
             },
             {
                 "startTime": "21:00",
@@ -541,7 +606,8 @@ var scheduleData = [
                 "event": "Karaoke",
                 "talks": null,
                 "url": null,
-                "venue": "23 N. Pinckney St., Suite 210"
+                "venue": "23 N. Pinckney St., Suite 210",
+                "extra": null
             }
         ]
     },
@@ -556,15 +622,17 @@ var scheduleData = [
                 "event": "Plenary \"The context of transmission matters in the creation and evolution of language\" (Marie Coppola)",
                 "talks": null,
                 "url": "plenary.html?speaker=coppola",
-                "venue": "Ballroom A"
+                "venue": "Ballroom B",
+                "extra": "ASL interpretation"
             },
             {
                 "startTime": "10:00",
                 "endTime": "10:30",
-                "event": "Coffee break",
+                "event": "Coffee/Tea/Snacks break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "10:30",
@@ -573,19 +641,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "6A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "6B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "6C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "6D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
@@ -633,7 +701,8 @@ var scheduleData = [
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "12:15",
@@ -641,7 +710,8 @@ var scheduleData = [
                 "event": "Lunch",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "14:00",
@@ -650,19 +720,19 @@ var scheduleData = [
                 "talks": {
                     "tracks": [
                         {
-                            "name": "Ballroom A",
+                            "name": "7A \u2013 Ballroom A",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom B",
+                            "name": "7B \u2013 Ballroom B",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom C",
+                            "name": "7C \u2013 Ballroom C",
                             "extra": null
                         },
                         {
-                            "name": "Ballroom D",
+                            "name": "7D \u2013 Ballroom D",
                             "extra": null
                         }
                     ],
@@ -710,7 +780,8 @@ var scheduleData = [
                     ]
                 },
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "15:40",
@@ -718,7 +789,8 @@ var scheduleData = [
                 "event": "Break",
                 "talks": null,
                 "url": null,
-                "venue": ""
+                "venue": "",
+                "extra": null
             },
             {
                 "startTime": "16:00",
@@ -726,7 +798,8 @@ var scheduleData = [
                 "event": "Award ceremony & Closing remarks",
                 "talks": null,
                 "url": null,
-                "venue": "Ballroom A"
+                "venue": "Ballroom B",
+                "extra": null
             }
         ]
     }
@@ -750,13 +823,13 @@ var posterData = [
             102,
             11,
             108,
+            155,
             139,
             25,
             26,
             6,
             13,
             76,
-            151,
             123,
             136,
             110,
@@ -767,7 +840,6 @@ var posterData = [
             83,
             70,
             86,
-            131,
             111,
             32,
             140,

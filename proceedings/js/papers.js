@@ -45,7 +45,7 @@ $(document).ready(function() {
 		$("#summary").html(paperInfo.summary);
 
 		if (paperInfo.license === undefined || paperInfo.license == null || paperInfo.license == "NONE" || paperInfo.license=="NO PUBLISH") {
-			// $("#nopublish").show(); // TODO
+			$("#nopublish").show();
 			$("#dlLink").attr("href","#");
 			//$("#abstractText").html("There is no summary available for this paper.");
 		} else {
@@ -79,6 +79,31 @@ $(document).ready(function() {
 		$("#bibtex").attr("href", paperInfo.citations.bibtex);
 		$("#ris").attr("href", paperInfo.citations.ris);
 		$("#copyCitation").attr("data-content", fullcite);
+
+		function escape(s) { return $("<div>").text(s).html(); }
+
+		calendar_description = ((paperInfo.prestype =="talk") ? "Podium presentation" : "Poster presentation") + "\n\n[strong]" + paperInfo.title + "[/strong]\n[i]" + $('#authlist').text().replace("  ", " ") + "[/i]\n\n" + paperInfo.summary;
+
+		calendar_html = $('#calendarButtonDiv')
+		calendar_html.empty();
+		calendar_html.html(
+			`<add-to-calendar-button
+				name="Evolang XV: ` + escape(paperInfo.title) +  `"
+				description="` + escape(calendar_description) + `"
+				startDate="` + escape(paperInfo.calendar_startDate) + `"
+				startTime="` + escape(paperInfo.calendar_startTime) + `"
+				endTime="` + escape(paperInfo.calendar_endTime) + `"
+				timeZone="America/Chicago"
+				location="` + escape(paperInfo.location) + `"
+				options="'Apple','Google','Outlook.com','Yahoo','MicrosoftTeams','Microsoft365','iCal'"
+				listStyle="dropup-static"
+				buttonStyle="round"
+				hideBackground
+				hideCheckmark
+				size="0"
+				pastDateHandling="disable"
+			></add-to-calendar-button>`
+		);
 
 		$('[data-toggle="tooltip"]').tooltip();
 

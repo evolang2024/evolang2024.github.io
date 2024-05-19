@@ -1,25 +1,25 @@
-TY  - CONF
-T1  - Simulating Dependency Length Minimization Using Neural-Network Based Learning and Communication
-AU  - Zhang, Y.
-AU  - Verhoef, T.
-AU  - Lian, Y.
-AU  - Noord, G. v.
-AU  - Bisazza, A.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=100
-KW  - neural-network based simulations, language universals, dependency length minimization
-ER  -
+        TY  - CONF
+        T1  - Simulating dependency length minimization using neural-network based learning and communication
+        AU  - Zhang, Y.
+		AU  - Verhoef, T.
+		AU  - Lian, Y.
+		AU  - Noord, G. v.
+		AU  - Bisazza, A.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=100
+        KW  - neural-network based simulations, language universals, dependency length minimization
+        ER  -

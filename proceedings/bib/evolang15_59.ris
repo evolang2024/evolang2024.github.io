@@ -1,24 +1,24 @@
-TY  - CONF
-T1  - Learnability Effects in Children: Are More Structured Languages Easier to Learn?
-AU  - Lammertink, I.
-AU  - De Heer Kloots, M.
-AU  - Bazioni, M.
-AU  - Raviv, L.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=59
-KW  - learnability, child language acquisition, artificial language learning, morphological complexity, compositional grammar
-ER  -
+        TY  - CONF
+        T1  - Learnability effects in children: Are more structured languages easier to learn?
+        AU  - Lammertink, I.
+		AU  - De Heer Kloots, M.
+		AU  - Bazioni, M.
+		AU  - Raviv, L.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=59
+        KW  - learnability, child language acquisition, artificial language learning, morphological complexity, compositional grammar
+        ER  -

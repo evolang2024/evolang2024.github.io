@@ -1,28 +1,28 @@
-TY  - CONF
-T1  - Does Syntactic Alignment Predict Cooperation? A Corpus Study of the Prisoner's Dilemma
-AU  - Placiński, M.
-AU  - Matzinger, T.
-AU  - Baumann, A.
-AU  - Żywiczyński, P.
-AU  - Hartmann, S.
-AU  - Boehm, I.
-AU  - Pleyer, M.
-AU  - Wacewicz, S.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=46
-KW  - cooperation, alignment, prisoner's dilemma
-ER  -
+        TY  - CONF
+        T1  - Does syntactic alignment predict cooperation? A corpus study of the Prisoner's Dilemma
+        AU  - Placiński, M.
+		AU  - Matzinger, T.
+		AU  - Baumann, A.
+		AU  - Żywiczyński, P.
+		AU  - Hartmann, S.
+		AU  - Boehm, I.
+		AU  - Pleyer, M.
+		AU  - Wacewicz, S.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=46
+        KW  - cooperation, alignment, prisoner's dilemma
+        ER  -

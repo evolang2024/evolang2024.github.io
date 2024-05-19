@@ -1,21 +1,21 @@
-TY  - CONF
-T1  - Multivariate Genome-Wide Association Study of Language-Related Human Brain White Matter Tracts Demonstrates High Polygenicity
-AU  - Mekki, Y.
-PY  - 2024
-T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
-ED  - Nölle, J.
-ED  - Raviv, L.
-ED  - Graham, K. E.
-ED  - Hartmann, S.
-ED  - Jadoul, Y.
-ED  - Josserand, M.
-ED  - Matzinger, T.
-ED  - Mudd, K.
-ED  - Pleyer, M.
-ED  - Slonimska, A.
-ED  - Wacewicz, S.
-ED  - Watson, S.
-DO  - 10.17617/2.3587960
-UR  - https://evolang2024.github.io/proceedings/paper.html?nr=29
-KW  - imaging genetics, diffusion mri, language network, uk biobank, multivariate joint analysis
-ER  -
+        TY  - CONF
+        T1  - Multivariate genome-wide association study of language-related human brain white matter tracts demonstrates high polygenicity
+        AU  - Mekki, Y.
+        PY  - 2024
+        T2  - The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV)
+        ED  - Nölle, J.
+		ED  - Raviv, L.
+		ED  - Graham, K. E.
+		ED  - Hartmann, S.
+		ED  - Jadoul, Y.
+		ED  - Josserand, M.
+		ED  - Matzinger, T.
+		ED  - Mudd, K.
+		ED  - Pleyer, M.
+		ED  - Slonimska, A.
+		ED  - Wacewicz, S.
+		ED  - Watson, S.
+        DO  - 10.17617/2.3587960
+        UR  - https://evolang2024.github.io/proceedings/paper.html?nr=29
+        KW  - imaging genetics, diffusion mri, language network, uk biobank, multivariate joint analysis
+        ER  -

@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/custom.css">
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
     <script language="javascript" type="text/javascript" src="js/shared_data.js?t=1662530212"></script>
     <script language="javascript" type="text/javascript" src="js/papers_data.js?t=1662530212"></script>
     <script language="javascript" type="text/javascript" src="js/papers.js"></script>
@@ -133,9 +134,8 @@
               <div class="row">
                 <div class="col-md-4" style="padding-bottom:5px">
                   <div class="row">
-                    <!-- TODO -->
-                    <!--<p id="nopublish" style="display:none;margin:0" class="puboptions"><span><i class="icon-lock"></i></span> This paper is not open access. Please contact the authors.</p>-->
-                    <!-- <a id="dlLink" href="#" target="_blank" style="display:none" class="btn btn-sm btn-primary puboptions"><span><i class="icon-document2"></i></span> Download PDF</a>-->
+                    <p id="nopublish" style="display:none;margin:0" class="puboptions"><span><i class="icon-lock"></i></span> This paper is not open access. Please contact the authors.</p>
+                    <a id="dlLink" href="#" target="_blank" style="display:none" class="btn btn-sm btn-primary puboptions"><span><i class="icon-document2"></i></span> Download PDF</a>
                     <a id="licenseNCND" class="puboptions" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" style="display:none; color:#499293">
                       <span>
                         <i class="icon-creative-commons-attribution"></i>
@@ -143,13 +143,12 @@
                         <i class="icon-creative-commons-noderivs"></i>
                       </span>
                     </a>
-                    <!-- <a id="supplementaryMaterial" href="#" class="btn btn-sm btn-info puboptions" style="display:none;margin-top:5px"><span><i class="icon-layers2" ></i></span> Supplementary material</a>-->
+                    <a id="supplementaryMaterial" href="#" class="btn btn-sm btn-info puboptions" style="display:none;margin-top:5px"><span><i class="icon-layers2" ></i></span> Supplementary material</a>
                   </div>
                   <div class="row">
                     <p id="doi"></p>
                   </div>
                 </div>
-                <!-- TODO
                 <div class="col-md-4">
                   <h3 id="citelinks">
                     <span>
@@ -168,17 +167,18 @@
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" style="color:#67A5C5;font-size:25px" href="#"><i class="icon-facebook popnew"></i></a>
                     </h3>
                   
-                </div>-->
+                </div>
                
                 
               </div>
-              <div class="practicalInfo">
+              <div class="practicalInfo" style="color: white;">
                 <!--<span id="presIcon"><i class="icon-presentation"></i></span> <span id="presType">Poster</span>-->
                 <span id="presIcon"><i class="icon-mic2"></i></span> <span id="presType">?</span> | 
                 <span><i class="icon-calendar"></i></span> <span id="thedate">?</span> | 
                 <span><i class="icon-clock2"></i></span> <span id="thetime">?</span> | 
                 <span><i class="icon-location"></i></span> <span id="thelocation">?</span>
               </div>
+              <div id="calendarButtonDiv"></div>
             </div>
           </div>
         </div>

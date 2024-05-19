@@ -10,7 +10,7 @@ var plenariesData = {
         "image": "schouwstra.jpg",
         "date": "Sunday, May 19, 2024",
         "time": "15:15",
-        "location": "Ballroom A"
+        "location": "Ballroom B"
     },
     "enfield": {
         "name": "Nick Enfield",
@@ -36,7 +36,7 @@ var plenariesData = {
         "image": "coppola.jpg",
         "date": "Tuesday, May 21, 2024",
         "time": "09:00",
-        "location": "Ballroom A"
+        "location": "Ballroom B"
     },
     "mufwene": {
         "name": "Salikoko Mufwene",
@@ -49,7 +49,7 @@ var plenariesData = {
         "image": "mufwene.jpg",
         "date": "Sunday, May 19, 2024",
         "time": "08:45",
-        "location": "Ballroom A"
+        "location": "Ballroom B"
     },
     "creanza": {
         "name": "Nicole Creanza",
@@ -62,6 +62,6 @@ var plenariesData = {
         "image": "creanza.jpg",
         "date": "Monday, May 20, 2024",
         "time": "08:45",
-        "location": "Ballroom A"
+        "location": "Ballroom B"
     }
 }
