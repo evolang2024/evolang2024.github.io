@@ -76,7 +76,7 @@ function talkRow(talks, slot) {
     
     slot.papers.forEach((paper, i) => {
         var paperInfo = papersData[paper];
-        var track_p_xs = $("<p>", {"class": "text-uppercase probootstrap-uppercase"}).append(
+        var track_p_xs = $("<p>", {"class": "text-uppercase probootstrap-uppercase visible-xs"}).append(
                             $("<i>").text(
                                 talks.tracks[i].name
                             )
