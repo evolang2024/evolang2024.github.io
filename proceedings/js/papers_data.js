@@ -2455,44 +2455,6 @@ var papersData = {
         "calendar_endTime": "15:15",
         "extra": null
     },
-    "81": {
-        "title": "The Dothraki experiment: Network topology and the linguistic niche hypothesis",
-        "authors": [
-            "Simon Devylder",
-            "Malte Lau Petersen",
-            "Kristian Tyl\u00e9n"
-        ],
-        "correspemails": [
-            "simon.devylder@gmail.com",
-            null,
-            null
-        ],
-        "download": "papers/evolang15_paper_81.pdf",
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "bib/evolang15_81.bib",
-            "ris": "bib/evolang15_81.ris",
-            "copy": "Devylder, S., Petersen, M. L. & Tyl\u00e9n, K. (2024). The Dothraki experiment: Network topology and the linguistic niche hypothesis. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
-        },
-        "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+Dothraki+experiment%3A+Network+topology+and+the+linguistic+niche+hypothesis%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D81",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D81&quote=Check+out+this+paper+from+Evolang+XV%3A+%22The+Dothraki+experiment%3A+Network+topology+and+the+linguistic+niche+hypothesis%22+%23EvolangXV"
-        },
-        "summary": "The Linguistic Niche Hypothesis suggests that diversity among the world\u2019s languages is based on mechanisms of social dynamics under cognitive constraints. Here we present an experimental study to investigate the impact of language proficiency and social network structure on language change. We predict that a high proportion of L2 speakers in combination with more fragmented social networks yields higher probabilities of morphosyntactic reduction. We test these predictions in a game-like experiment where high and low proficiency speakers of Dothraki (a constructed language from \u201cGame of Thrones\u201d) take turns describing simple scenes using a chat interface. Participants are organized in micro-societies in four conditions combining two experimental factors: high vs. low proportion of low- proficiency speakers, and densely connected (everyone communicates with everyone) vs. sparsely connected networks (participants only communicate with their close neighbors). The outcome of interest is the morphosyntactic complexity of Dothraki sentences participants send to each other",
-        "keywords": [
-            "the linguistic niche hypothesis, social network topology, morphosyntactic complexity, language change, experiment"
-        ],
-        "weburl": "paper.html?nr=81",
-        "date": "Monday, May 20, 2024",
-        "time": "16:35",
-        "location": "Ballroom A (Track 1)",
-        "prestype": "talk",
-        "license": "CC BY-NC-ND 4.0",
-        "calendar_startDate": "2024-05-20",
-        "calendar_startTime": "16:35",
-        "calendar_endTime": "17:00",
-        "extra": null
-    },
     "82": {
         "title": "Artifacts, analogy, and metaphor: Inferring the cognitive foundations of metaphor from an archaeological and comparative perspective",
         "authors": [
