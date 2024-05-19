@@ -10,8 +10,8 @@ about:
     
                 <a class='btn btn-primary mt-3' style='width: 30%; display:block; margin: 0 auto;' href='https://evolang2024.ticketspice.com/evolang-2024-excursions'>Get Excursion Tickets</a>
 
-                <h4 style='text-align:center; margin-top:20px;'>View Schedule:</h4> 
-                <a class='btn btn-primary mt-3' style='width: 30%; display:block; margin: 0 auto;' href='https://www.dropbox.com/scl/fo/eicovygp7urzznyib2u10/AAAaMklNf6DhU1BM45z9Mcs?rlkey=0t39a60asg10nlokcwcxyhdl9&st=18xlbv4s&dl=0'>Schedules as PDFs</a>
+                <h4 style='text-align:center; margin-top:20px;'>Download PDFs</h4> 
+                <a class='btn btn-primary mt-3' style='width: 30%; display:block; margin: 0 auto;' href='https://www.dropbox.com/scl/fo/eicovygp7urzznyib2u10/AAAaMklNf6DhU1BM45z9Mcs?rlkey=0t39a60asg10nlokcwcxyhdl9&st=18xlbv4s&dl=0'>Schedules & Food info as PDFs</a>
 
 
     <br> EVOLANG is the largest international meeting for researchers working on the origin and evolution of language. The conference is highly interdisciplinary, with contributions from disciplines including, but not limited to: anthropology, archeology, biology, cognitive science, genetics, linguistics, computational modeling (including mathematical, agent-based, and neural-network models), paleontology, physiology, primatology, philosophy, semiotics, and psychology. Typically, about 300 delegates attend, with representatives from all these disciplines.<br>
