@@ -416,7 +416,7 @@ var scheduleData = [
                                 24,
                                 34,
                                 null,
-                                128
+                                null
                             ]
                         }
                     ]

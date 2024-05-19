@@ -4001,52 +4001,6 @@ var papersData = {
         "calendar_endTime": "14:25",
         "extra": null
     },
-    "128": {
-        "title": "The roots of facial expressions: Pragmatic and semantic facial expressions comprise biologically-rooted facial movements",
-        "authors": [
-            "Jonas N\u00f6lle",
-            "Chaona Chen",
-            "Yichen Wu",
-            "Pablo Arias Sarah",
-            "Oliver G. B. Garrod",
-            "Philippe G. Schyns",
-            "Rachael E. Jack"
-        ],
-        "correspemails": [
-            "jonas.noelle@glasgow.ac.uk",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "download": "papers/evolang15_paper_128.pdf",
-        "supplementaryMaterial": null,
-        "citations": {
-            "bibtex": "bib/evolang15_128.bib",
-            "ris": "bib/evolang15_128.ris",
-            "copy": "N\u00f6lle, J., Chen, C., Wu, Y., Arias Sarah, P., Garrod, O. G. B., Schyns, P. G. & Jack, R. E. (2024). The roots of facial expressions: Pragmatic and semantic facial expressions comprise biologically-rooted facial movements. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
-        },
-        "sharing": {
-            "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22The+roots+of+facial+expressions%3A+Pragmatic+and+semantic+facial+expressions+comprise+biologically-rooted+facial+movements%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D128",
-            "facebook": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D128&quote=Check+out+this+paper+from+Evolang+XV%3A+%22The+roots+of+facial+expressions%3A+Pragmatic+and+semantic+facial+expressions+comprise+biologically-rooted+facial+movements%22+%23EvolangXV"
-        },
-        "summary": "Facial expressions are essential to human social communication. Their origins and functions, however, are topics of debate within evolutionary theories. Darwin suggested these expressions evolved from sensory-regulating facial movements. Building on this, we analyzed facial movements from two studies where Western and East Asian participants categorized facial animations by basic emotions and conversational messages (e.g., happy or confused). Results showed that expansion facial movements, like raised eyebrows, predominantly signify high arousal and positive messages, whereas contraction movements, like squinting, typically indicate negative messages. Interestingly, these facial cues also influence spoken language perception; for example, expansive movements convey confidence and larger quantities, while contractions suggest doubt and smaller amounts. Despite cross-cultural differences in emotion expression, these systematic expansion and contraction patterns remain consistent. Our findings indicate that these biologically-driven movements are foundational for the development of semantic and pragmatic facial signals that could have supported the early multimodal beginnings of language.",
-        "keywords": [
-            "facial expressions, multimodality, systematicity, iconicity, emotions"
-        ],
-        "weburl": "paper.html?nr=128",
-        "date": "Monday, May 20, 2024",
-        "time": "11:30",
-        "location": "Ballroom D (Track 4)",
-        "prestype": "talk",
-        "license": "CC BY-NC-ND 4.0",
-        "calendar_startDate": "2024-05-20",
-        "calendar_startTime": "11:30",
-        "calendar_endTime": "11:55",
-        "extra": null
-    },
     "129": {
         "title": "Differences in distributional structure can lead to differences in similarity biases",
         "authors": [
