@@ -741,40 +741,40 @@ var scheduleData = [
                             "startTime": "14:00",
                             "endTime": "14:25",
                             "papers": [
-                                27,
+                                null,
                                 31,
                                 135,
-                                null
+                                27
                             ]
                         },
                         {
                             "startTime": "14:25",
                             "endTime": "14:50",
                             "papers": [
-                                17,
+                                null,
                                 129,
                                 96,
-                                null
+                                17
                             ]
                         },
                         {
                             "startTime": "14:50",
                             "endTime": "15:15",
                             "papers": [
-                                132,
+                                null,
                                 133,
                                 100,
-                                null
+                                132
                             ]
                         },
                         {
                             "startTime": "15:15",
                             "endTime": "15:40",
                             "papers": [
-                                153,
+                                null,
                                 84,
                                 15,
-                                null
+                                153
                             ]
                         }
                     ]
