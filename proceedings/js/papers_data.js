@@ -433,7 +433,7 @@ var papersData = {
         "correspemails": [
             null
         ],
-        "download": "papers/evolang15_paper_19.pdf",
+        "download": null,
         "supplementaryMaterial": null,
         "citations": {
             "bibtex": "bib/evolang15_19.bib",
@@ -453,7 +453,7 @@ var papersData = {
         "time": "13:55",
         "location": "Ballroom D (Track 4)",
         "prestype": "talk",
-        "license": "CC BY-NC-ND 4.0",
+        "license": null,
         "calendar_startDate": "2024-05-19",
         "calendar_startTime": "13:55",
         "calendar_endTime": "14:20",
