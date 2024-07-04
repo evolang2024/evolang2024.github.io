@@ -4420,7 +4420,7 @@ var papersData = {
         "authors": [
             "Emily Davis",
             "Robert Kluender",
-            "Timothy Gentner"
+            "Timothy Q Gentner"
         ],
         "correspemails": [
             "e4davis@ucsd.edu",
@@ -4432,7 +4432,7 @@ var papersData = {
         "citations": {
             "bibtex": "bib/evolang15_142.bib",
             "ris": "bib/evolang15_142.ris",
-            "copy": "Davis, E., Kluender, R. & Gentner, T. (2024). Starlings recognize simple dependency patterns. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
+            "copy": "Davis, E., Kluender, R. & Gentner, T. Q. (2024). Starlings recognize simple dependency patterns. In N\u00f6lle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). doi:10.17617/2.3587960."
         },
         "sharing": {
             "twitter": "https://twitter.com/intent/tweet?text=Check+out+this+paper+from+Evolang+XV%3A+%22Starlings+recognize+simple+dependency+patterns%22&hashtags=EvolangXV&url=https%3A%2F%2Fevolang2024.github.io%2Fproceedings%2Fpaper.html%3Fnr%3D142",
